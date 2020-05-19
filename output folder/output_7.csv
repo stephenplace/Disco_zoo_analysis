@@ -1,0 +1,845 @@
+animal_1,animal_2,chosen_1,chosen_2,win_rate
+diplodocus,stegosaurus,"[1, 7, 8, 12]","[2, 3, 6, 9]",0.42
+diplodocus,stegosaurus,"[1, 7, 8, 12]","[13, 14, 17, 20]",1.0
+diplodocus,stegosaurus,"[1, 7, 8, 12]","[17, 18, 21, 24]",1.0
+diplodocus,stegosaurus,"[1, 7, 8, 12]","[18, 19, 22, 25]",1.0
+diplodocus,stegosaurus,"[2, 8, 9, 13]","[3, 4, 7, 10]",0.75
+diplodocus,stegosaurus,"[2, 8, 9, 13]","[17, 18, 21, 24]",1.0
+diplodocus,stegosaurus,"[2, 8, 9, 13]","[18, 19, 22, 25]",1.0
+diplodocus,stegosaurus,"[3, 9, 10, 14]","[12, 13, 16, 19]",1.0
+diplodocus,stegosaurus,"[3, 9, 10, 14]","[17, 18, 21, 24]",1.0
+diplodocus,stegosaurus,"[3, 9, 10, 14]","[18, 19, 22, 25]",1.0
+diplodocus,stegosaurus,"[6, 12, 13, 17]","[3, 4, 7, 10]",0.62
+diplodocus,stegosaurus,"[6, 12, 13, 17]","[7, 8, 11, 14]",0.66
+diplodocus,stegosaurus,"[6, 12, 13, 17]","[18, 19, 22, 25]",1.0
+diplodocus,stegosaurus,"[7, 13, 14, 18]","[2, 3, 6, 9]",1.0
+diplodocus,stegosaurus,"[7, 13, 14, 18]","[8, 9, 12, 15]",1.0
+diplodocus,stegosaurus,"[8, 14, 15, 19]","[2, 3, 6, 9]",0.43
+diplodocus,stegosaurus,"[8, 14, 15, 19]","[3, 4, 7, 10]",0.36
+diplodocus,stegosaurus,"[8, 14, 15, 19]","[17, 18, 21, 24]",1.0
+diplodocus,stegosaurus,"[11, 17, 18, 22]","[2, 3, 6, 9]",1.0
+diplodocus,stegosaurus,"[11, 17, 18, 22]","[3, 4, 7, 10]",1.0
+diplodocus,stegosaurus,"[11, 17, 18, 22]","[8, 9, 12, 15]",1.0
+diplodocus,stegosaurus,"[11, 17, 18, 22]","[12, 13, 16, 19]",1.0
+diplodocus,stegosaurus,"[12, 18, 19, 23]","[2, 3, 6, 9]",1.0
+diplodocus,stegosaurus,"[12, 18, 19, 23]","[3, 4, 7, 10]",1.0
+diplodocus,stegosaurus,"[12, 18, 19, 23]","[7, 8, 11, 14]",1.0
+diplodocus,stegosaurus,"[12, 18, 19, 23]","[13, 14, 17, 20]",1.0
+diplodocus,stegosaurus,"[13, 19, 20, 24]","[2, 3, 6, 9]",0.43
+diplodocus,stegosaurus,"[13, 19, 20, 24]","[3, 4, 7, 10]",0.57
+diplodocus,stegosaurus,"[13, 19, 20, 24]","[7, 8, 11, 14]",0.53
+diplodocus,stegosaurus,"[13, 19, 20, 24]","[8, 9, 12, 15]",0.47
+pairing average win rate,0.8413333333333333, , , 
+diplodocus,raptor,"[1, 7, 8, 12]","[3, 4, 9, 15]",0.75
+diplodocus,raptor,"[1, 7, 8, 12]","[13, 14, 19, 25]",1.0
+diplodocus,raptor,"[2, 8, 9, 13]","[6, 7, 12, 18]",1.0
+diplodocus,raptor,"[2, 8, 9, 13]","[11, 12, 17, 23]",1.0
+diplodocus,raptor,"[3, 9, 10, 14]","[1, 2, 7, 13]",1.0
+diplodocus,raptor,"[3, 9, 10, 14]","[6, 7, 12, 18]",0.87
+diplodocus,raptor,"[3, 9, 10, 14]","[7, 8, 13, 19]",1.0
+diplodocus,raptor,"[3, 9, 10, 14]","[11, 12, 17, 23]",0.62
+diplodocus,raptor,"[3, 9, 10, 14]","[12, 13, 18, 24]",1.0
+diplodocus,raptor,"[6, 12, 13, 17]","[2, 3, 8, 14]",1.0
+diplodocus,raptor,"[6, 12, 13, 17]","[3, 4, 9, 15]",1.0
+diplodocus,raptor,"[6, 12, 13, 17]","[8, 9, 14, 20]",1.0
+diplodocus,raptor,"[7, 13, 14, 18]","[3, 4, 9, 15]",1.0
+diplodocus,raptor,"[7, 13, 14, 18]","[11, 12, 17, 23]",1.0
+diplodocus,raptor,"[8, 14, 15, 19]","[1, 2, 7, 13]",1.0
+diplodocus,raptor,"[8, 14, 15, 19]","[6, 7, 12, 18]",0.86
+diplodocus,raptor,"[8, 14, 15, 19]","[11, 12, 17, 23]",0.68
+diplodocus,raptor,"[8, 14, 15, 19]","[12, 13, 18, 24]",1.0
+diplodocus,raptor,"[11, 17, 18, 22]","[1, 2, 7, 13]",1.0
+diplodocus,raptor,"[11, 17, 18, 22]","[2, 3, 8, 14]",0.62
+diplodocus,raptor,"[11, 17, 18, 22]","[3, 4, 9, 15]",0.34
+diplodocus,raptor,"[11, 17, 18, 22]","[7, 8, 13, 19]",1.0
+diplodocus,raptor,"[11, 17, 18, 22]","[8, 9, 14, 20]",0.55
+diplodocus,raptor,"[11, 17, 18, 22]","[13, 14, 19, 25]",1.0
+diplodocus,raptor,"[12, 18, 19, 23]","[1, 2, 7, 13]",1.0
+diplodocus,raptor,"[12, 18, 19, 23]","[2, 3, 8, 14]",0.78
+diplodocus,raptor,"[12, 18, 19, 23]","[3, 4, 9, 15]",0.75
+diplodocus,raptor,"[12, 18, 19, 23]","[8, 9, 14, 20]",0.77
+diplodocus,raptor,"[13, 19, 20, 24]","[2, 3, 8, 14]",1.0
+diplodocus,raptor,"[13, 19, 20, 24]","[3, 4, 9, 15]",1.0
+diplodocus,raptor,"[13, 19, 20, 24]","[6, 7, 12, 18]",1.0
+diplodocus,raptor,"[13, 19, 20, 24]","[11, 12, 17, 23]",1.0
+pairing average win rate,0.8934375000000001, , , 
+diplodocus,t-rex,"[1, 7, 8, 12]","[3, 13, 14]",1.0
+diplodocus,t-rex,"[1, 7, 8, 12]","[4, 14, 15]",1.0
+diplodocus,t-rex,"[1, 7, 8, 12]","[6, 16, 17]",0.58
+diplodocus,t-rex,"[1, 7, 8, 12]","[9, 19, 20]",0.78
+diplodocus,t-rex,"[1, 7, 8, 12]","[11, 21, 22]",0.69
+diplodocus,t-rex,"[1, 7, 8, 12]","[13, 23, 24]",1.0
+diplodocus,t-rex,"[1, 7, 8, 12]","[14, 24, 25]",1.0
+diplodocus,t-rex,"[2, 8, 9, 13]","[1, 11, 12]",0.69
+diplodocus,t-rex,"[2, 8, 9, 13]","[4, 14, 15]",1.0
+diplodocus,t-rex,"[2, 8, 9, 13]","[6, 16, 17]",0.77
+diplodocus,t-rex,"[2, 8, 9, 13]","[7, 17, 18]",0.8
+diplodocus,t-rex,"[2, 8, 9, 13]","[11, 21, 22]",0.58
+diplodocus,t-rex,"[2, 8, 9, 13]","[12, 22, 23]",0.77
+diplodocus,t-rex,"[2, 8, 9, 13]","[14, 24, 25]",1.0
+diplodocus,t-rex,"[3, 9, 10, 14]","[1, 11, 12]",0.91
+diplodocus,t-rex,"[3, 9, 10, 14]","[2, 12, 13]",1.0
+diplodocus,t-rex,"[3, 9, 10, 14]","[6, 16, 17]",0.8
+diplodocus,t-rex,"[3, 9, 10, 14]","[7, 17, 18]",0.96
+diplodocus,t-rex,"[3, 9, 10, 14]","[8, 18, 19]",0.92
+diplodocus,t-rex,"[3, 9, 10, 14]","[11, 21, 22]",0.62
+diplodocus,t-rex,"[3, 9, 10, 14]","[12, 22, 23]",0.93
+diplodocus,t-rex,"[3, 9, 10, 14]","[13, 23, 24]",0.72
+diplodocus,t-rex,"[6, 12, 13, 17]","[4, 14, 15]",1.0
+diplodocus,t-rex,"[6, 12, 13, 17]","[8, 18, 19]",1.0
+diplodocus,t-rex,"[6, 12, 13, 17]","[9, 19, 20]",1.0
+diplodocus,t-rex,"[6, 12, 13, 17]","[11, 21, 22]",1.0
+diplodocus,t-rex,"[6, 12, 13, 17]","[14, 24, 25]",1.0
+diplodocus,t-rex,"[7, 13, 14, 18]","[1, 11, 12]",0.91
+diplodocus,t-rex,"[7, 13, 14, 18]","[6, 16, 17]",0.68
+diplodocus,t-rex,"[7, 13, 14, 18]","[9, 19, 20]",1.0
+diplodocus,t-rex,"[7, 13, 14, 18]","[11, 21, 22]",0.89
+diplodocus,t-rex,"[7, 13, 14, 18]","[12, 22, 23]",0.91
+diplodocus,t-rex,"[8, 14, 15, 19]","[1, 11, 12]",0.93
+diplodocus,t-rex,"[8, 14, 15, 19]","[2, 12, 13]",1.0
+diplodocus,t-rex,"[8, 14, 15, 19]","[6, 16, 17]",0.96
+diplodocus,t-rex,"[8, 14, 15, 19]","[7, 17, 18]",0.95
+diplodocus,t-rex,"[8, 14, 15, 19]","[11, 21, 22]",0.72
+diplodocus,t-rex,"[8, 14, 15, 19]","[12, 22, 23]",0.91
+diplodocus,t-rex,"[8, 14, 15, 19]","[13, 23, 24]",0.87
+diplodocus,t-rex,"[11, 17, 18, 22]","[2, 12, 13]",1.0
+diplodocus,t-rex,"[11, 17, 18, 22]","[3, 13, 14]",1.0
+diplodocus,t-rex,"[11, 17, 18, 22]","[4, 14, 15]",1.0
+diplodocus,t-rex,"[11, 17, 18, 22]","[9, 19, 20]",1.0
+diplodocus,t-rex,"[11, 17, 18, 22]","[13, 23, 24]",1.0
+diplodocus,t-rex,"[11, 17, 18, 22]","[14, 24, 25]",1.0
+diplodocus,t-rex,"[12, 18, 19, 23]","[3, 13, 14]",1.0
+diplodocus,t-rex,"[12, 18, 19, 23]","[4, 14, 15]",1.0
+diplodocus,t-rex,"[12, 18, 19, 23]","[6, 16, 17]",0.62
+diplodocus,t-rex,"[12, 18, 19, 23]","[11, 21, 22]",0.65
+diplodocus,t-rex,"[12, 18, 19, 23]","[14, 24, 25]",1.0
+diplodocus,t-rex,"[13, 19, 20, 24]","[1, 11, 12]",0.92
+diplodocus,t-rex,"[13, 19, 20, 24]","[4, 14, 15]",1.0
+diplodocus,t-rex,"[13, 19, 20, 24]","[6, 16, 17]",0.89
+diplodocus,t-rex,"[13, 19, 20, 24]","[7, 17, 18]",0.92
+diplodocus,t-rex,"[13, 19, 20, 24]","[11, 21, 22]",0.64
+diplodocus,t-rex,"[13, 19, 20, 24]","[12, 22, 23]",0.93
+pairing average win rate,0.8896428571428572, , , 
+diplodocus,triceratops,"[1, 7, 8, 12]","[3, 10, 13]",1.0
+diplodocus,triceratops,"[1, 7, 8, 12]","[6, 13, 16]",1.0
+diplodocus,triceratops,"[1, 7, 8, 12]","[11, 18, 21]",1.0
+diplodocus,triceratops,"[1, 7, 8, 12]","[13, 20, 23]",1.0
+diplodocus,triceratops,"[2, 8, 9, 13]","[7, 14, 17]",1.0
+diplodocus,triceratops,"[2, 8, 9, 13]","[11, 18, 21]",1.0
+diplodocus,triceratops,"[2, 8, 9, 13]","[12, 19, 22]",1.0
+diplodocus,triceratops,"[3, 9, 10, 14]","[1, 8, 11]",1.0
+diplodocus,triceratops,"[3, 9, 10, 14]","[6, 13, 16]",1.0
+diplodocus,triceratops,"[3, 9, 10, 14]","[8, 15, 18]",1.0
+diplodocus,triceratops,"[3, 9, 10, 14]","[11, 18, 21]",1.0
+diplodocus,triceratops,"[3, 9, 10, 14]","[12, 19, 22]",1.0
+diplodocus,triceratops,"[3, 9, 10, 14]","[13, 20, 23]",1.0
+diplodocus,triceratops,"[6, 12, 13, 17]","[1, 8, 11]",1.0
+diplodocus,triceratops,"[6, 12, 13, 17]","[8, 15, 18]",1.0
+diplodocus,triceratops,"[6, 12, 13, 17]","[11, 18, 21]",1.0
+diplodocus,triceratops,"[7, 13, 14, 18]","[1, 8, 11]",1.0
+diplodocus,triceratops,"[7, 13, 14, 18]","[2, 9, 12]",1.0
+diplodocus,triceratops,"[7, 13, 14, 18]","[12, 19, 22]",1.0
+diplodocus,triceratops,"[8, 14, 15, 19]","[2, 9, 12]",1.0
+diplodocus,triceratops,"[8, 14, 15, 19]","[3, 10, 13]",1.0
+diplodocus,triceratops,"[8, 14, 15, 19]","[6, 13, 16]",1.0
+diplodocus,triceratops,"[8, 14, 15, 19]","[11, 18, 21]",1.0
+diplodocus,triceratops,"[8, 14, 15, 19]","[13, 20, 23]",1.0
+diplodocus,triceratops,"[11, 17, 18, 22]","[2, 9, 12]",1.0
+diplodocus,triceratops,"[11, 17, 18, 22]","[3, 10, 13]",1.0
+diplodocus,triceratops,"[11, 17, 18, 22]","[6, 13, 16]",1.0
+diplodocus,triceratops,"[11, 17, 18, 22]","[13, 20, 23]",1.0
+diplodocus,triceratops,"[12, 18, 19, 23]","[1, 8, 11]",1.0
+diplodocus,triceratops,"[12, 18, 19, 23]","[3, 10, 13]",1.0
+diplodocus,triceratops,"[12, 18, 19, 23]","[6, 13, 16]",1.0
+diplodocus,triceratops,"[12, 18, 19, 23]","[7, 14, 17]",1.0
+diplodocus,triceratops,"[13, 19, 20, 24]","[1, 8, 11]",1.0
+diplodocus,triceratops,"[13, 19, 20, 24]","[2, 9, 12]",1.0
+diplodocus,triceratops,"[13, 19, 20, 24]","[7, 14, 17]",1.0
+diplodocus,triceratops,"[13, 19, 20, 24]","[8, 15, 18]",1.0
+diplodocus,triceratops,"[13, 19, 20, 24]","[11, 18, 21]",1.0
+pairing average win rate,1.0, , , 
+diplodocus,dragon,"[1, 7, 8, 12]","[2, 9]",0.6
+diplodocus,dragon,"[1, 7, 8, 12]","[3, 10]",0.58
+diplodocus,dragon,"[1, 7, 8, 12]","[6, 13]",1.0
+diplodocus,dragon,"[1, 7, 8, 12]","[11, 18]",1.0
+diplodocus,dragon,"[1, 7, 8, 12]","[13, 20]",1.0
+diplodocus,dragon,"[1, 7, 8, 12]","[16, 23]",0.68
+diplodocus,dragon,"[1, 7, 8, 12]","[17, 24]",0.57
+diplodocus,dragon,"[1, 7, 8, 12]","[18, 25]",1.0
+diplodocus,dragon,"[2, 8, 9, 13]","[3, 10]",0.82
+diplodocus,dragon,"[2, 8, 9, 13]","[7, 14]",0.82
+diplodocus,dragon,"[2, 8, 9, 13]","[11, 18]",1.0
+diplodocus,dragon,"[2, 8, 9, 13]","[12, 19]",0.8
+diplodocus,dragon,"[2, 8, 9, 13]","[16, 23]",0.78
+diplodocus,dragon,"[2, 8, 9, 13]","[17, 24]",0.84
+diplodocus,dragon,"[2, 8, 9, 13]","[18, 25]",1.0
+diplodocus,dragon,"[3, 9, 10, 14]","[1, 8]",1.0
+diplodocus,dragon,"[3, 9, 10, 14]","[6, 13]",1.0
+diplodocus,dragon,"[3, 9, 10, 14]","[8, 15]",1.0
+diplodocus,dragon,"[3, 9, 10, 14]","[11, 18]",1.0
+diplodocus,dragon,"[3, 9, 10, 14]","[12, 19]",0.68
+diplodocus,dragon,"[3, 9, 10, 14]","[13, 20]",1.0
+diplodocus,dragon,"[3, 9, 10, 14]","[16, 23]",0.68
+diplodocus,dragon,"[3, 9, 10, 14]","[17, 24]",0.63
+diplodocus,dragon,"[3, 9, 10, 14]","[18, 25]",1.0
+diplodocus,dragon,"[6, 12, 13, 17]","[1, 8]",1.0
+diplodocus,dragon,"[6, 12, 13, 17]","[2, 9]",0.61
+diplodocus,dragon,"[6, 12, 13, 17]","[3, 10]",0.58
+diplodocus,dragon,"[6, 12, 13, 17]","[7, 14]",0.61
+diplodocus,dragon,"[6, 12, 13, 17]","[8, 15]",1.0
+diplodocus,dragon,"[6, 12, 13, 17]","[11, 18]",1.0
+diplodocus,dragon,"[6, 12, 13, 17]","[16, 23]",0.67
+diplodocus,dragon,"[6, 12, 13, 17]","[18, 25]",1.0
+diplodocus,dragon,"[7, 13, 14, 18]","[1, 8]",1.0
+diplodocus,dragon,"[7, 13, 14, 18]","[2, 9]",0.86
+diplodocus,dragon,"[7, 13, 14, 18]","[3, 10]",0.75
+diplodocus,dragon,"[7, 13, 14, 18]","[8, 15]",1.0
+diplodocus,dragon,"[7, 13, 14, 18]","[12, 19]",0.84
+diplodocus,dragon,"[7, 13, 14, 18]","[16, 23]",0.86
+diplodocus,dragon,"[7, 13, 14, 18]","[17, 24]",0.79
+diplodocus,dragon,"[8, 14, 15, 19]","[2, 9]",0.64
+diplodocus,dragon,"[8, 14, 15, 19]","[3, 10]",0.58
+diplodocus,dragon,"[8, 14, 15, 19]","[6, 13]",1.0
+diplodocus,dragon,"[8, 14, 15, 19]","[11, 18]",1.0
+diplodocus,dragon,"[8, 14, 15, 19]","[13, 20]",1.0
+diplodocus,dragon,"[8, 14, 15, 19]","[16, 23]",0.7
+diplodocus,dragon,"[8, 14, 15, 19]","[17, 24]",0.62
+diplodocus,dragon,"[8, 14, 15, 19]","[18, 25]",1.0
+diplodocus,dragon,"[11, 17, 18, 22]","[1, 8]",1.0
+diplodocus,dragon,"[11, 17, 18, 22]","[2, 9]",0.65
+diplodocus,dragon,"[11, 17, 18, 22]","[3, 10]",0.68
+diplodocus,dragon,"[11, 17, 18, 22]","[6, 13]",1.0
+diplodocus,dragon,"[11, 17, 18, 22]","[7, 14]",0.58
+diplodocus,dragon,"[11, 17, 18, 22]","[8, 15]",1.0
+diplodocus,dragon,"[11, 17, 18, 22]","[12, 19]",0.64
+diplodocus,dragon,"[11, 17, 18, 22]","[13, 20]",1.0
+diplodocus,dragon,"[11, 17, 18, 22]","[16, 23]",0.64
+diplodocus,dragon,"[12, 18, 19, 23]","[1, 8]",1.0
+diplodocus,dragon,"[12, 18, 19, 23]","[2, 9]",0.66
+diplodocus,dragon,"[12, 18, 19, 23]","[3, 10]",0.61
+diplodocus,dragon,"[12, 18, 19, 23]","[6, 13]",1.0
+diplodocus,dragon,"[12, 18, 19, 23]","[7, 14]",0.67
+diplodocus,dragon,"[12, 18, 19, 23]","[8, 15]",1.0
+diplodocus,dragon,"[12, 18, 19, 23]","[13, 20]",1.0
+diplodocus,dragon,"[12, 18, 19, 23]","[17, 24]",1.0
+diplodocus,dragon,"[13, 19, 20, 24]","[1, 8]",1.0
+diplodocus,dragon,"[13, 19, 20, 24]","[2, 9]",0.59
+diplodocus,dragon,"[13, 19, 20, 24]","[3, 10]",0.66
+diplodocus,dragon,"[13, 19, 20, 24]","[7, 14]",0.67
+diplodocus,dragon,"[13, 19, 20, 24]","[8, 15]",1.0
+diplodocus,dragon,"[13, 19, 20, 24]","[11, 18]",1.0
+diplodocus,dragon,"[13, 19, 20, 24]","[16, 23]",0.61
+diplodocus,dragon,"[13, 19, 20, 24]","[18, 25]",1.0
+pairing average win rate,0.8368055555555555, , , 
+stegosaurus,raptor,"[2, 3, 6, 9]","[7, 8, 13, 19]",1.0
+stegosaurus,raptor,"[2, 3, 6, 9]","[11, 12, 17, 23]",1.0
+stegosaurus,raptor,"[2, 3, 6, 9]","[12, 13, 18, 24]",1.0
+stegosaurus,raptor,"[2, 3, 6, 9]","[13, 14, 19, 25]",1.0
+stegosaurus,raptor,"[3, 4, 7, 10]","[8, 9, 14, 20]",1.0
+stegosaurus,raptor,"[3, 4, 7, 10]","[11, 12, 17, 23]",1.0
+stegosaurus,raptor,"[3, 4, 7, 10]","[12, 13, 18, 24]",1.0
+stegosaurus,raptor,"[3, 4, 7, 10]","[13, 14, 19, 25]",1.0
+stegosaurus,raptor,"[7, 8, 11, 14]","[3, 4, 9, 15]",1.0
+stegosaurus,raptor,"[7, 8, 11, 14]","[12, 13, 18, 24]",1.0
+stegosaurus,raptor,"[8, 9, 12, 15]","[1, 2, 7, 13]",1.0
+stegosaurus,raptor,"[8, 9, 12, 15]","[13, 14, 19, 25]",1.0
+stegosaurus,raptor,"[12, 13, 16, 19]","[2, 3, 8, 14]",1.0
+stegosaurus,raptor,"[12, 13, 16, 19]","[3, 4, 9, 15]",1.0
+stegosaurus,raptor,"[12, 13, 16, 19]","[8, 9, 14, 20]",1.0
+stegosaurus,raptor,"[13, 14, 17, 20]","[3, 4, 9, 15]",1.0
+stegosaurus,raptor,"[13, 14, 17, 20]","[6, 7, 12, 18]",1.0
+stegosaurus,raptor,"[17, 18, 21, 24]","[1, 2, 7, 13]",1.0
+stegosaurus,raptor,"[17, 18, 21, 24]","[2, 3, 8, 14]",0.7
+stegosaurus,raptor,"[17, 18, 21, 24]","[3, 4, 9, 15]",0.8
+stegosaurus,raptor,"[17, 18, 21, 24]","[7, 8, 13, 19]",1.0
+stegosaurus,raptor,"[17, 18, 21, 24]","[8, 9, 14, 20]",0.45
+stegosaurus,raptor,"[17, 18, 21, 24]","[13, 14, 19, 25]",1.0
+stegosaurus,raptor,"[18, 19, 22, 25]","[1, 2, 7, 13]",1.0
+stegosaurus,raptor,"[18, 19, 22, 25]","[2, 3, 8, 14]",0.79
+stegosaurus,raptor,"[18, 19, 22, 25]","[3, 4, 9, 15]",0.72
+stegosaurus,raptor,"[18, 19, 22, 25]","[8, 9, 14, 20]",0.38
+stegosaurus,raptor,"[18, 19, 22, 25]","[11, 12, 17, 23]",0.34
+pairing average win rate,0.8992857142857141, , , 
+stegosaurus,t-rex,"[2, 3, 6, 9]","[1, 11, 12]",1.0
+stegosaurus,t-rex,"[2, 3, 6, 9]","[4, 14, 15]",0.78
+stegosaurus,t-rex,"[2, 3, 6, 9]","[7, 17, 18]",0.95
+stegosaurus,t-rex,"[2, 3, 6, 9]","[8, 18, 19]",0.75
+stegosaurus,t-rex,"[2, 3, 6, 9]","[11, 21, 22]",0.4
+stegosaurus,t-rex,"[2, 3, 6, 9]","[12, 22, 23]",1.0
+stegosaurus,t-rex,"[2, 3, 6, 9]","[13, 23, 24]",0.7
+stegosaurus,t-rex,"[2, 3, 6, 9]","[14, 24, 25]",0.96
+stegosaurus,t-rex,"[3, 4, 7, 10]","[1, 11, 12]",1.0
+stegosaurus,t-rex,"[3, 4, 7, 10]","[2, 12, 13]",1.0
+stegosaurus,t-rex,"[3, 4, 7, 10]","[6, 16, 17]",0.63
+stegosaurus,t-rex,"[3, 4, 7, 10]","[8, 18, 19]",0.85
+stegosaurus,t-rex,"[3, 4, 7, 10]","[9, 19, 20]",0.91
+stegosaurus,t-rex,"[3, 4, 7, 10]","[11, 21, 22]",0.41
+stegosaurus,t-rex,"[3, 4, 7, 10]","[12, 22, 23]",1.0
+stegosaurus,t-rex,"[3, 4, 7, 10]","[13, 23, 24]",0.9
+stegosaurus,t-rex,"[3, 4, 7, 10]","[14, 24, 25]",0.97
+stegosaurus,t-rex,"[7, 8, 11, 14]","[2, 12, 13]",1.0
+stegosaurus,t-rex,"[7, 8, 11, 14]","[6, 16, 17]",0.67
+stegosaurus,t-rex,"[7, 8, 11, 14]","[9, 19, 20]",0.67
+stegosaurus,t-rex,"[7, 8, 11, 14]","[12, 22, 23]",1.0
+stegosaurus,t-rex,"[7, 8, 11, 14]","[13, 23, 24]",0.64
+stegosaurus,t-rex,"[8, 9, 12, 15]","[3, 13, 14]",1.0
+stegosaurus,t-rex,"[8, 9, 12, 15]","[6, 16, 17]",1.0
+stegosaurus,t-rex,"[8, 9, 12, 15]","[7, 17, 18]",1.0
+stegosaurus,t-rex,"[8, 9, 12, 15]","[11, 21, 22]",1.0
+stegosaurus,t-rex,"[8, 9, 12, 15]","[13, 23, 24]",1.0
+stegosaurus,t-rex,"[8, 9, 12, 15]","[14, 24, 25]",1.0
+stegosaurus,t-rex,"[12, 13, 16, 19]","[4, 14, 15]",1.0
+stegosaurus,t-rex,"[12, 13, 16, 19]","[7, 17, 18]",1.0
+stegosaurus,t-rex,"[12, 13, 16, 19]","[11, 21, 22]",1.0
+stegosaurus,t-rex,"[12, 13, 16, 19]","[14, 24, 25]",1.0
+stegosaurus,t-rex,"[13, 14, 17, 20]","[1, 11, 12]",1.0
+stegosaurus,t-rex,"[13, 14, 17, 20]","[8, 18, 19]",1.0
+stegosaurus,t-rex,"[13, 14, 17, 20]","[11, 21, 22]",1.0
+stegosaurus,t-rex,"[13, 14, 17, 20]","[12, 22, 23]",1.0
+stegosaurus,t-rex,"[17, 18, 21, 24]","[1, 11, 12]",1.0
+stegosaurus,t-rex,"[17, 18, 21, 24]","[2, 12, 13]",1.0
+stegosaurus,t-rex,"[17, 18, 21, 24]","[3, 13, 14]",1.0
+stegosaurus,t-rex,"[17, 18, 21, 24]","[4, 14, 15]",1.0
+stegosaurus,t-rex,"[17, 18, 21, 24]","[9, 19, 20]",1.0
+stegosaurus,t-rex,"[17, 18, 21, 24]","[12, 22, 23]",1.0
+stegosaurus,t-rex,"[18, 19, 22, 25]","[1, 11, 12]",1.0
+stegosaurus,t-rex,"[18, 19, 22, 25]","[2, 12, 13]",1.0
+stegosaurus,t-rex,"[18, 19, 22, 25]","[3, 13, 14]",1.0
+stegosaurus,t-rex,"[18, 19, 22, 25]","[4, 14, 15]",1.0
+stegosaurus,t-rex,"[18, 19, 22, 25]","[6, 16, 17]",0.46
+stegosaurus,t-rex,"[18, 19, 22, 25]","[13, 23, 24]",0.48
+pairing average win rate,0.8985416666666666, , , 
+stegosaurus,triceratops,"[2, 3, 6, 9]","[1, 8, 11]",0.67
+stegosaurus,triceratops,"[2, 3, 6, 9]","[7, 14, 17]",0.85
+stegosaurus,triceratops,"[2, 3, 6, 9]","[8, 15, 18]",0.96
+stegosaurus,triceratops,"[2, 3, 6, 9]","[11, 18, 21]",0.92
+stegosaurus,triceratops,"[2, 3, 6, 9]","[12, 19, 22]",0.65
+stegosaurus,triceratops,"[2, 3, 6, 9]","[13, 20, 23]",1.0
+stegosaurus,triceratops,"[3, 4, 7, 10]","[1, 8, 11]",0.81
+stegosaurus,triceratops,"[3, 4, 7, 10]","[2, 9, 12]",0.91
+stegosaurus,triceratops,"[3, 4, 7, 10]","[6, 13, 16]",1.0
+stegosaurus,triceratops,"[3, 4, 7, 10]","[8, 15, 18]",0.97
+stegosaurus,triceratops,"[3, 4, 7, 10]","[11, 18, 21]",0.96
+stegosaurus,triceratops,"[3, 4, 7, 10]","[12, 19, 22]",0.59
+stegosaurus,triceratops,"[3, 4, 7, 10]","[13, 20, 23]",1.0
+stegosaurus,triceratops,"[7, 8, 11, 14]","[2, 9, 12]",0.9
+stegosaurus,triceratops,"[7, 8, 11, 14]","[3, 10, 13]",1.0
+stegosaurus,triceratops,"[7, 8, 11, 14]","[6, 13, 16]",0.92
+stegosaurus,triceratops,"[7, 8, 11, 14]","[12, 19, 22]",0.75
+stegosaurus,triceratops,"[7, 8, 11, 14]","[13, 20, 23]",0.88
+stegosaurus,triceratops,"[8, 9, 12, 15]","[3, 10, 13]",1.0
+stegosaurus,triceratops,"[8, 9, 12, 15]","[6, 13, 16]",0.89
+stegosaurus,triceratops,"[8, 9, 12, 15]","[7, 14, 17]",1.0
+stegosaurus,triceratops,"[8, 9, 12, 15]","[11, 18, 21]",1.0
+stegosaurus,triceratops,"[8, 9, 12, 15]","[13, 20, 23]",0.88
+stegosaurus,triceratops,"[12, 13, 16, 19]","[1, 8, 11]",1.0
+stegosaurus,triceratops,"[12, 13, 16, 19]","[7, 14, 17]",1.0
+stegosaurus,triceratops,"[12, 13, 16, 19]","[8, 15, 18]",1.0
+stegosaurus,triceratops,"[12, 13, 16, 19]","[11, 18, 21]",1.0
+stegosaurus,triceratops,"[13, 14, 17, 20]","[1, 8, 11]",1.0
+stegosaurus,triceratops,"[13, 14, 17, 20]","[2, 9, 12]",1.0
+stegosaurus,triceratops,"[13, 14, 17, 20]","[8, 15, 18]",1.0
+stegosaurus,triceratops,"[13, 14, 17, 20]","[11, 18, 21]",1.0
+stegosaurus,triceratops,"[13, 14, 17, 20]","[12, 19, 22]",1.0
+stegosaurus,triceratops,"[17, 18, 21, 24]","[1, 8, 11]",0.84
+stegosaurus,triceratops,"[17, 18, 21, 24]","[2, 9, 12]",1.0
+stegosaurus,triceratops,"[17, 18, 21, 24]","[3, 10, 13]",1.0
+stegosaurus,triceratops,"[17, 18, 21, 24]","[6, 13, 16]",0.9
+stegosaurus,triceratops,"[17, 18, 21, 24]","[12, 19, 22]",0.87
+stegosaurus,triceratops,"[17, 18, 21, 24]","[13, 20, 23]",0.82
+stegosaurus,triceratops,"[18, 19, 22, 25]","[1, 8, 11]",0.87
+stegosaurus,triceratops,"[18, 19, 22, 25]","[2, 9, 12]",1.0
+stegosaurus,triceratops,"[18, 19, 22, 25]","[3, 10, 13]",1.0
+stegosaurus,triceratops,"[18, 19, 22, 25]","[6, 13, 16]",0.87
+stegosaurus,triceratops,"[18, 19, 22, 25]","[7, 14, 17]",1.0
+stegosaurus,triceratops,"[18, 19, 22, 25]","[13, 20, 23]",0.85
+pairing average win rate,0.9211363636363635, , , 
+stegosaurus,dragon,"[2, 3, 6, 9]","[1, 8]",1.0
+stegosaurus,dragon,"[2, 3, 6, 9]","[7, 14]",1.0
+stegosaurus,dragon,"[2, 3, 6, 9]","[8, 15]",1.0
+stegosaurus,dragon,"[2, 3, 6, 9]","[11, 18]",1.0
+stegosaurus,dragon,"[2, 3, 6, 9]","[12, 19]",0.48
+stegosaurus,dragon,"[2, 3, 6, 9]","[13, 20]",0.52
+stegosaurus,dragon,"[2, 3, 6, 9]","[16, 23]",0.49
+stegosaurus,dragon,"[2, 3, 6, 9]","[17, 24]",0.44
+stegosaurus,dragon,"[2, 3, 6, 9]","[18, 25]",1.0
+stegosaurus,dragon,"[3, 4, 7, 10]","[1, 8]",1.0
+stegosaurus,dragon,"[3, 4, 7, 10]","[2, 9]",0.51
+stegosaurus,dragon,"[3, 4, 7, 10]","[6, 13]",1.0
+stegosaurus,dragon,"[3, 4, 7, 10]","[8, 15]",1.0
+stegosaurus,dragon,"[3, 4, 7, 10]","[11, 18]",1.0
+stegosaurus,dragon,"[3, 4, 7, 10]","[12, 19]",0.49
+stegosaurus,dragon,"[3, 4, 7, 10]","[13, 20]",1.0
+stegosaurus,dragon,"[3, 4, 7, 10]","[16, 23]",0.48
+stegosaurus,dragon,"[3, 4, 7, 10]","[17, 24]",0.4
+stegosaurus,dragon,"[3, 4, 7, 10]","[18, 25]",1.0
+stegosaurus,dragon,"[7, 8, 11, 14]","[2, 9]",0.54
+stegosaurus,dragon,"[7, 8, 11, 14]","[3, 10]",0.55
+stegosaurus,dragon,"[7, 8, 11, 14]","[6, 13]",1.0
+stegosaurus,dragon,"[7, 8, 11, 14]","[12, 19]",0.68
+stegosaurus,dragon,"[7, 8, 11, 14]","[13, 20]",1.0
+stegosaurus,dragon,"[7, 8, 11, 14]","[16, 23]",0.67
+stegosaurus,dragon,"[7, 8, 11, 14]","[17, 24]",0.56
+stegosaurus,dragon,"[7, 8, 11, 14]","[18, 25]",1.0
+stegosaurus,dragon,"[8, 9, 12, 15]","[3, 10]",0.68
+stegosaurus,dragon,"[8, 9, 12, 15]","[6, 13]",1.0
+stegosaurus,dragon,"[8, 9, 12, 15]","[7, 14]",1.0
+stegosaurus,dragon,"[8, 9, 12, 15]","[11, 18]",1.0
+stegosaurus,dragon,"[8, 9, 12, 15]","[13, 20]",1.0
+stegosaurus,dragon,"[8, 9, 12, 15]","[16, 23]",0.62
+stegosaurus,dragon,"[8, 9, 12, 15]","[17, 24]",0.62
+stegosaurus,dragon,"[8, 9, 12, 15]","[18, 25]",1.0
+stegosaurus,dragon,"[12, 13, 16, 19]","[1, 8]",1.0
+stegosaurus,dragon,"[12, 13, 16, 19]","[2, 9]",0.55
+stegosaurus,dragon,"[12, 13, 16, 19]","[3, 10]",1.0
+stegosaurus,dragon,"[12, 13, 16, 19]","[7, 14]",0.65
+stegosaurus,dragon,"[12, 13, 16, 19]","[8, 15]",1.0
+stegosaurus,dragon,"[12, 13, 16, 19]","[11, 18]",1.0
+stegosaurus,dragon,"[12, 13, 16, 19]","[17, 24]",0.74
+stegosaurus,dragon,"[12, 13, 16, 19]","[18, 25]",1.0
+stegosaurus,dragon,"[13, 14, 17, 20]","[1, 8]",1.0
+stegosaurus,dragon,"[13, 14, 17, 20]","[2, 9]",0.57
+stegosaurus,dragon,"[13, 14, 17, 20]","[3, 10]",1.0
+stegosaurus,dragon,"[13, 14, 17, 20]","[8, 15]",1.0
+stegosaurus,dragon,"[13, 14, 17, 20]","[11, 18]",1.0
+stegosaurus,dragon,"[13, 14, 17, 20]","[12, 19]",0.83
+stegosaurus,dragon,"[13, 14, 17, 20]","[16, 23]",0.71
+stegosaurus,dragon,"[13, 14, 17, 20]","[18, 25]",1.0
+stegosaurus,dragon,"[17, 18, 21, 24]","[1, 8]",1.0
+stegosaurus,dragon,"[17, 18, 21, 24]","[2, 9]",0.53
+stegosaurus,dragon,"[17, 18, 21, 24]","[3, 10]",0.55
+stegosaurus,dragon,"[17, 18, 21, 24]","[6, 13]",1.0
+stegosaurus,dragon,"[17, 18, 21, 24]","[7, 14]",0.53
+stegosaurus,dragon,"[17, 18, 21, 24]","[8, 15]",1.0
+stegosaurus,dragon,"[17, 18, 21, 24]","[12, 19]",0.72
+stegosaurus,dragon,"[17, 18, 21, 24]","[13, 20]",1.0
+stegosaurus,dragon,"[17, 18, 21, 24]","[16, 23]",0.64
+stegosaurus,dragon,"[18, 19, 22, 25]","[1, 8]",1.0
+stegosaurus,dragon,"[18, 19, 22, 25]","[2, 9]",0.54
+stegosaurus,dragon,"[18, 19, 22, 25]","[3, 10]",0.44
+stegosaurus,dragon,"[18, 19, 22, 25]","[6, 13]",1.0
+stegosaurus,dragon,"[18, 19, 22, 25]","[7, 14]",0.48
+stegosaurus,dragon,"[18, 19, 22, 25]","[8, 15]",1.0
+stegosaurus,dragon,"[18, 19, 22, 25]","[13, 20]",1.0
+stegosaurus,dragon,"[18, 19, 22, 25]","[16, 23]",0.55
+stegosaurus,dragon,"[18, 19, 22, 25]","[17, 24]",0.9
+pairing average win rate,0.8066666666666666, , , 
+raptor,t-rex,"[1, 2, 7, 13]","[4, 14, 15]",1.0
+raptor,t-rex,"[1, 2, 7, 13]","[6, 16, 17]",1.0
+raptor,t-rex,"[1, 2, 7, 13]","[8, 18, 19]",1.0
+raptor,t-rex,"[1, 2, 7, 13]","[9, 19, 20]",1.0
+raptor,t-rex,"[1, 2, 7, 13]","[11, 21, 22]",1.0
+raptor,t-rex,"[1, 2, 7, 13]","[12, 22, 23]",1.0
+raptor,t-rex,"[1, 2, 7, 13]","[14, 24, 25]",1.0
+raptor,t-rex,"[2, 3, 8, 14]","[1, 11, 12]",0.82
+raptor,t-rex,"[2, 3, 8, 14]","[6, 16, 17]",0.93
+raptor,t-rex,"[2, 3, 8, 14]","[7, 17, 18]",0.94
+raptor,t-rex,"[2, 3, 8, 14]","[9, 19, 20]",0.96
+raptor,t-rex,"[2, 3, 8, 14]","[11, 21, 22]",0.83
+raptor,t-rex,"[2, 3, 8, 14]","[12, 22, 23]",0.92
+raptor,t-rex,"[2, 3, 8, 14]","[13, 23, 24]",0.76
+raptor,t-rex,"[3, 4, 9, 15]","[1, 11, 12]",0.54
+raptor,t-rex,"[3, 4, 9, 15]","[2, 12, 13]",1.0
+raptor,t-rex,"[3, 4, 9, 15]","[6, 16, 17]",0.39
+raptor,t-rex,"[3, 4, 9, 15]","[7, 17, 18]",0.74
+raptor,t-rex,"[3, 4, 9, 15]","[8, 18, 19]",0.39
+raptor,t-rex,"[3, 4, 9, 15]","[11, 21, 22]",0.49
+raptor,t-rex,"[3, 4, 9, 15]","[12, 22, 23]",0.5
+raptor,t-rex,"[3, 4, 9, 15]","[13, 23, 24]",1.0
+raptor,t-rex,"[3, 4, 9, 15]","[14, 24, 25]",1.0
+raptor,t-rex,"[6, 7, 12, 18]","[3, 13, 14]",1.0
+raptor,t-rex,"[6, 7, 12, 18]","[4, 14, 15]",1.0
+raptor,t-rex,"[6, 7, 12, 18]","[9, 19, 20]",1.0
+raptor,t-rex,"[6, 7, 12, 18]","[11, 21, 22]",1.0
+raptor,t-rex,"[6, 7, 12, 18]","[13, 23, 24]",1.0
+raptor,t-rex,"[6, 7, 12, 18]","[14, 24, 25]",1.0
+raptor,t-rex,"[7, 8, 13, 19]","[1, 11, 12]",1.0
+raptor,t-rex,"[7, 8, 13, 19]","[4, 14, 15]",1.0
+raptor,t-rex,"[7, 8, 13, 19]","[6, 16, 17]",1.0
+raptor,t-rex,"[7, 8, 13, 19]","[11, 21, 22]",1.0
+raptor,t-rex,"[7, 8, 13, 19]","[12, 22, 23]",1.0
+raptor,t-rex,"[7, 8, 13, 19]","[14, 24, 25]",1.0
+raptor,t-rex,"[8, 9, 14, 20]","[1, 11, 12]",0.94
+raptor,t-rex,"[8, 9, 14, 20]","[2, 12, 13]",1.0
+raptor,t-rex,"[8, 9, 14, 20]","[6, 16, 17]",0.96
+raptor,t-rex,"[8, 9, 14, 20]","[7, 17, 18]",0.99
+raptor,t-rex,"[8, 9, 14, 20]","[11, 21, 22]",0.95
+raptor,t-rex,"[8, 9, 14, 20]","[12, 22, 23]",0.97
+raptor,t-rex,"[8, 9, 14, 20]","[13, 23, 24]",0.88
+raptor,t-rex,"[11, 12, 17, 23]","[3, 13, 14]",1.0
+raptor,t-rex,"[11, 12, 17, 23]","[4, 14, 15]",1.0
+raptor,t-rex,"[11, 12, 17, 23]","[8, 18, 19]",1.0
+raptor,t-rex,"[11, 12, 17, 23]","[9, 19, 20]",1.0
+raptor,t-rex,"[11, 12, 17, 23]","[14, 24, 25]",1.0
+raptor,t-rex,"[12, 13, 18, 24]","[4, 14, 15]",1.0
+raptor,t-rex,"[12, 13, 18, 24]","[6, 16, 17]",0.67
+raptor,t-rex,"[12, 13, 18, 24]","[9, 19, 20]",0.64
+raptor,t-rex,"[12, 13, 18, 24]","[11, 21, 22]",0.68
+raptor,t-rex,"[13, 14, 19, 25]","[1, 11, 12]",1.0
+raptor,t-rex,"[13, 14, 19, 25]","[6, 16, 17]",1.0
+raptor,t-rex,"[13, 14, 19, 25]","[7, 17, 18]",1.0
+raptor,t-rex,"[13, 14, 19, 25]","[11, 21, 22]",1.0
+raptor,t-rex,"[13, 14, 19, 25]","[12, 22, 23]",1.0
+pairing average win rate,0.9087500000000002, , , 
+raptor,triceratops,"[1, 2, 7, 13]","[8, 15, 18]",1.0
+raptor,triceratops,"[1, 2, 7, 13]","[11, 18, 21]",1.0
+raptor,triceratops,"[1, 2, 7, 13]","[12, 19, 22]",1.0
+raptor,triceratops,"[2, 3, 8, 14]","[6, 13, 16]",1.0
+raptor,triceratops,"[2, 3, 8, 14]","[11, 18, 21]",1.0
+raptor,triceratops,"[2, 3, 8, 14]","[12, 19, 22]",1.0
+raptor,triceratops,"[2, 3, 8, 14]","[13, 20, 23]",1.0
+raptor,triceratops,"[3, 4, 9, 15]","[1, 8, 11]",1.0
+raptor,triceratops,"[3, 4, 9, 15]","[6, 13, 16]",1.0
+raptor,triceratops,"[3, 4, 9, 15]","[7, 14, 17]",0.65
+raptor,triceratops,"[3, 4, 9, 15]","[11, 18, 21]",0.67
+raptor,triceratops,"[3, 4, 9, 15]","[12, 19, 22]",0.68
+raptor,triceratops,"[3, 4, 9, 15]","[13, 20, 23]",1.0
+raptor,triceratops,"[6, 7, 12, 18]","[1, 8, 11]",1.0
+raptor,triceratops,"[6, 7, 12, 18]","[3, 10, 13]",1.0
+raptor,triceratops,"[6, 7, 12, 18]","[13, 20, 23]",1.0
+raptor,triceratops,"[7, 8, 13, 19]","[2, 9, 12]",1.0
+raptor,triceratops,"[7, 8, 13, 19]","[11, 18, 21]",1.0
+raptor,triceratops,"[8, 9, 14, 20]","[3, 10, 13]",1.0
+raptor,triceratops,"[8, 9, 14, 20]","[6, 13, 16]",1.0
+raptor,triceratops,"[8, 9, 14, 20]","[11, 18, 21]",1.0
+raptor,triceratops,"[8, 9, 14, 20]","[12, 19, 22]",1.0
+raptor,triceratops,"[11, 12, 17, 23]","[3, 10, 13]",1.0
+raptor,triceratops,"[11, 12, 17, 23]","[6, 13, 16]",1.0
+raptor,triceratops,"[11, 12, 17, 23]","[8, 15, 18]",1.0
+raptor,triceratops,"[12, 13, 18, 24]","[1, 8, 11]",1.0
+raptor,triceratops,"[12, 13, 18, 24]","[7, 14, 17]",1.0
+raptor,triceratops,"[13, 14, 19, 25]","[1, 8, 11]",1.0
+raptor,triceratops,"[13, 14, 19, 25]","[2, 9, 12]",1.0
+raptor,triceratops,"[13, 14, 19, 25]","[8, 15, 18]",1.0
+raptor,triceratops,"[13, 14, 19, 25]","[11, 18, 21]",1.0
+pairing average win rate,0.967741935483871, , , 
+raptor,dragon,"[1, 2, 7, 13]","[3, 10]",0.81
+raptor,dragon,"[1, 2, 7, 13]","[8, 15]",0.86
+raptor,dragon,"[1, 2, 7, 13]","[11, 18]",1.0
+raptor,dragon,"[1, 2, 7, 13]","[12, 19]",0.86
+raptor,dragon,"[1, 2, 7, 13]","[16, 23]",0.76
+raptor,dragon,"[1, 2, 7, 13]","[17, 24]",0.81
+raptor,dragon,"[1, 2, 7, 13]","[18, 25]",1.0
+raptor,dragon,"[2, 3, 8, 14]","[6, 13]",1.0
+raptor,dragon,"[2, 3, 8, 14]","[11, 18]",1.0
+raptor,dragon,"[2, 3, 8, 14]","[12, 19]",0.78
+raptor,dragon,"[2, 3, 8, 14]","[13, 20]",1.0
+raptor,dragon,"[2, 3, 8, 14]","[16, 23]",0.83
+raptor,dragon,"[2, 3, 8, 14]","[17, 24]",0.84
+raptor,dragon,"[2, 3, 8, 14]","[18, 25]",1.0
+raptor,dragon,"[3, 4, 9, 15]","[1, 8]",1.0
+raptor,dragon,"[3, 4, 9, 15]","[6, 13]",1.0
+raptor,dragon,"[3, 4, 9, 15]","[7, 14]",0.35
+raptor,dragon,"[3, 4, 9, 15]","[11, 18]",1.0
+raptor,dragon,"[3, 4, 9, 15]","[12, 19]",1.0
+raptor,dragon,"[3, 4, 9, 15]","[13, 20]",1.0
+raptor,dragon,"[3, 4, 9, 15]","[16, 23]",0.41
+raptor,dragon,"[3, 4, 9, 15]","[17, 24]",0.35
+raptor,dragon,"[3, 4, 9, 15]","[18, 25]",1.0
+raptor,dragon,"[6, 7, 12, 18]","[1, 8]",1.0
+raptor,dragon,"[6, 7, 12, 18]","[2, 9]",0.7
+raptor,dragon,"[6, 7, 12, 18]","[3, 10]",0.66
+raptor,dragon,"[6, 7, 12, 18]","[8, 15]",1.0
+raptor,dragon,"[6, 7, 12, 18]","[13, 20]",1.0
+raptor,dragon,"[6, 7, 12, 18]","[16, 23]",0.83
+raptor,dragon,"[6, 7, 12, 18]","[17, 24]",0.73
+raptor,dragon,"[7, 8, 13, 19]","[2, 9]",0.95
+raptor,dragon,"[7, 8, 13, 19]","[3, 10]",0.97
+raptor,dragon,"[7, 8, 13, 19]","[11, 18]",0.93
+raptor,dragon,"[7, 8, 13, 19]","[16, 23]",0.95
+raptor,dragon,"[7, 8, 13, 19]","[17, 24]",0.98
+raptor,dragon,"[7, 8, 13, 19]","[18, 25]",1.0
+raptor,dragon,"[8, 9, 14, 20]","[3, 10]",0.89
+raptor,dragon,"[8, 9, 14, 20]","[6, 13]",1.0
+raptor,dragon,"[8, 9, 14, 20]","[11, 18]",1.0
+raptor,dragon,"[8, 9, 14, 20]","[12, 19]",0.78
+raptor,dragon,"[8, 9, 14, 20]","[16, 23]",0.74
+raptor,dragon,"[8, 9, 14, 20]","[17, 24]",0.65
+raptor,dragon,"[8, 9, 14, 20]","[18, 25]",1.0
+raptor,dragon,"[11, 12, 17, 23]","[1, 8]",1.0
+raptor,dragon,"[11, 12, 17, 23]","[2, 9]",0.69
+raptor,dragon,"[11, 12, 17, 23]","[3, 10]",0.75
+raptor,dragon,"[11, 12, 17, 23]","[6, 13]",1.0
+raptor,dragon,"[11, 12, 17, 23]","[7, 14]",0.79
+raptor,dragon,"[11, 12, 17, 23]","[8, 15]",1.0
+raptor,dragon,"[11, 12, 17, 23]","[13, 20]",1.0
+raptor,dragon,"[11, 12, 17, 23]","[18, 25]",0.77
+raptor,dragon,"[12, 13, 18, 24]","[1, 8]",1.0
+raptor,dragon,"[12, 13, 18, 24]","[2, 9]",0.66
+raptor,dragon,"[12, 13, 18, 24]","[3, 10]",0.74
+raptor,dragon,"[12, 13, 18, 24]","[7, 14]",0.87
+raptor,dragon,"[12, 13, 18, 24]","[8, 15]",1.0
+raptor,dragon,"[12, 13, 18, 24]","[16, 23]",0.73
+raptor,dragon,"[13, 14, 19, 25]","[1, 8]",1.0
+raptor,dragon,"[13, 14, 19, 25]","[2, 9]",0.72
+raptor,dragon,"[13, 14, 19, 25]","[3, 10]",0.61
+raptor,dragon,"[13, 14, 19, 25]","[8, 15]",1.0
+raptor,dragon,"[13, 14, 19, 25]","[11, 18]",0.63
+raptor,dragon,"[13, 14, 19, 25]","[16, 23]",0.72
+raptor,dragon,"[13, 14, 19, 25]","[17, 24]",0.71
+pairing average win rate,0.8564062499999998, , , 
+t-rex,triceratops,"[1, 11, 12]","[3, 10, 13]",0.8
+t-rex,triceratops,"[1, 11, 12]","[6, 13, 16]",1.0
+t-rex,triceratops,"[1, 11, 12]","[7, 14, 17]",1.0
+t-rex,triceratops,"[1, 11, 12]","[8, 15, 18]",1.0
+t-rex,triceratops,"[1, 11, 12]","[13, 20, 23]",0.86
+t-rex,triceratops,"[2, 12, 13]","[1, 8, 11]",1.0
+t-rex,triceratops,"[2, 12, 13]","[7, 14, 17]",1.0
+t-rex,triceratops,"[2, 12, 13]","[8, 15, 18]",1.0
+t-rex,triceratops,"[2, 12, 13]","[11, 18, 21]",1.0
+t-rex,triceratops,"[3, 13, 14]","[1, 8, 11]",1.0
+t-rex,triceratops,"[3, 13, 14]","[2, 9, 12]",1.0
+t-rex,triceratops,"[3, 13, 14]","[8, 15, 18]",1.0
+t-rex,triceratops,"[3, 13, 14]","[11, 18, 21]",1.0
+t-rex,triceratops,"[3, 13, 14]","[12, 19, 22]",1.0
+t-rex,triceratops,"[4, 14, 15]","[1, 8, 11]",1.0
+t-rex,triceratops,"[4, 14, 15]","[2, 9, 12]",0.98
+t-rex,triceratops,"[4, 14, 15]","[3, 10, 13]",1.0
+t-rex,triceratops,"[4, 14, 15]","[6, 13, 16]",1.0
+t-rex,triceratops,"[4, 14, 15]","[11, 18, 21]",1.0
+t-rex,triceratops,"[4, 14, 15]","[12, 19, 22]",0.97
+t-rex,triceratops,"[4, 14, 15]","[13, 20, 23]",0.82
+t-rex,triceratops,"[6, 16, 17]","[1, 8, 11]",0.76
+t-rex,triceratops,"[6, 16, 17]","[2, 9, 12]",0.95
+t-rex,triceratops,"[6, 16, 17]","[3, 10, 13]",1.0
+t-rex,triceratops,"[6, 16, 17]","[8, 15, 18]",0.75
+t-rex,triceratops,"[6, 16, 17]","[11, 18, 21]",0.75
+t-rex,triceratops,"[6, 16, 17]","[12, 19, 22]",0.9
+t-rex,triceratops,"[6, 16, 17]","[13, 20, 23]",1.0
+t-rex,triceratops,"[7, 17, 18]","[1, 8, 11]",1.0
+t-rex,triceratops,"[7, 17, 18]","[2, 9, 12]",0.99
+t-rex,triceratops,"[7, 17, 18]","[3, 10, 13]",0.8
+t-rex,triceratops,"[7, 17, 18]","[6, 13, 16]",1.0
+t-rex,triceratops,"[7, 17, 18]","[12, 19, 22]",0.94
+t-rex,triceratops,"[7, 17, 18]","[13, 20, 23]",0.86
+t-rex,triceratops,"[8, 18, 19]","[2, 9, 12]",1.0
+t-rex,triceratops,"[8, 18, 19]","[3, 10, 13]",1.0
+t-rex,triceratops,"[8, 18, 19]","[6, 13, 16]",1.0
+t-rex,triceratops,"[8, 18, 19]","[7, 14, 17]",1.0
+t-rex,triceratops,"[8, 18, 19]","[13, 20, 23]",0.86
+t-rex,triceratops,"[9, 19, 20]","[1, 8, 11]",0.73
+t-rex,triceratops,"[9, 19, 20]","[3, 10, 13]",0.75
+t-rex,triceratops,"[9, 19, 20]","[6, 13, 16]",1.0
+t-rex,triceratops,"[9, 19, 20]","[7, 14, 17]",1.0
+t-rex,triceratops,"[9, 19, 20]","[8, 15, 18]",0.68
+t-rex,triceratops,"[9, 19, 20]","[11, 18, 21]",0.76
+t-rex,triceratops,"[11, 21, 22]","[2, 9, 12]",1.0
+t-rex,triceratops,"[11, 21, 22]","[3, 10, 13]",0.88
+t-rex,triceratops,"[11, 21, 22]","[6, 13, 16]",1.0
+t-rex,triceratops,"[11, 21, 22]","[7, 14, 17]",1.0
+t-rex,triceratops,"[11, 21, 22]","[8, 15, 18]",0.97
+t-rex,triceratops,"[11, 21, 22]","[13, 20, 23]",0.86
+t-rex,triceratops,"[12, 22, 23]","[1, 8, 11]",0.92
+t-rex,triceratops,"[12, 22, 23]","[3, 10, 13]",0.79
+t-rex,triceratops,"[12, 22, 23]","[6, 13, 16]",1.0
+t-rex,triceratops,"[12, 22, 23]","[7, 14, 17]",1.0
+t-rex,triceratops,"[12, 22, 23]","[8, 15, 18]",0.92
+t-rex,triceratops,"[12, 22, 23]","[11, 18, 21]",0.88
+t-rex,triceratops,"[13, 23, 24]","[1, 8, 11]",1.0
+t-rex,triceratops,"[13, 23, 24]","[2, 9, 12]",1.0
+t-rex,triceratops,"[13, 23, 24]","[7, 14, 17]",1.0
+t-rex,triceratops,"[13, 23, 24]","[8, 15, 18]",1.0
+t-rex,triceratops,"[13, 23, 24]","[11, 18, 21]",1.0
+t-rex,triceratops,"[13, 23, 24]","[12, 19, 22]",1.0
+t-rex,triceratops,"[14, 24, 25]","[1, 8, 11]",1.0
+t-rex,triceratops,"[14, 24, 25]","[2, 9, 12]",0.99
+t-rex,triceratops,"[14, 24, 25]","[3, 10, 13]",1.0
+t-rex,triceratops,"[14, 24, 25]","[6, 13, 16]",1.0
+t-rex,triceratops,"[14, 24, 25]","[8, 15, 18]",0.66
+t-rex,triceratops,"[14, 24, 25]","[11, 18, 21]",0.94
+t-rex,triceratops,"[14, 24, 25]","[12, 19, 22]",0.94
+t-rex,triceratops,"[14, 24, 25]","[13, 20, 23]",0.77
+pairing average win rate,0.9356338028169013, , , 
+t-rex,dragon,"[1, 11, 12]","[2, 9]",0.51
+t-rex,dragon,"[1, 11, 12]","[3, 10]",0.34
+t-rex,dragon,"[1, 11, 12]","[6, 13]",1.0
+t-rex,dragon,"[1, 11, 12]","[7, 14]",1.0
+t-rex,dragon,"[1, 11, 12]","[8, 15]",0.33
+t-rex,dragon,"[1, 11, 12]","[13, 20]",1.0
+t-rex,dragon,"[1, 11, 12]","[16, 23]",0.51
+t-rex,dragon,"[1, 11, 12]","[17, 24]",0.44
+t-rex,dragon,"[1, 11, 12]","[18, 25]",1.0
+t-rex,dragon,"[2, 12, 13]","[1, 8]",1.0
+t-rex,dragon,"[2, 12, 13]","[3, 10]",1.0
+t-rex,dragon,"[2, 12, 13]","[7, 14]",1.0
+t-rex,dragon,"[2, 12, 13]","[8, 15]",1.0
+t-rex,dragon,"[2, 12, 13]","[11, 18]",1.0
+t-rex,dragon,"[2, 12, 13]","[16, 23]",1.0
+t-rex,dragon,"[2, 12, 13]","[17, 24]",1.0
+t-rex,dragon,"[2, 12, 13]","[18, 25]",1.0
+t-rex,dragon,"[3, 13, 14]","[1, 8]",1.0
+t-rex,dragon,"[3, 13, 14]","[2, 9]",1.0
+t-rex,dragon,"[3, 13, 14]","[8, 15]",1.0
+t-rex,dragon,"[3, 13, 14]","[11, 18]",1.0
+t-rex,dragon,"[3, 13, 14]","[12, 19]",1.0
+t-rex,dragon,"[3, 13, 14]","[16, 23]",1.0
+t-rex,dragon,"[3, 13, 14]","[17, 24]",1.0
+t-rex,dragon,"[3, 13, 14]","[18, 25]",1.0
+t-rex,dragon,"[4, 14, 15]","[1, 8]",0.62
+t-rex,dragon,"[4, 14, 15]","[2, 9]",0.66
+t-rex,dragon,"[4, 14, 15]","[3, 10]",0.63
+t-rex,dragon,"[4, 14, 15]","[6, 13]",1.0
+t-rex,dragon,"[4, 14, 15]","[11, 18]",1.0
+t-rex,dragon,"[4, 14, 15]","[12, 19]",0.61
+t-rex,dragon,"[4, 14, 15]","[13, 20]",1.0
+t-rex,dragon,"[4, 14, 15]","[16, 23]",0.72
+t-rex,dragon,"[4, 14, 15]","[17, 24]",0.83
+t-rex,dragon,"[4, 14, 15]","[18, 25]",1.0
+t-rex,dragon,"[6, 16, 17]","[1, 8]",0.52
+t-rex,dragon,"[6, 16, 17]","[2, 9]",0.81
+t-rex,dragon,"[6, 16, 17]","[3, 10]",0.14
+t-rex,dragon,"[6, 16, 17]","[7, 14]",1.0
+t-rex,dragon,"[6, 16, 17]","[8, 15]",0.45
+t-rex,dragon,"[6, 16, 17]","[11, 18]",1.0
+t-rex,dragon,"[6, 16, 17]","[12, 19]",0.63
+t-rex,dragon,"[6, 16, 17]","[13, 20]",1.0
+t-rex,dragon,"[6, 16, 17]","[18, 25]",1.0
+t-rex,dragon,"[7, 17, 18]","[1, 8]",1.0
+t-rex,dragon,"[7, 17, 18]","[2, 9]",1.0
+t-rex,dragon,"[7, 17, 18]","[3, 10]",1.0
+t-rex,dragon,"[7, 17, 18]","[6, 13]",1.0
+t-rex,dragon,"[7, 17, 18]","[8, 15]",1.0
+t-rex,dragon,"[7, 17, 18]","[12, 19]",1.0
+t-rex,dragon,"[7, 17, 18]","[13, 20]",1.0
+t-rex,dragon,"[7, 17, 18]","[16, 23]",1.0
+t-rex,dragon,"[8, 18, 19]","[2, 9]",1.0
+t-rex,dragon,"[8, 18, 19]","[3, 10]",1.0
+t-rex,dragon,"[8, 18, 19]","[6, 13]",1.0
+t-rex,dragon,"[8, 18, 19]","[7, 14]",1.0
+t-rex,dragon,"[8, 18, 19]","[13, 20]",1.0
+t-rex,dragon,"[8, 18, 19]","[16, 23]",1.0
+t-rex,dragon,"[8, 18, 19]","[17, 24]",1.0
+t-rex,dragon,"[9, 19, 20]","[1, 8]",0.9
+t-rex,dragon,"[9, 19, 20]","[3, 10]",0.17
+t-rex,dragon,"[9, 19, 20]","[6, 13]",1.0
+t-rex,dragon,"[9, 19, 20]","[7, 14]",1.0
+t-rex,dragon,"[9, 19, 20]","[8, 15]",0.73
+t-rex,dragon,"[9, 19, 20]","[11, 18]",1.0
+t-rex,dragon,"[9, 19, 20]","[16, 23]",0.55
+t-rex,dragon,"[9, 19, 20]","[17, 24]",0.47
+t-rex,dragon,"[9, 19, 20]","[18, 25]",1.0
+t-rex,dragon,"[11, 21, 22]","[1, 8]",0.86
+t-rex,dragon,"[11, 21, 22]","[2, 9]",0.65
+t-rex,dragon,"[11, 21, 22]","[3, 10]",0.29
+t-rex,dragon,"[11, 21, 22]","[6, 13]",1.0
+t-rex,dragon,"[11, 21, 22]","[7, 14]",1.0
+t-rex,dragon,"[11, 21, 22]","[8, 15]",0.85
+t-rex,dragon,"[11, 21, 22]","[12, 19]",0.51
+t-rex,dragon,"[11, 21, 22]","[13, 20]",1.0
+t-rex,dragon,"[11, 21, 22]","[16, 23]",0.18
+t-rex,dragon,"[11, 21, 22]","[17, 24]",0.23
+t-rex,dragon,"[11, 21, 22]","[18, 25]",1.0
+t-rex,dragon,"[12, 22, 23]","[1, 8]",0.72
+t-rex,dragon,"[12, 22, 23]","[2, 9]",0.53
+t-rex,dragon,"[12, 22, 23]","[3, 10]",0.25
+t-rex,dragon,"[12, 22, 23]","[6, 13]",1.0
+t-rex,dragon,"[12, 22, 23]","[7, 14]",1.0
+t-rex,dragon,"[12, 22, 23]","[8, 15]",0.65
+t-rex,dragon,"[12, 22, 23]","[11, 18]",1.0
+t-rex,dragon,"[12, 22, 23]","[13, 20]",1.0
+t-rex,dragon,"[12, 22, 23]","[17, 24]",0.54
+t-rex,dragon,"[12, 22, 23]","[18, 25]",1.0
+t-rex,dragon,"[13, 23, 24]","[1, 8]",1.0
+t-rex,dragon,"[13, 23, 24]","[2, 9]",1.0
+t-rex,dragon,"[13, 23, 24]","[3, 10]",1.0
+t-rex,dragon,"[13, 23, 24]","[7, 14]",1.0
+t-rex,dragon,"[13, 23, 24]","[8, 15]",1.0
+t-rex,dragon,"[13, 23, 24]","[11, 18]",1.0
+t-rex,dragon,"[13, 23, 24]","[12, 19]",1.0
+t-rex,dragon,"[13, 23, 24]","[18, 25]",1.0
+t-rex,dragon,"[14, 24, 25]","[1, 8]",0.85
+t-rex,dragon,"[14, 24, 25]","[2, 9]",0.66
+t-rex,dragon,"[14, 24, 25]","[3, 10]",0.68
+t-rex,dragon,"[14, 24, 25]","[6, 13]",1.0
+t-rex,dragon,"[14, 24, 25]","[8, 15]",1.0
+t-rex,dragon,"[14, 24, 25]","[11, 18]",1.0
+t-rex,dragon,"[14, 24, 25]","[12, 19]",0.73
+t-rex,dragon,"[14, 24, 25]","[13, 20]",1.0
+t-rex,dragon,"[14, 24, 25]","[16, 23]",0.6
+pairing average win rate,0.8429245283018869, , , 
+triceratops,dragon,"[1, 8, 11]","[2, 9]",0.65
+triceratops,dragon,"[1, 8, 11]","[3, 10]",0.72
+triceratops,dragon,"[1, 8, 11]","[6, 13]",1.0
+triceratops,dragon,"[1, 8, 11]","[7, 14]",0.77
+triceratops,dragon,"[1, 8, 11]","[12, 19]",0.97
+triceratops,dragon,"[1, 8, 11]","[13, 20]",1.0
+triceratops,dragon,"[1, 8, 11]","[16, 23]",0.59
+triceratops,dragon,"[1, 8, 11]","[17, 24]",0.63
+triceratops,dragon,"[1, 8, 11]","[18, 25]",0.97
+triceratops,dragon,"[2, 9, 12]","[1, 8]",1.0
+triceratops,dragon,"[2, 9, 12]","[3, 10]",0.66
+triceratops,dragon,"[2, 9, 12]","[6, 13]",1.0
+triceratops,dragon,"[2, 9, 12]","[7, 14]",0.62
+triceratops,dragon,"[2, 9, 12]","[8, 15]",1.0
+triceratops,dragon,"[2, 9, 12]","[11, 18]",1.0
+triceratops,dragon,"[2, 9, 12]","[13, 20]",1.0
+triceratops,dragon,"[2, 9, 12]","[16, 23]",0.53
+triceratops,dragon,"[2, 9, 12]","[17, 24]",0.56
+triceratops,dragon,"[2, 9, 12]","[18, 25]",1.0
+triceratops,dragon,"[3, 10, 13]","[1, 8]",1.0
+triceratops,dragon,"[3, 10, 13]","[2, 9]",0.82
+triceratops,dragon,"[3, 10, 13]","[7, 14]",0.78
+triceratops,dragon,"[3, 10, 13]","[8, 15]",1.0
+triceratops,dragon,"[3, 10, 13]","[11, 18]",1.0
+triceratops,dragon,"[3, 10, 13]","[12, 19]",0.78
+triceratops,dragon,"[3, 10, 13]","[16, 23]",0.8
+triceratops,dragon,"[3, 10, 13]","[17, 24]",0.82
+triceratops,dragon,"[3, 10, 13]","[18, 25]",1.0
+triceratops,dragon,"[6, 13, 16]","[1, 8]",1.0
+triceratops,dragon,"[6, 13, 16]","[2, 9]",0.54
+triceratops,dragon,"[6, 13, 16]","[3, 10]",1.0
+triceratops,dragon,"[6, 13, 16]","[7, 14]",0.63
+triceratops,dragon,"[6, 13, 16]","[8, 15]",1.0
+triceratops,dragon,"[6, 13, 16]","[11, 18]",1.0
+triceratops,dragon,"[6, 13, 16]","[12, 19]",0.61
+triceratops,dragon,"[6, 13, 16]","[17, 24]",0.59
+triceratops,dragon,"[6, 13, 16]","[18, 25]",1.0
+triceratops,dragon,"[7, 14, 17]","[1, 8]",1.0
+triceratops,dragon,"[7, 14, 17]","[2, 9]",0.67
+triceratops,dragon,"[7, 14, 17]","[3, 10]",0.74
+triceratops,dragon,"[7, 14, 17]","[6, 13]",1.0
+triceratops,dragon,"[7, 14, 17]","[8, 15]",1.0
+triceratops,dragon,"[7, 14, 17]","[11, 18]",1.0
+triceratops,dragon,"[7, 14, 17]","[12, 19]",1.0
+triceratops,dragon,"[7, 14, 17]","[13, 20]",1.0
+triceratops,dragon,"[7, 14, 17]","[16, 23]",0.66
+triceratops,dragon,"[7, 14, 17]","[18, 25]",1.0
+triceratops,dragon,"[8, 15, 18]","[2, 9]",0.76
+triceratops,dragon,"[8, 15, 18]","[3, 10]",0.78
+triceratops,dragon,"[8, 15, 18]","[6, 13]",1.0
+triceratops,dragon,"[8, 15, 18]","[7, 14]",0.65
+triceratops,dragon,"[8, 15, 18]","[12, 19]",0.79
+triceratops,dragon,"[8, 15, 18]","[13, 20]",1.0
+triceratops,dragon,"[8, 15, 18]","[16, 23]",0.72
+triceratops,dragon,"[8, 15, 18]","[17, 24]",0.7
+triceratops,dragon,"[11, 18, 21]","[1, 8]",1.0
+triceratops,dragon,"[11, 18, 21]","[2, 9]",0.64
+triceratops,dragon,"[11, 18, 21]","[3, 10]",0.64
+triceratops,dragon,"[11, 18, 21]","[6, 13]",1.0
+triceratops,dragon,"[11, 18, 21]","[7, 14]",0.54
+triceratops,dragon,"[11, 18, 21]","[8, 15]",1.0
+triceratops,dragon,"[11, 18, 21]","[12, 19]",0.79
+triceratops,dragon,"[11, 18, 21]","[13, 20]",1.0
+triceratops,dragon,"[11, 18, 21]","[16, 23]",0.63
+triceratops,dragon,"[11, 18, 21]","[17, 24]",0.67
+triceratops,dragon,"[12, 19, 22]","[1, 8]",1.0
+triceratops,dragon,"[12, 19, 22]","[2, 9]",0.76
+triceratops,dragon,"[12, 19, 22]","[3, 10]",0.54
+triceratops,dragon,"[12, 19, 22]","[6, 13]",1.0
+triceratops,dragon,"[12, 19, 22]","[7, 14]",0.5
+triceratops,dragon,"[12, 19, 22]","[8, 15]",1.0
+triceratops,dragon,"[12, 19, 22]","[11, 18]",1.0
+triceratops,dragon,"[12, 19, 22]","[13, 20]",1.0
+triceratops,dragon,"[12, 19, 22]","[16, 23]",0.57
+triceratops,dragon,"[12, 19, 22]","[17, 24]",0.62
+triceratops,dragon,"[12, 19, 22]","[18, 25]",1.0
+triceratops,dragon,"[13, 20, 23]","[1, 8]",1.0
+triceratops,dragon,"[13, 20, 23]","[2, 9]",0.58
+triceratops,dragon,"[13, 20, 23]","[3, 10]",1.0
+triceratops,dragon,"[13, 20, 23]","[7, 14]",0.56
+triceratops,dragon,"[13, 20, 23]","[8, 15]",1.0
+triceratops,dragon,"[13, 20, 23]","[11, 18]",1.0
+triceratops,dragon,"[13, 20, 23]","[12, 19]",0.61
+triceratops,dragon,"[13, 20, 23]","[17, 24]",0.59
+triceratops,dragon,"[13, 20, 23]","[18, 25]",1.0
+pairing average win rate,0.8323529411764706, , , 

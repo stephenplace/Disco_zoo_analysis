@@ -1,0 +1,529 @@
+animal_1,animal_2,chosen_1,chosen_2,win_rate
+wooly rhino,giant sloth,"[3, 6, 9, 12]","[1, 8, 11, 13]",0.92
+wooly rhino,giant sloth,"[3, 6, 9, 12]","[7, 14, 17, 19]",1.0
+wooly rhino,giant sloth,"[3, 6, 9, 12]","[8, 15, 18, 20]",1.0
+wooly rhino,giant sloth,"[3, 6, 9, 12]","[11, 18, 21, 23]",1.0
+wooly rhino,giant sloth,"[3, 6, 9, 12]","[13, 20, 23, 25]",0.89
+wooly rhino,giant sloth,"[4, 7, 10, 13]","[2, 9, 12, 14]",1.0
+wooly rhino,giant sloth,"[4, 7, 10, 13]","[8, 15, 18, 20]",1.0
+wooly rhino,giant sloth,"[4, 7, 10, 13]","[11, 18, 21, 23]",1.0
+wooly rhino,giant sloth,"[4, 7, 10, 13]","[12, 19, 22, 24]",1.0
+wooly rhino,giant sloth,"[8, 11, 14, 17]","[3, 10, 13, 15]",1.0
+wooly rhino,giant sloth,"[8, 11, 14, 17]","[6, 13, 16, 18]",1.0
+wooly rhino,giant sloth,"[8, 11, 14, 17]","[12, 19, 22, 24]",1.0
+wooly rhino,giant sloth,"[8, 11, 14, 17]","[13, 20, 23, 25]",1.0
+wooly rhino,giant sloth,"[9, 12, 15, 18]","[1, 8, 11, 13]",0.9
+wooly rhino,giant sloth,"[9, 12, 15, 18]","[7, 14, 17, 19]",1.0
+wooly rhino,giant sloth,"[9, 12, 15, 18]","[13, 20, 23, 25]",0.91
+wooly rhino,giant sloth,"[13, 16, 19, 22]","[2, 9, 12, 14]",1.0
+wooly rhino,giant sloth,"[13, 16, 19, 22]","[8, 15, 18, 20]",1.0
+wooly rhino,giant sloth,"[13, 16, 19, 22]","[11, 18, 21, 23]",1.0
+wooly rhino,giant sloth,"[14, 17, 20, 23]","[1, 8, 11, 13]",1.0
+wooly rhino,giant sloth,"[14, 17, 20, 23]","[3, 10, 13, 15]",1.0
+wooly rhino,giant sloth,"[14, 17, 20, 23]","[6, 13, 16, 18]",1.0
+wooly rhino,giant sloth,"[14, 17, 20, 23]","[12, 19, 22, 24]",1.0
+pairing average win rate,0.9834782608695651, , , 
+wooly rhino,dire wolf,"[3, 6, 9, 12]","[7, 11, 14, 17]",1.0
+wooly rhino,dire wolf,"[3, 6, 9, 12]","[13, 17, 20, 23]",1.0
+wooly rhino,dire wolf,"[4, 7, 10, 13]","[2, 6, 9, 12]",0.76
+wooly rhino,dire wolf,"[4, 7, 10, 13]","[8, 12, 15, 18]",0.67
+wooly rhino,dire wolf,"[4, 7, 10, 13]","[12, 16, 19, 22]",0.94
+wooly rhino,dire wolf,"[8, 11, 14, 17]","[2, 6, 9, 12]",0.93
+wooly rhino,dire wolf,"[8, 11, 14, 17]","[3, 7, 10, 13]",1.0
+wooly rhino,dire wolf,"[8, 11, 14, 17]","[12, 16, 19, 22]",0.93
+wooly rhino,dire wolf,"[9, 12, 15, 18]","[3, 7, 10, 13]",1.0
+wooly rhino,dire wolf,"[9, 12, 15, 18]","[7, 11, 14, 17]",1.0
+wooly rhino,dire wolf,"[9, 12, 15, 18]","[13, 17, 20, 23]",1.0
+wooly rhino,dire wolf,"[13, 16, 19, 22]","[2, 6, 9, 12]",0.93
+wooly rhino,dire wolf,"[13, 16, 19, 22]","[7, 11, 14, 17]",1.0
+wooly rhino,dire wolf,"[13, 16, 19, 22]","[8, 12, 15, 18]",0.87
+wooly rhino,dire wolf,"[14, 17, 20, 23]","[2, 6, 9, 12]",0.88
+wooly rhino,dire wolf,"[14, 17, 20, 23]","[3, 7, 10, 13]",1.0
+wooly rhino,dire wolf,"[14, 17, 20, 23]","[8, 12, 15, 18]",0.84
+wooly rhino,dire wolf,"[14, 17, 20, 23]","[12, 16, 19, 22]",0.86
+pairing average win rate,0.9227777777777777, , , 
+wooly rhino,saber tooth,"[3, 6, 9, 12]","[7, 14, 18]",1.0
+wooly rhino,saber tooth,"[3, 6, 9, 12]","[8, 15, 19]",1.0
+wooly rhino,saber tooth,"[3, 6, 9, 12]","[11, 18, 22]",1.0
+wooly rhino,saber tooth,"[3, 6, 9, 12]","[13, 20, 24]",1.0
+wooly rhino,saber tooth,"[4, 7, 10, 13]","[1, 8, 12]",1.0
+wooly rhino,saber tooth,"[4, 7, 10, 13]","[8, 15, 19]",1.0
+wooly rhino,saber tooth,"[4, 7, 10, 13]","[11, 18, 22]",1.0
+wooly rhino,saber tooth,"[4, 7, 10, 13]","[12, 19, 23]",1.0
+wooly rhino,saber tooth,"[8, 11, 14, 17]","[2, 9, 13]",1.0
+wooly rhino,saber tooth,"[8, 11, 14, 17]","[12, 19, 23]",1.0
+wooly rhino,saber tooth,"[8, 11, 14, 17]","[13, 20, 24]",1.0
+wooly rhino,saber tooth,"[9, 12, 15, 18]","[3, 10, 14]",1.0
+wooly rhino,saber tooth,"[9, 12, 15, 18]","[6, 13, 17]",1.0
+wooly rhino,saber tooth,"[9, 12, 15, 18]","[13, 20, 24]",1.0
+wooly rhino,saber tooth,"[13, 16, 19, 22]","[1, 8, 12]",1.0
+wooly rhino,saber tooth,"[13, 16, 19, 22]","[3, 10, 14]",1.0
+wooly rhino,saber tooth,"[13, 16, 19, 22]","[7, 14, 18]",1.0
+wooly rhino,saber tooth,"[14, 17, 20, 23]","[1, 8, 12]",1.0
+wooly rhino,saber tooth,"[14, 17, 20, 23]","[2, 9, 13]",1.0
+wooly rhino,saber tooth,"[14, 17, 20, 23]","[8, 15, 19]",1.0
+wooly rhino,saber tooth,"[14, 17, 20, 23]","[11, 18, 22]",1.0
+pairing average win rate,1.0, , , 
+wooly rhino,mammoth,"[3, 6, 9, 12]","[4, 8, 15]",1.0
+wooly rhino,mammoth,"[3, 6, 9, 12]","[7, 11, 18]",1.0
+wooly rhino,mammoth,"[3, 6, 9, 12]","[13, 17, 24]",1.0
+wooly rhino,mammoth,"[3, 6, 9, 12]","[14, 18, 25]",1.0
+wooly rhino,mammoth,"[4, 7, 10, 13]","[8, 12, 19]",1.0
+wooly rhino,mammoth,"[4, 7, 10, 13]","[12, 16, 23]",1.0
+wooly rhino,mammoth,"[4, 7, 10, 13]","[14, 18, 25]",1.0
+wooly rhino,mammoth,"[8, 11, 14, 17]","[2, 6, 13]",1.0
+wooly rhino,mammoth,"[8, 11, 14, 17]","[9, 13, 20]",1.0
+wooly rhino,mammoth,"[8, 11, 14, 17]","[12, 16, 23]",1.0
+wooly rhino,mammoth,"[9, 12, 15, 18]","[2, 6, 13]",1.0
+wooly rhino,mammoth,"[9, 12, 15, 18]","[3, 7, 14]",1.0
+wooly rhino,mammoth,"[9, 12, 15, 18]","[13, 17, 24]",1.0
+wooly rhino,mammoth,"[13, 16, 19, 22]","[3, 7, 14]",1.0
+wooly rhino,mammoth,"[13, 16, 19, 22]","[4, 8, 15]",1.0
+wooly rhino,mammoth,"[13, 16, 19, 22]","[7, 11, 18]",1.0
+wooly rhino,mammoth,"[13, 16, 19, 22]","[14, 18, 25]",1.0
+wooly rhino,mammoth,"[14, 17, 20, 23]","[2, 6, 13]",1.0
+wooly rhino,mammoth,"[14, 17, 20, 23]","[4, 8, 15]",1.0
+wooly rhino,mammoth,"[14, 17, 20, 23]","[7, 11, 18]",1.0
+wooly rhino,mammoth,"[14, 17, 20, 23]","[8, 12, 19]",1.0
+pairing average win rate,1.0, , , 
+wooly rhino,akhlut,"[3, 6, 9, 12]","[4, 7, 14]",1.0
+wooly rhino,akhlut,"[3, 6, 9, 12]","[5, 8, 15]",1.0
+wooly rhino,akhlut,"[3, 6, 9, 12]","[8, 11, 18]",1.0
+wooly rhino,akhlut,"[3, 6, 9, 12]","[10, 13, 20]",1.0
+wooly rhino,akhlut,"[3, 6, 9, 12]","[13, 16, 23]",1.0
+wooly rhino,akhlut,"[3, 6, 9, 12]","[14, 17, 24]",1.0
+wooly rhino,akhlut,"[3, 6, 9, 12]","[15, 18, 25]",1.0
+wooly rhino,akhlut,"[4, 7, 10, 13]","[5, 8, 15]",1.0
+wooly rhino,akhlut,"[4, 7, 10, 13]","[8, 11, 18]",1.0
+wooly rhino,akhlut,"[4, 7, 10, 13]","[9, 12, 19]",1.0
+wooly rhino,akhlut,"[4, 7, 10, 13]","[14, 17, 24]",1.0
+wooly rhino,akhlut,"[4, 7, 10, 13]","[15, 18, 25]",1.0
+wooly rhino,akhlut,"[8, 11, 14, 17]","[3, 6, 13]",1.0
+wooly rhino,akhlut,"[8, 11, 14, 17]","[9, 12, 19]",1.0
+wooly rhino,akhlut,"[8, 11, 14, 17]","[10, 13, 20]",1.0
+wooly rhino,akhlut,"[8, 11, 14, 17]","[13, 16, 23]",1.0
+wooly rhino,akhlut,"[8, 11, 14, 17]","[15, 18, 25]",1.0
+wooly rhino,akhlut,"[9, 12, 15, 18]","[3, 6, 13]",1.0
+wooly rhino,akhlut,"[9, 12, 15, 18]","[4, 7, 14]",1.0
+wooly rhino,akhlut,"[9, 12, 15, 18]","[10, 13, 20]",1.0
+wooly rhino,akhlut,"[9, 12, 15, 18]","[13, 16, 23]",1.0
+wooly rhino,akhlut,"[9, 12, 15, 18]","[14, 17, 24]",1.0
+wooly rhino,akhlut,"[13, 16, 19, 22]","[4, 7, 14]",1.0
+wooly rhino,akhlut,"[13, 16, 19, 22]","[5, 8, 15]",1.0
+wooly rhino,akhlut,"[13, 16, 19, 22]","[8, 11, 18]",1.0
+wooly rhino,akhlut,"[13, 16, 19, 22]","[14, 17, 24]",1.0
+wooly rhino,akhlut,"[13, 16, 19, 22]","[15, 18, 25]",1.0
+wooly rhino,akhlut,"[14, 17, 20, 23]","[3, 6, 13]",1.0
+wooly rhino,akhlut,"[14, 17, 20, 23]","[5, 8, 15]",1.0
+wooly rhino,akhlut,"[14, 17, 20, 23]","[8, 11, 18]",1.0
+wooly rhino,akhlut,"[14, 17, 20, 23]","[9, 12, 19]",1.0
+wooly rhino,akhlut,"[14, 17, 20, 23]","[15, 18, 25]",1.0
+pairing average win rate,1.0, , , 
+giant sloth,dire wolf,"[1, 8, 11, 13]","[2, 6, 9, 12]",0.78
+giant sloth,dire wolf,"[1, 8, 11, 13]","[12, 16, 19, 22]",0.93
+giant sloth,dire wolf,"[2, 9, 12, 14]","[3, 7, 10, 13]",1.0
+giant sloth,dire wolf,"[2, 9, 12, 14]","[13, 17, 20, 23]",1.0
+giant sloth,dire wolf,"[3, 10, 13, 15]","[2, 6, 9, 12]",0.77
+giant sloth,dire wolf,"[3, 10, 13, 15]","[7, 11, 14, 17]",0.6
+giant sloth,dire wolf,"[3, 10, 13, 15]","[12, 16, 19, 22]",0.89
+giant sloth,dire wolf,"[6, 13, 16, 18]","[7, 11, 14, 17]",0.73
+giant sloth,dire wolf,"[7, 14, 17, 19]","[2, 6, 9, 12]",1.0
+giant sloth,dire wolf,"[7, 14, 17, 19]","[8, 12, 15, 18]",1.0
+giant sloth,dire wolf,"[8, 15, 18, 20]","[2, 6, 9, 12]",0.66
+giant sloth,dire wolf,"[8, 15, 18, 20]","[3, 7, 10, 13]",1.0
+giant sloth,dire wolf,"[8, 15, 18, 20]","[7, 11, 14, 17]",1.0
+giant sloth,dire wolf,"[8, 15, 18, 20]","[12, 16, 19, 22]",0.85
+giant sloth,dire wolf,"[11, 18, 21, 23]","[2, 6, 9, 12]",0.64
+giant sloth,dire wolf,"[11, 18, 21, 23]","[3, 7, 10, 13]",1.0
+giant sloth,dire wolf,"[11, 18, 21, 23]","[12, 16, 19, 22]",0.88
+giant sloth,dire wolf,"[12, 19, 22, 24]","[3, 7, 10, 13]",1.0
+giant sloth,dire wolf,"[12, 19, 22, 24]","[7, 11, 14, 17]",1.0
+giant sloth,dire wolf,"[12, 19, 22, 24]","[13, 17, 20, 23]",1.0
+giant sloth,dire wolf,"[13, 20, 23, 25]","[2, 6, 9, 12]",0.75
+giant sloth,dire wolf,"[13, 20, 23, 25]","[7, 11, 14, 17]",0.57
+giant sloth,dire wolf,"[13, 20, 23, 25]","[8, 12, 15, 18]",1.0
+giant sloth,dire wolf,"[13, 20, 23, 25]","[12, 16, 19, 22]",0.91
+pairing average win rate,0.8733333333333334, , , 
+giant sloth,saber tooth,"[1, 8, 11, 13]","[3, 10, 14]",1.0
+giant sloth,saber tooth,"[1, 8, 11, 13]","[7, 14, 18]",1.0
+giant sloth,saber tooth,"[1, 8, 11, 13]","[12, 19, 23]",1.0
+giant sloth,saber tooth,"[2, 9, 12, 14]","[6, 13, 17]",1.0
+giant sloth,saber tooth,"[2, 9, 12, 14]","[8, 15, 19]",1.0
+giant sloth,saber tooth,"[2, 9, 12, 14]","[11, 18, 22]",1.0
+giant sloth,saber tooth,"[2, 9, 12, 14]","[13, 20, 24]",1.0
+giant sloth,saber tooth,"[3, 10, 13, 15]","[1, 8, 12]",1.0
+giant sloth,saber tooth,"[3, 10, 13, 15]","[7, 14, 18]",1.0
+giant sloth,saber tooth,"[3, 10, 13, 15]","[11, 18, 22]",1.0
+giant sloth,saber tooth,"[3, 10, 13, 15]","[12, 19, 23]",1.0
+giant sloth,saber tooth,"[6, 13, 16, 18]","[1, 8, 12]",1.0
+giant sloth,saber tooth,"[6, 13, 16, 18]","[3, 10, 14]",1.0
+giant sloth,saber tooth,"[6, 13, 16, 18]","[8, 15, 19]",1.0
+giant sloth,saber tooth,"[6, 13, 16, 18]","[12, 19, 23]",1.0
+giant sloth,saber tooth,"[7, 14, 17, 19]","[1, 8, 12]",1.0
+giant sloth,saber tooth,"[7, 14, 17, 19]","[2, 9, 13]",1.0
+giant sloth,saber tooth,"[7, 14, 17, 19]","[11, 18, 22]",1.0
+giant sloth,saber tooth,"[7, 14, 17, 19]","[13, 20, 24]",1.0
+giant sloth,saber tooth,"[8, 15, 18, 20]","[2, 9, 13]",1.0
+giant sloth,saber tooth,"[8, 15, 18, 20]","[3, 10, 14]",1.0
+giant sloth,saber tooth,"[8, 15, 18, 20]","[6, 13, 17]",1.0
+giant sloth,saber tooth,"[8, 15, 18, 20]","[12, 19, 23]",1.0
+giant sloth,saber tooth,"[11, 18, 21, 23]","[1, 8, 12]",1.0
+giant sloth,saber tooth,"[11, 18, 21, 23]","[2, 9, 13]",1.0
+giant sloth,saber tooth,"[11, 18, 21, 23]","[3, 10, 14]",1.0
+giant sloth,saber tooth,"[11, 18, 21, 23]","[6, 13, 17]",1.0
+giant sloth,saber tooth,"[11, 18, 21, 23]","[8, 15, 19]",1.0
+giant sloth,saber tooth,"[11, 18, 21, 23]","[13, 20, 24]",1.0
+giant sloth,saber tooth,"[12, 19, 22, 24]","[2, 9, 13]",1.0
+giant sloth,saber tooth,"[12, 19, 22, 24]","[3, 10, 14]",1.0
+giant sloth,saber tooth,"[12, 19, 22, 24]","[6, 13, 17]",1.0
+giant sloth,saber tooth,"[12, 19, 22, 24]","[7, 14, 18]",1.0
+giant sloth,saber tooth,"[13, 20, 23, 25]","[1, 8, 12]",1.0
+giant sloth,saber tooth,"[13, 20, 23, 25]","[3, 10, 14]",1.0
+giant sloth,saber tooth,"[13, 20, 23, 25]","[7, 14, 18]",1.0
+giant sloth,saber tooth,"[13, 20, 23, 25]","[8, 15, 19]",1.0
+giant sloth,saber tooth,"[13, 20, 23, 25]","[11, 18, 22]",1.0
+pairing average win rate,1.0, , , 
+giant sloth,mammoth,"[1, 8, 11, 13]","[3, 7, 14]",1.0
+giant sloth,mammoth,"[1, 8, 11, 13]","[12, 16, 23]",1.0
+giant sloth,mammoth,"[1, 8, 11, 13]","[14, 18, 25]",1.0
+giant sloth,mammoth,"[2, 9, 12, 14]","[4, 8, 15]",1.0
+giant sloth,mammoth,"[2, 9, 12, 14]","[7, 11, 18]",1.0
+giant sloth,mammoth,"[2, 9, 12, 14]","[13, 17, 24]",1.0
+giant sloth,mammoth,"[3, 10, 13, 15]","[7, 11, 18]",1.0
+giant sloth,mammoth,"[3, 10, 13, 15]","[8, 12, 19]",1.0
+giant sloth,mammoth,"[3, 10, 13, 15]","[12, 16, 23]",1.0
+giant sloth,mammoth,"[3, 10, 13, 15]","[14, 18, 25]",1.0
+giant sloth,mammoth,"[6, 13, 16, 18]","[3, 7, 14]",1.0
+giant sloth,mammoth,"[6, 13, 16, 18]","[4, 8, 15]",1.0
+giant sloth,mammoth,"[6, 13, 16, 18]","[8, 12, 19]",1.0
+giant sloth,mammoth,"[7, 14, 17, 19]","[2, 6, 13]",1.0
+giant sloth,mammoth,"[7, 14, 17, 19]","[4, 8, 15]",1.0
+giant sloth,mammoth,"[7, 14, 17, 19]","[9, 13, 20]",1.0
+giant sloth,mammoth,"[7, 14, 17, 19]","[12, 16, 23]",1.0
+giant sloth,mammoth,"[8, 15, 18, 20]","[2, 6, 13]",1.0
+giant sloth,mammoth,"[8, 15, 18, 20]","[3, 7, 14]",1.0
+giant sloth,mammoth,"[8, 15, 18, 20]","[12, 16, 23]",1.0
+giant sloth,mammoth,"[8, 15, 18, 20]","[13, 17, 24]",1.0
+giant sloth,mammoth,"[11, 18, 21, 23]","[2, 6, 13]",1.0
+giant sloth,mammoth,"[11, 18, 21, 23]","[3, 7, 14]",1.0
+giant sloth,mammoth,"[11, 18, 21, 23]","[4, 8, 15]",1.0
+giant sloth,mammoth,"[11, 18, 21, 23]","[8, 12, 19]",1.0
+giant sloth,mammoth,"[11, 18, 21, 23]","[9, 13, 20]",1.0
+giant sloth,mammoth,"[11, 18, 21, 23]","[13, 17, 24]",1.0
+giant sloth,mammoth,"[12, 19, 22, 24]","[2, 6, 13]",1.0
+giant sloth,mammoth,"[12, 19, 22, 24]","[3, 7, 14]",1.0
+giant sloth,mammoth,"[12, 19, 22, 24]","[4, 8, 15]",1.0
+giant sloth,mammoth,"[12, 19, 22, 24]","[7, 11, 18]",1.0
+giant sloth,mammoth,"[12, 19, 22, 24]","[9, 13, 20]",1.0
+giant sloth,mammoth,"[12, 19, 22, 24]","[14, 18, 25]",1.0
+giant sloth,mammoth,"[13, 20, 23, 25]","[3, 7, 14]",1.0
+giant sloth,mammoth,"[13, 20, 23, 25]","[4, 8, 15]",1.0
+giant sloth,mammoth,"[13, 20, 23, 25]","[7, 11, 18]",1.0
+giant sloth,mammoth,"[13, 20, 23, 25]","[8, 12, 19]",1.0
+pairing average win rate,1.0, , , 
+giant sloth,akhlut,"[1, 8, 11, 13]","[4, 7, 14]",0.96
+giant sloth,akhlut,"[1, 8, 11, 13]","[9, 12, 19]",1.0
+giant sloth,akhlut,"[1, 8, 11, 13]","[14, 17, 24]",0.91
+giant sloth,akhlut,"[1, 8, 11, 13]","[15, 18, 25]",1.0
+giant sloth,akhlut,"[2, 9, 12, 14]","[3, 6, 13]",1.0
+giant sloth,akhlut,"[2, 9, 12, 14]","[5, 8, 15]",1.0
+giant sloth,akhlut,"[2, 9, 12, 14]","[8, 11, 18]",1.0
+giant sloth,akhlut,"[2, 9, 12, 14]","[10, 13, 20]",0.97
+giant sloth,akhlut,"[2, 9, 12, 14]","[13, 16, 23]",0.98
+giant sloth,akhlut,"[2, 9, 12, 14]","[15, 18, 25]",1.0
+giant sloth,akhlut,"[3, 10, 13, 15]","[4, 7, 14]",0.89
+giant sloth,akhlut,"[3, 10, 13, 15]","[8, 11, 18]",1.0
+giant sloth,akhlut,"[3, 10, 13, 15]","[9, 12, 19]",0.68
+giant sloth,akhlut,"[3, 10, 13, 15]","[14, 17, 24]",0.85
+giant sloth,akhlut,"[6, 13, 16, 18]","[4, 7, 14]",0.82
+giant sloth,akhlut,"[6, 13, 16, 18]","[5, 8, 15]",1.0
+giant sloth,akhlut,"[6, 13, 16, 18]","[9, 12, 19]",0.72
+giant sloth,akhlut,"[6, 13, 16, 18]","[14, 17, 24]",0.88
+giant sloth,akhlut,"[7, 14, 17, 19]","[3, 6, 13]",0.97
+giant sloth,akhlut,"[7, 14, 17, 19]","[5, 8, 15]",1.0
+giant sloth,akhlut,"[7, 14, 17, 19]","[8, 11, 18]",1.0
+giant sloth,akhlut,"[7, 14, 17, 19]","[10, 13, 20]",0.98
+giant sloth,akhlut,"[7, 14, 17, 19]","[13, 16, 23]",0.98
+giant sloth,akhlut,"[7, 14, 17, 19]","[15, 18, 25]",1.0
+giant sloth,akhlut,"[8, 15, 18, 20]","[3, 6, 13]",1.0
+giant sloth,akhlut,"[8, 15, 18, 20]","[4, 7, 14]",1.0
+giant sloth,akhlut,"[8, 15, 18, 20]","[9, 12, 19]",1.0
+giant sloth,akhlut,"[8, 15, 18, 20]","[13, 16, 23]",1.0
+giant sloth,akhlut,"[8, 15, 18, 20]","[14, 17, 24]",1.0
+giant sloth,akhlut,"[11, 18, 21, 23]","[3, 6, 13]",1.0
+giant sloth,akhlut,"[11, 18, 21, 23]","[4, 7, 14]",1.0
+giant sloth,akhlut,"[11, 18, 21, 23]","[5, 8, 15]",1.0
+giant sloth,akhlut,"[11, 18, 21, 23]","[9, 12, 19]",1.0
+giant sloth,akhlut,"[11, 18, 21, 23]","[10, 13, 20]",1.0
+giant sloth,akhlut,"[11, 18, 21, 23]","[14, 17, 24]",1.0
+giant sloth,akhlut,"[12, 19, 22, 24]","[3, 6, 13]",0.99
+giant sloth,akhlut,"[12, 19, 22, 24]","[4, 7, 14]",1.0
+giant sloth,akhlut,"[12, 19, 22, 24]","[5, 8, 15]",1.0
+giant sloth,akhlut,"[12, 19, 22, 24]","[8, 11, 18]",1.0
+giant sloth,akhlut,"[12, 19, 22, 24]","[10, 13, 20]",0.98
+giant sloth,akhlut,"[12, 19, 22, 24]","[13, 16, 23]",0.99
+giant sloth,akhlut,"[12, 19, 22, 24]","[15, 18, 25]",1.0
+giant sloth,akhlut,"[13, 20, 23, 25]","[4, 7, 14]",0.83
+giant sloth,akhlut,"[13, 20, 23, 25]","[5, 8, 15]",1.0
+giant sloth,akhlut,"[13, 20, 23, 25]","[8, 11, 18]",1.0
+giant sloth,akhlut,"[13, 20, 23, 25]","[9, 12, 19]",0.68
+giant sloth,akhlut,"[13, 20, 23, 25]","[14, 17, 24]",0.92
+pairing average win rate,0.9570212765957448, , , 
+dire wolf,saber tooth,"[2, 6, 9, 12]","[3, 10, 14]",1.0
+dire wolf,saber tooth,"[2, 6, 9, 12]","[7, 14, 18]",1.0
+dire wolf,saber tooth,"[2, 6, 9, 12]","[8, 15, 19]",1.0
+dire wolf,saber tooth,"[2, 6, 9, 12]","[11, 18, 22]",1.0
+dire wolf,saber tooth,"[2, 6, 9, 12]","[13, 20, 24]",1.0
+dire wolf,saber tooth,"[3, 7, 10, 13]","[1, 8, 12]",1.0
+dire wolf,saber tooth,"[3, 7, 10, 13]","[8, 15, 19]",1.0
+dire wolf,saber tooth,"[3, 7, 10, 13]","[11, 18, 22]",1.0
+dire wolf,saber tooth,"[3, 7, 10, 13]","[12, 19, 23]",1.0
+dire wolf,saber tooth,"[7, 11, 14, 17]","[1, 8, 12]",1.0
+dire wolf,saber tooth,"[7, 11, 14, 17]","[2, 9, 13]",1.0
+dire wolf,saber tooth,"[7, 11, 14, 17]","[8, 15, 19]",1.0
+dire wolf,saber tooth,"[7, 11, 14, 17]","[12, 19, 23]",1.0
+dire wolf,saber tooth,"[7, 11, 14, 17]","[13, 20, 24]",1.0
+dire wolf,saber tooth,"[8, 12, 15, 18]","[2, 9, 13]",1.0
+dire wolf,saber tooth,"[8, 12, 15, 18]","[3, 10, 14]",1.0
+dire wolf,saber tooth,"[8, 12, 15, 18]","[6, 13, 17]",1.0
+dire wolf,saber tooth,"[8, 12, 15, 18]","[13, 20, 24]",1.0
+dire wolf,saber tooth,"[12, 16, 19, 22]","[2, 9, 13]",1.0
+dire wolf,saber tooth,"[12, 16, 19, 22]","[3, 10, 14]",1.0
+dire wolf,saber tooth,"[12, 16, 19, 22]","[6, 13, 17]",1.0
+dire wolf,saber tooth,"[12, 16, 19, 22]","[7, 14, 18]",1.0
+dire wolf,saber tooth,"[12, 16, 19, 22]","[13, 20, 24]",1.0
+dire wolf,saber tooth,"[13, 17, 20, 23]","[1, 8, 12]",1.0
+dire wolf,saber tooth,"[13, 17, 20, 23]","[3, 10, 14]",1.0
+dire wolf,saber tooth,"[13, 17, 20, 23]","[7, 14, 18]",1.0
+dire wolf,saber tooth,"[13, 17, 20, 23]","[8, 15, 19]",1.0
+dire wolf,saber tooth,"[13, 17, 20, 23]","[11, 18, 22]",1.0
+pairing average win rate,1.0, , , 
+dire wolf,mammoth,"[2, 6, 9, 12]","[3, 7, 14]",0.71
+dire wolf,mammoth,"[2, 6, 9, 12]","[4, 8, 15]",0.65
+dire wolf,mammoth,"[2, 6, 9, 12]","[7, 11, 18]",1.0
+dire wolf,mammoth,"[2, 6, 9, 12]","[13, 17, 24]",0.67
+dire wolf,mammoth,"[2, 6, 9, 12]","[14, 18, 25]",1.0
+dire wolf,mammoth,"[3, 7, 10, 13]","[4, 8, 15]",1.0
+dire wolf,mammoth,"[3, 7, 10, 13]","[8, 12, 19]",1.0
+dire wolf,mammoth,"[3, 7, 10, 13]","[12, 16, 23]",1.0
+dire wolf,mammoth,"[3, 7, 10, 13]","[14, 18, 25]",1.0
+dire wolf,mammoth,"[7, 11, 14, 17]","[2, 6, 13]",1.0
+dire wolf,mammoth,"[7, 11, 14, 17]","[4, 8, 15]",1.0
+dire wolf,mammoth,"[7, 11, 14, 17]","[8, 12, 19]",1.0
+dire wolf,mammoth,"[7, 11, 14, 17]","[9, 13, 20]",1.0
+dire wolf,mammoth,"[7, 11, 14, 17]","[12, 16, 23]",1.0
+dire wolf,mammoth,"[8, 12, 15, 18]","[2, 6, 13]",1.0
+dire wolf,mammoth,"[8, 12, 15, 18]","[3, 7, 14]",1.0
+dire wolf,mammoth,"[8, 12, 15, 18]","[9, 13, 20]",1.0
+dire wolf,mammoth,"[8, 12, 15, 18]","[13, 17, 24]",1.0
+dire wolf,mammoth,"[12, 16, 19, 22]","[2, 6, 13]",1.0
+dire wolf,mammoth,"[12, 16, 19, 22]","[3, 7, 14]",1.0
+dire wolf,mammoth,"[12, 16, 19, 22]","[4, 8, 15]",1.0
+dire wolf,mammoth,"[12, 16, 19, 22]","[7, 11, 18]",1.0
+dire wolf,mammoth,"[12, 16, 19, 22]","[9, 13, 20]",1.0
+dire wolf,mammoth,"[12, 16, 19, 22]","[13, 17, 24]",1.0
+dire wolf,mammoth,"[12, 16, 19, 22]","[14, 18, 25]",1.0
+dire wolf,mammoth,"[13, 17, 20, 23]","[3, 7, 14]",1.0
+dire wolf,mammoth,"[13, 17, 20, 23]","[4, 8, 15]",1.0
+dire wolf,mammoth,"[13, 17, 20, 23]","[7, 11, 18]",1.0
+dire wolf,mammoth,"[13, 17, 20, 23]","[8, 12, 19]",1.0
+dire wolf,mammoth,"[13, 17, 20, 23]","[14, 18, 25]",1.0
+pairing average win rate,0.9676666666666667, , , 
+dire wolf,akhlut,"[2, 6, 9, 12]","[4, 7, 14]",1.0
+dire wolf,akhlut,"[2, 6, 9, 12]","[5, 8, 15]",0.94
+dire wolf,akhlut,"[2, 6, 9, 12]","[8, 11, 18]",0.94
+dire wolf,akhlut,"[2, 6, 9, 12]","[10, 13, 20]",0.77
+dire wolf,akhlut,"[2, 6, 9, 12]","[13, 16, 23]",1.0
+dire wolf,akhlut,"[2, 6, 9, 12]","[14, 17, 24]",1.0
+dire wolf,akhlut,"[2, 6, 9, 12]","[15, 18, 25]",0.95
+dire wolf,akhlut,"[3, 7, 10, 13]","[5, 8, 15]",1.0
+dire wolf,akhlut,"[3, 7, 10, 13]","[8, 11, 18]",1.0
+dire wolf,akhlut,"[3, 7, 10, 13]","[9, 12, 19]",1.0
+dire wolf,akhlut,"[3, 7, 10, 13]","[14, 17, 24]",1.0
+dire wolf,akhlut,"[3, 7, 10, 13]","[15, 18, 25]",1.0
+dire wolf,akhlut,"[7, 11, 14, 17]","[3, 6, 13]",1.0
+dire wolf,akhlut,"[7, 11, 14, 17]","[5, 8, 15]",1.0
+dire wolf,akhlut,"[7, 11, 14, 17]","[9, 12, 19]",1.0
+dire wolf,akhlut,"[7, 11, 14, 17]","[10, 13, 20]",1.0
+dire wolf,akhlut,"[7, 11, 14, 17]","[13, 16, 23]",1.0
+dire wolf,akhlut,"[7, 11, 14, 17]","[15, 18, 25]",1.0
+dire wolf,akhlut,"[8, 12, 15, 18]","[3, 6, 13]",1.0
+dire wolf,akhlut,"[8, 12, 15, 18]","[4, 7, 14]",1.0
+dire wolf,akhlut,"[8, 12, 15, 18]","[10, 13, 20]",1.0
+dire wolf,akhlut,"[8, 12, 15, 18]","[13, 16, 23]",1.0
+dire wolf,akhlut,"[8, 12, 15, 18]","[14, 17, 24]",1.0
+dire wolf,akhlut,"[12, 16, 19, 22]","[3, 6, 13]",1.0
+dire wolf,akhlut,"[12, 16, 19, 22]","[4, 7, 14]",1.0
+dire wolf,akhlut,"[12, 16, 19, 22]","[5, 8, 15]",0.92
+dire wolf,akhlut,"[12, 16, 19, 22]","[8, 11, 18]",0.9
+dire wolf,akhlut,"[12, 16, 19, 22]","[10, 13, 20]",0.79
+dire wolf,akhlut,"[12, 16, 19, 22]","[14, 17, 24]",1.0
+dire wolf,akhlut,"[12, 16, 19, 22]","[15, 18, 25]",0.94
+dire wolf,akhlut,"[13, 17, 20, 23]","[4, 7, 14]",1.0
+dire wolf,akhlut,"[13, 17, 20, 23]","[5, 8, 15]",1.0
+dire wolf,akhlut,"[13, 17, 20, 23]","[8, 11, 18]",1.0
+dire wolf,akhlut,"[13, 17, 20, 23]","[9, 12, 19]",1.0
+dire wolf,akhlut,"[13, 17, 20, 23]","[15, 18, 25]",1.0
+pairing average win rate,0.9757142857142859, , , 
+saber tooth,mammoth,"[1, 8, 12]","[2, 6, 13]",0.98
+saber tooth,mammoth,"[1, 8, 12]","[3, 7, 14]",1.0
+saber tooth,mammoth,"[1, 8, 12]","[7, 11, 18]",1.0
+saber tooth,mammoth,"[1, 8, 12]","[9, 13, 20]",0.96
+saber tooth,mammoth,"[1, 8, 12]","[13, 17, 24]",0.98
+saber tooth,mammoth,"[1, 8, 12]","[14, 18, 25]",1.0
+saber tooth,mammoth,"[2, 9, 13]","[3, 7, 14]",0.95
+saber tooth,mammoth,"[2, 9, 13]","[4, 8, 15]",0.91
+saber tooth,mammoth,"[2, 9, 13]","[7, 11, 18]",0.96
+saber tooth,mammoth,"[2, 9, 13]","[8, 12, 19]",1.0
+saber tooth,mammoth,"[2, 9, 13]","[12, 16, 23]",0.94
+saber tooth,mammoth,"[2, 9, 13]","[14, 18, 25]",0.93
+saber tooth,mammoth,"[3, 10, 14]","[2, 6, 13]",0.93
+saber tooth,mammoth,"[3, 10, 14]","[4, 8, 15]",1.0
+saber tooth,mammoth,"[3, 10, 14]","[7, 11, 18]",1.0
+saber tooth,mammoth,"[3, 10, 14]","[8, 12, 19]",1.0
+saber tooth,mammoth,"[3, 10, 14]","[9, 13, 20]",0.88
+saber tooth,mammoth,"[3, 10, 14]","[12, 16, 23]",1.0
+saber tooth,mammoth,"[3, 10, 14]","[13, 17, 24]",0.92
+saber tooth,mammoth,"[6, 13, 17]","[3, 7, 14]",0.95
+saber tooth,mammoth,"[6, 13, 17]","[4, 8, 15]",0.93
+saber tooth,mammoth,"[6, 13, 17]","[7, 11, 18]",0.96
+saber tooth,mammoth,"[6, 13, 17]","[8, 12, 19]",1.0
+saber tooth,mammoth,"[6, 13, 17]","[12, 16, 23]",0.93
+saber tooth,mammoth,"[6, 13, 17]","[14, 18, 25]",0.96
+saber tooth,mammoth,"[7, 14, 18]","[2, 6, 13]",1.0
+saber tooth,mammoth,"[7, 14, 18]","[4, 8, 15]",1.0
+saber tooth,mammoth,"[7, 14, 18]","[8, 12, 19]",1.0
+saber tooth,mammoth,"[7, 14, 18]","[9, 13, 20]",1.0
+saber tooth,mammoth,"[7, 14, 18]","[12, 16, 23]",1.0
+saber tooth,mammoth,"[7, 14, 18]","[13, 17, 24]",1.0
+saber tooth,mammoth,"[8, 15, 19]","[2, 6, 13]",0.98
+saber tooth,mammoth,"[8, 15, 19]","[3, 7, 14]",1.0
+saber tooth,mammoth,"[8, 15, 19]","[7, 11, 18]",1.0
+saber tooth,mammoth,"[8, 15, 19]","[9, 13, 20]",0.96
+saber tooth,mammoth,"[8, 15, 19]","[12, 16, 23]",1.0
+saber tooth,mammoth,"[8, 15, 19]","[13, 17, 24]",0.93
+saber tooth,mammoth,"[8, 15, 19]","[14, 18, 25]",1.0
+saber tooth,mammoth,"[11, 18, 22]","[2, 6, 13]",0.95
+saber tooth,mammoth,"[11, 18, 22]","[3, 7, 14]",1.0
+saber tooth,mammoth,"[11, 18, 22]","[4, 8, 15]",1.0
+saber tooth,mammoth,"[11, 18, 22]","[8, 12, 19]",1.0
+saber tooth,mammoth,"[11, 18, 22]","[9, 13, 20]",0.89
+saber tooth,mammoth,"[11, 18, 22]","[12, 16, 23]",1.0
+saber tooth,mammoth,"[11, 18, 22]","[13, 17, 24]",0.9
+saber tooth,mammoth,"[12, 19, 23]","[2, 6, 13]",0.91
+saber tooth,mammoth,"[12, 19, 23]","[3, 7, 14]",1.0
+saber tooth,mammoth,"[12, 19, 23]","[4, 8, 15]",1.0
+saber tooth,mammoth,"[12, 19, 23]","[7, 11, 18]",1.0
+saber tooth,mammoth,"[12, 19, 23]","[9, 13, 20]",0.96
+saber tooth,mammoth,"[12, 19, 23]","[13, 17, 24]",0.96
+saber tooth,mammoth,"[12, 19, 23]","[14, 18, 25]",1.0
+saber tooth,mammoth,"[13, 20, 24]","[3, 7, 14]",0.94
+saber tooth,mammoth,"[13, 20, 24]","[4, 8, 15]",0.9
+saber tooth,mammoth,"[13, 20, 24]","[7, 11, 18]",0.95
+saber tooth,mammoth,"[13, 20, 24]","[8, 12, 19]",1.0
+saber tooth,mammoth,"[13, 20, 24]","[12, 16, 23]",0.92
+saber tooth,mammoth,"[13, 20, 24]","[14, 18, 25]",0.94
+pairing average win rate,0.9682758620689654, , , 
+saber tooth,akhlut,"[1, 8, 12]","[3, 6, 13]",1.0
+saber tooth,akhlut,"[1, 8, 12]","[4, 7, 14]",1.0
+saber tooth,akhlut,"[1, 8, 12]","[10, 13, 20]",1.0
+saber tooth,akhlut,"[1, 8, 12]","[13, 16, 23]",1.0
+saber tooth,akhlut,"[1, 8, 12]","[14, 17, 24]",1.0
+saber tooth,akhlut,"[1, 8, 12]","[15, 18, 25]",1.0
+saber tooth,akhlut,"[2, 9, 13]","[4, 7, 14]",1.0
+saber tooth,akhlut,"[2, 9, 13]","[5, 8, 15]",1.0
+saber tooth,akhlut,"[2, 9, 13]","[8, 11, 18]",1.0
+saber tooth,akhlut,"[2, 9, 13]","[14, 17, 24]",1.0
+saber tooth,akhlut,"[2, 9, 13]","[15, 18, 25]",1.0
+saber tooth,akhlut,"[3, 10, 14]","[5, 8, 15]",1.0
+saber tooth,akhlut,"[3, 10, 14]","[8, 11, 18]",1.0
+saber tooth,akhlut,"[3, 10, 14]","[9, 12, 19]",1.0
+saber tooth,akhlut,"[3, 10, 14]","[13, 16, 23]",1.0
+saber tooth,akhlut,"[3, 10, 14]","[15, 18, 25]",1.0
+saber tooth,akhlut,"[6, 13, 17]","[4, 7, 14]",1.0
+saber tooth,akhlut,"[6, 13, 17]","[5, 8, 15]",1.0
+saber tooth,akhlut,"[6, 13, 17]","[8, 11, 18]",1.0
+saber tooth,akhlut,"[6, 13, 17]","[9, 12, 19]",1.0
+saber tooth,akhlut,"[6, 13, 17]","[15, 18, 25]",1.0
+saber tooth,akhlut,"[7, 14, 18]","[3, 6, 13]",1.0
+saber tooth,akhlut,"[7, 14, 18]","[5, 8, 15]",1.0
+saber tooth,akhlut,"[7, 14, 18]","[9, 12, 19]",1.0
+saber tooth,akhlut,"[7, 14, 18]","[10, 13, 20]",1.0
+saber tooth,akhlut,"[7, 14, 18]","[13, 16, 23]",1.0
+saber tooth,akhlut,"[8, 15, 19]","[3, 6, 13]",1.0
+saber tooth,akhlut,"[8, 15, 19]","[4, 7, 14]",1.0
+saber tooth,akhlut,"[8, 15, 19]","[10, 13, 20]",1.0
+saber tooth,akhlut,"[8, 15, 19]","[13, 16, 23]",1.0
+saber tooth,akhlut,"[8, 15, 19]","[14, 17, 24]",1.0
+saber tooth,akhlut,"[11, 18, 22]","[3, 6, 13]",1.0
+saber tooth,akhlut,"[11, 18, 22]","[4, 7, 14]",1.0
+saber tooth,akhlut,"[11, 18, 22]","[5, 8, 15]",1.0
+saber tooth,akhlut,"[11, 18, 22]","[9, 12, 19]",1.0
+saber tooth,akhlut,"[11, 18, 22]","[10, 13, 20]",1.0
+saber tooth,akhlut,"[11, 18, 22]","[13, 16, 23]",1.0
+saber tooth,akhlut,"[11, 18, 22]","[14, 17, 24]",1.0
+saber tooth,akhlut,"[12, 19, 23]","[3, 6, 13]",1.0
+saber tooth,akhlut,"[12, 19, 23]","[4, 7, 14]",1.0
+saber tooth,akhlut,"[12, 19, 23]","[5, 8, 15]",1.0
+saber tooth,akhlut,"[12, 19, 23]","[8, 11, 18]",1.0
+saber tooth,akhlut,"[12, 19, 23]","[10, 13, 20]",1.0
+saber tooth,akhlut,"[12, 19, 23]","[14, 17, 24]",1.0
+saber tooth,akhlut,"[12, 19, 23]","[15, 18, 25]",1.0
+saber tooth,akhlut,"[13, 20, 24]","[4, 7, 14]",1.0
+saber tooth,akhlut,"[13, 20, 24]","[5, 8, 15]",1.0
+saber tooth,akhlut,"[13, 20, 24]","[8, 11, 18]",1.0
+saber tooth,akhlut,"[13, 20, 24]","[9, 12, 19]",1.0
+saber tooth,akhlut,"[13, 20, 24]","[15, 18, 25]",1.0
+pairing average win rate,1.0, , , 
+mammoth,akhlut,"[2, 6, 13]","[4, 7, 14]",1.0
+mammoth,akhlut,"[2, 6, 13]","[5, 8, 15]",1.0
+mammoth,akhlut,"[2, 6, 13]","[8, 11, 18]",1.0
+mammoth,akhlut,"[2, 6, 13]","[9, 12, 19]",1.0
+mammoth,akhlut,"[2, 6, 13]","[14, 17, 24]",1.0
+mammoth,akhlut,"[2, 6, 13]","[15, 18, 25]",1.0
+mammoth,akhlut,"[3, 7, 14]","[5, 8, 15]",1.0
+mammoth,akhlut,"[3, 7, 14]","[8, 11, 18]",1.0
+mammoth,akhlut,"[3, 7, 14]","[9, 12, 19]",1.0
+mammoth,akhlut,"[3, 7, 14]","[10, 13, 20]",1.0
+mammoth,akhlut,"[3, 7, 14]","[13, 16, 23]",1.0
+mammoth,akhlut,"[3, 7, 14]","[15, 18, 25]",1.0
+mammoth,akhlut,"[4, 8, 15]","[3, 6, 13]",1.0
+mammoth,akhlut,"[4, 8, 15]","[9, 12, 19]",1.0
+mammoth,akhlut,"[4, 8, 15]","[10, 13, 20]",1.0
+mammoth,akhlut,"[4, 8, 15]","[13, 16, 23]",1.0
+mammoth,akhlut,"[4, 8, 15]","[14, 17, 24]",1.0
+mammoth,akhlut,"[7, 11, 18]","[3, 6, 13]",1.0
+mammoth,akhlut,"[7, 11, 18]","[5, 8, 15]",1.0
+mammoth,akhlut,"[7, 11, 18]","[9, 12, 19]",1.0
+mammoth,akhlut,"[7, 11, 18]","[10, 13, 20]",1.0
+mammoth,akhlut,"[7, 11, 18]","[13, 16, 23]",1.0
+mammoth,akhlut,"[7, 11, 18]","[14, 17, 24]",1.0
+mammoth,akhlut,"[8, 12, 19]","[3, 6, 13]",1.0
+mammoth,akhlut,"[8, 12, 19]","[4, 7, 14]",1.0
+mammoth,akhlut,"[8, 12, 19]","[10, 13, 20]",1.0
+mammoth,akhlut,"[8, 12, 19]","[13, 16, 23]",1.0
+mammoth,akhlut,"[8, 12, 19]","[14, 17, 24]",1.0
+mammoth,akhlut,"[8, 12, 19]","[15, 18, 25]",1.0
+mammoth,akhlut,"[9, 13, 20]","[4, 7, 14]",1.0
+mammoth,akhlut,"[9, 13, 20]","[5, 8, 15]",1.0
+mammoth,akhlut,"[9, 13, 20]","[8, 11, 18]",1.0
+mammoth,akhlut,"[9, 13, 20]","[14, 17, 24]",1.0
+mammoth,akhlut,"[9, 13, 20]","[15, 18, 25]",1.0
+mammoth,akhlut,"[12, 16, 23]","[3, 6, 13]",1.0
+mammoth,akhlut,"[12, 16, 23]","[4, 7, 14]",1.0
+mammoth,akhlut,"[12, 16, 23]","[5, 8, 15]",1.0
+mammoth,akhlut,"[12, 16, 23]","[8, 11, 18]",1.0
+mammoth,akhlut,"[12, 16, 23]","[10, 13, 20]",1.0
+mammoth,akhlut,"[12, 16, 23]","[14, 17, 24]",1.0
+mammoth,akhlut,"[12, 16, 23]","[15, 18, 25]",1.0
+mammoth,akhlut,"[13, 17, 24]","[4, 7, 14]",1.0
+mammoth,akhlut,"[13, 17, 24]","[5, 8, 15]",1.0
+mammoth,akhlut,"[13, 17, 24]","[8, 11, 18]",1.0
+mammoth,akhlut,"[13, 17, 24]","[9, 12, 19]",1.0
+mammoth,akhlut,"[13, 17, 24]","[15, 18, 25]",1.0
+mammoth,akhlut,"[14, 18, 25]","[3, 6, 13]",1.0
+mammoth,akhlut,"[14, 18, 25]","[5, 8, 15]",1.0
+mammoth,akhlut,"[14, 18, 25]","[9, 12, 19]",1.0
+mammoth,akhlut,"[14, 18, 25]","[10, 13, 20]",1.0
+mammoth,akhlut,"[14, 18, 25]","[13, 16, 23]",1.0
+pairing average win rate,1.0, , , 

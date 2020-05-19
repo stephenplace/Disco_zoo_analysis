@@ -1,0 +1,961 @@
+animal_1,animal_2,chosen_1,chosen_2,win_rate
+moonkey,lunar tick,"[1, 6, 8, 13]","[2, 12, 16, 18]",0.89
+moonkey,lunar tick,"[1, 6, 8, 13]","[4, 14, 18, 20]",0.9
+moonkey,lunar tick,"[1, 6, 8, 13]","[7, 17, 21, 23]",0.83
+moonkey,lunar tick,"[1, 6, 8, 13]","[9, 19, 23, 25]",0.85
+moonkey,lunar tick,"[2, 7, 9, 14]","[3, 13, 17, 19]",1.0
+moonkey,lunar tick,"[2, 7, 9, 14]","[8, 18, 22, 24]",1.0
+moonkey,lunar tick,"[3, 8, 10, 15]","[2, 12, 16, 18]",0.86
+moonkey,lunar tick,"[3, 8, 10, 15]","[4, 14, 18, 20]",0.89
+moonkey,lunar tick,"[3, 8, 10, 15]","[7, 17, 21, 23]",0.9
+moonkey,lunar tick,"[3, 8, 10, 15]","[9, 19, 23, 25]",0.93
+moonkey,lunar tick,"[6, 11, 13, 18]","[7, 17, 21, 23]",1.0
+moonkey,lunar tick,"[6, 11, 13, 18]","[9, 19, 23, 25]",1.0
+moonkey,lunar tick,"[7, 12, 14, 19]","[8, 18, 22, 24]",1.0
+moonkey,lunar tick,"[8, 13, 15, 20]","[2, 12, 16, 18]",1.0
+moonkey,lunar tick,"[8, 13, 15, 20]","[7, 17, 21, 23]",1.0
+moonkey,lunar tick,"[8, 13, 15, 20]","[9, 19, 23, 25]",1.0
+moonkey,lunar tick,"[11, 16, 18, 23]","[3, 13, 17, 19]",1.0
+moonkey,lunar tick,"[12, 17, 19, 24]","[4, 14, 18, 20]",1.0
+moonkey,lunar tick,"[13, 18, 20, 25]","[7, 17, 21, 23]",1.0
+pairing average win rate,0.9500000000000001, , , 
+moonkey,tribble,"[1, 6, 8, 13]","[12, 16, 17, 18]",0.77
+moonkey,tribble,"[1, 6, 8, 13]","[14, 18, 19, 20]",0.79
+moonkey,tribble,"[1, 6, 8, 13]","[17, 21, 22, 23]",0.89
+moonkey,tribble,"[1, 6, 8, 13]","[18, 22, 23, 24]",0.95
+moonkey,tribble,"[1, 6, 8, 13]","[19, 23, 24, 25]",0.86
+moonkey,tribble,"[2, 7, 9, 14]","[12, 16, 17, 18]",0.61
+moonkey,tribble,"[2, 7, 9, 14]","[13, 17, 18, 19]",0.53
+moonkey,tribble,"[2, 7, 9, 14]","[17, 21, 22, 23]",0.78
+moonkey,tribble,"[2, 7, 9, 14]","[18, 22, 23, 24]",0.73
+moonkey,tribble,"[2, 7, 9, 14]","[19, 23, 24, 25]",0.59
+moonkey,tribble,"[3, 8, 10, 15]","[7, 11, 12, 13]",1.0
+moonkey,tribble,"[3, 8, 10, 15]","[12, 16, 17, 18]",0.78
+moonkey,tribble,"[3, 8, 10, 15]","[13, 17, 18, 19]",1.0
+moonkey,tribble,"[3, 8, 10, 15]","[14, 18, 19, 20]",0.79
+moonkey,tribble,"[3, 8, 10, 15]","[17, 21, 22, 23]",0.85
+moonkey,tribble,"[3, 8, 10, 15]","[18, 22, 23, 24]",0.87
+moonkey,tribble,"[3, 8, 10, 15]","[19, 23, 24, 25]",0.95
+moonkey,tribble,"[6, 11, 13, 18]","[3, 7, 8, 9]",1.0
+moonkey,tribble,"[6, 11, 13, 18]","[4, 8, 9, 10]",1.0
+moonkey,tribble,"[6, 11, 13, 18]","[17, 21, 22, 23]",0.6
+moonkey,tribble,"[6, 11, 13, 18]","[19, 23, 24, 25]",0.45
+moonkey,tribble,"[7, 12, 14, 19]","[4, 8, 9, 10]",1.0
+moonkey,tribble,"[7, 12, 14, 19]","[17, 21, 22, 23]",0.67
+moonkey,tribble,"[7, 12, 14, 19]","[18, 22, 23, 24]",0.61
+moonkey,tribble,"[8, 13, 15, 20]","[12, 16, 17, 18]",1.0
+moonkey,tribble,"[8, 13, 15, 20]","[17, 21, 22, 23]",1.0
+moonkey,tribble,"[8, 13, 15, 20]","[18, 22, 23, 24]",1.0
+moonkey,tribble,"[8, 13, 15, 20]","[19, 23, 24, 25]",1.0
+moonkey,tribble,"[11, 16, 18, 23]","[2, 6, 7, 8]",1.0
+moonkey,tribble,"[11, 16, 18, 23]","[3, 7, 8, 9]",1.0
+moonkey,tribble,"[11, 16, 18, 23]","[4, 8, 9, 10]",1.0
+moonkey,tribble,"[11, 16, 18, 23]","[8, 12, 13, 14]",1.0
+moonkey,tribble,"[11, 16, 18, 23]","[9, 13, 14, 15]",1.0
+moonkey,tribble,"[12, 17, 19, 24]","[2, 6, 7, 8]",1.0
+moonkey,tribble,"[12, 17, 19, 24]","[3, 7, 8, 9]",1.0
+moonkey,tribble,"[12, 17, 19, 24]","[4, 8, 9, 10]",1.0
+moonkey,tribble,"[12, 17, 19, 24]","[9, 13, 14, 15]",1.0
+moonkey,tribble,"[13, 18, 20, 25]","[2, 6, 7, 8]",1.0
+moonkey,tribble,"[13, 18, 20, 25]","[3, 7, 8, 9]",1.0
+moonkey,tribble,"[13, 18, 20, 25]","[4, 8, 9, 10]",1.0
+moonkey,tribble,"[13, 18, 20, 25]","[17, 21, 22, 23]",0.49
+pairing average win rate,0.8673170731707318, , , 
+moonkey,moonicorn,"[1, 6, 8, 13]","[4, 9, 10]",0.87
+moonkey,moonicorn,"[1, 6, 8, 13]","[9, 14, 15]",1.0
+moonkey,moonicorn,"[1, 6, 8, 13]","[11, 16, 17]",1.0
+moonkey,moonicorn,"[1, 6, 8, 13]","[12, 17, 18]",1.0
+moonkey,moonicorn,"[1, 6, 8, 13]","[14, 19, 20]",0.86
+moonkey,moonicorn,"[1, 6, 8, 13]","[16, 21, 22]",0.49
+moonkey,moonicorn,"[1, 6, 8, 13]","[17, 22, 23]",1.0
+moonkey,moonicorn,"[1, 6, 8, 13]","[18, 23, 24]",0.85
+moonkey,moonicorn,"[1, 6, 8, 13]","[19, 24, 25]",1.0
+moonkey,moonicorn,"[2, 7, 9, 14]","[6, 11, 12]",0.46
+moonkey,moonicorn,"[2, 7, 9, 14]","[11, 16, 17]",1.0
+moonkey,moonicorn,"[2, 7, 9, 14]","[12, 17, 18]",1.0
+moonkey,moonicorn,"[2, 7, 9, 14]","[13, 18, 19]",1.0
+moonkey,moonicorn,"[2, 7, 9, 14]","[16, 21, 22]",0.52
+moonkey,moonicorn,"[2, 7, 9, 14]","[17, 22, 23]",1.0
+moonkey,moonicorn,"[2, 7, 9, 14]","[18, 23, 24]",1.0
+moonkey,moonicorn,"[2, 7, 9, 14]","[19, 24, 25]",1.0
+moonkey,moonicorn,"[3, 8, 10, 15]","[1, 6, 7]",1.0
+moonkey,moonicorn,"[3, 8, 10, 15]","[6, 11, 12]",0.0
+moonkey,moonicorn,"[3, 8, 10, 15]","[7, 12, 13]",1.0
+moonkey,moonicorn,"[3, 8, 10, 15]","[11, 16, 17]",0.68
+moonkey,moonicorn,"[3, 8, 10, 15]","[12, 17, 18]",0.7
+moonkey,moonicorn,"[3, 8, 10, 15]","[13, 18, 19]",1.0
+moonkey,moonicorn,"[3, 8, 10, 15]","[14, 19, 20]",0.31
+moonkey,moonicorn,"[3, 8, 10, 15]","[16, 21, 22]",0.0
+moonkey,moonicorn,"[3, 8, 10, 15]","[17, 22, 23]",0.69
+moonkey,moonicorn,"[3, 8, 10, 15]","[18, 23, 24]",0.23
+moonkey,moonicorn,"[3, 8, 10, 15]","[19, 24, 25]",0.48
+moonkey,moonicorn,"[6, 11, 13, 18]","[2, 7, 8]",1.0
+moonkey,moonicorn,"[6, 11, 13, 18]","[3, 8, 9]",1.0
+moonkey,moonicorn,"[6, 11, 13, 18]","[4, 9, 10]",0.62
+moonkey,moonicorn,"[6, 11, 13, 18]","[9, 14, 15]",0.86
+moonkey,moonicorn,"[6, 11, 13, 18]","[14, 19, 20]",0.83
+moonkey,moonicorn,"[6, 11, 13, 18]","[16, 21, 22]",0.77
+moonkey,moonicorn,"[6, 11, 13, 18]","[17, 22, 23]",0.78
+moonkey,moonicorn,"[6, 11, 13, 18]","[19, 24, 25]",0.59
+moonkey,moonicorn,"[7, 12, 14, 19]","[3, 8, 9]",1.0
+moonkey,moonicorn,"[7, 12, 14, 19]","[4, 9, 10]",1.0
+moonkey,moonicorn,"[7, 12, 14, 19]","[11, 16, 17]",0.71
+moonkey,moonicorn,"[7, 12, 14, 19]","[16, 21, 22]",0.84
+moonkey,moonicorn,"[7, 12, 14, 19]","[17, 22, 23]",0.9
+moonkey,moonicorn,"[7, 12, 14, 19]","[18, 23, 24]",0.6
+moonkey,moonicorn,"[8, 13, 15, 20]","[1, 6, 7]",1.0
+moonkey,moonicorn,"[8, 13, 15, 20]","[4, 9, 10]",0.46
+moonkey,moonicorn,"[8, 13, 15, 20]","[6, 11, 12]",1.0
+moonkey,moonicorn,"[8, 13, 15, 20]","[11, 16, 17]",1.0
+moonkey,moonicorn,"[8, 13, 15, 20]","[12, 17, 18]",1.0
+moonkey,moonicorn,"[8, 13, 15, 20]","[16, 21, 22]",0.53
+moonkey,moonicorn,"[8, 13, 15, 20]","[17, 22, 23]",1.0
+moonkey,moonicorn,"[8, 13, 15, 20]","[18, 23, 24]",1.0
+moonkey,moonicorn,"[8, 13, 15, 20]","[19, 24, 25]",1.0
+moonkey,moonicorn,"[11, 16, 18, 23]","[1, 6, 7]",1.0
+moonkey,moonicorn,"[11, 16, 18, 23]","[2, 7, 8]",1.0
+moonkey,moonicorn,"[11, 16, 18, 23]","[3, 8, 9]",0.58
+moonkey,moonicorn,"[11, 16, 18, 23]","[4, 9, 10]",0.33
+moonkey,moonicorn,"[11, 16, 18, 23]","[7, 12, 13]",1.0
+moonkey,moonicorn,"[11, 16, 18, 23]","[8, 13, 14]",1.0
+moonkey,moonicorn,"[11, 16, 18, 23]","[9, 14, 15]",0.46
+moonkey,moonicorn,"[11, 16, 18, 23]","[14, 19, 20]",0.46
+moonkey,moonicorn,"[11, 16, 18, 23]","[19, 24, 25]",0.36
+moonkey,moonicorn,"[12, 17, 19, 24]","[1, 6, 7]",1.0
+moonkey,moonicorn,"[12, 17, 19, 24]","[2, 7, 8]",1.0
+moonkey,moonicorn,"[12, 17, 19, 24]","[3, 8, 9]",0.57
+moonkey,moonicorn,"[12, 17, 19, 24]","[4, 9, 10]",0.44
+moonkey,moonicorn,"[12, 17, 19, 24]","[8, 13, 14]",1.0
+moonkey,moonicorn,"[12, 17, 19, 24]","[9, 14, 15]",0.41
+moonkey,moonicorn,"[12, 17, 19, 24]","[16, 21, 22]",0.49
+moonkey,moonicorn,"[13, 18, 20, 25]","[1, 6, 7]",0.54
+moonkey,moonicorn,"[13, 18, 20, 25]","[2, 7, 8]",1.0
+moonkey,moonicorn,"[13, 18, 20, 25]","[3, 8, 9]",1.0
+moonkey,moonicorn,"[13, 18, 20, 25]","[4, 9, 10]",0.73
+moonkey,moonicorn,"[13, 18, 20, 25]","[6, 11, 12]",0.91
+moonkey,moonicorn,"[13, 18, 20, 25]","[9, 14, 15]",0.74
+moonkey,moonicorn,"[13, 18, 20, 25]","[11, 16, 17]",0.79
+moonkey,moonicorn,"[13, 18, 20, 25]","[16, 21, 22]",0.7
+moonkey,moonicorn,"[13, 18, 20, 25]","[17, 22, 23]",0.6
+pairing average win rate,0.7728947368421052, , , 
+moonkey,luna moth,"[1, 6, 8, 13]","[3, 5, 14]",1.0
+moonkey,luna moth,"[1, 6, 8, 13]","[7, 9, 18]",1.0
+moonkey,luna moth,"[1, 6, 8, 13]","[12, 14, 23]",1.0
+moonkey,luna moth,"[2, 7, 9, 14]","[1, 3, 12]",1.0
+moonkey,luna moth,"[2, 7, 9, 14]","[6, 8, 17]",1.0
+moonkey,luna moth,"[2, 7, 9, 14]","[8, 10, 19]",1.0
+moonkey,luna moth,"[2, 7, 9, 14]","[11, 13, 22]",1.0
+moonkey,luna moth,"[2, 7, 9, 14]","[13, 15, 24]",1.0
+moonkey,luna moth,"[3, 8, 10, 15]","[2, 4, 13]",1.0
+moonkey,luna moth,"[3, 8, 10, 15]","[7, 9, 18]",1.0
+moonkey,luna moth,"[3, 8, 10, 15]","[11, 13, 22]",1.0
+moonkey,luna moth,"[3, 8, 10, 15]","[12, 14, 23]",1.0
+moonkey,luna moth,"[6, 11, 13, 18]","[1, 3, 12]",1.0
+moonkey,luna moth,"[6, 11, 13, 18]","[3, 5, 14]",1.0
+moonkey,luna moth,"[6, 11, 13, 18]","[8, 10, 19]",1.0
+moonkey,luna moth,"[6, 11, 13, 18]","[12, 14, 23]",1.0
+moonkey,luna moth,"[7, 12, 14, 19]","[2, 4, 13]",1.0
+moonkey,luna moth,"[7, 12, 14, 19]","[6, 8, 17]",1.0
+moonkey,luna moth,"[7, 12, 14, 19]","[11, 13, 22]",1.0
+moonkey,luna moth,"[7, 12, 14, 19]","[13, 15, 24]",1.0
+moonkey,luna moth,"[8, 13, 15, 20]","[1, 3, 12]",1.0
+moonkey,luna moth,"[8, 13, 15, 20]","[3, 5, 14]",1.0
+moonkey,luna moth,"[8, 13, 15, 20]","[7, 9, 18]",1.0
+moonkey,luna moth,"[8, 13, 15, 20]","[12, 14, 23]",1.0
+moonkey,luna moth,"[11, 16, 18, 23]","[1, 3, 12]",1.0
+moonkey,luna moth,"[11, 16, 18, 23]","[2, 4, 13]",1.0
+moonkey,luna moth,"[11, 16, 18, 23]","[3, 5, 14]",1.0
+moonkey,luna moth,"[11, 16, 18, 23]","[6, 8, 17]",1.0
+moonkey,luna moth,"[11, 16, 18, 23]","[8, 10, 19]",1.0
+moonkey,luna moth,"[11, 16, 18, 23]","[13, 15, 24]",1.0
+moonkey,luna moth,"[12, 17, 19, 24]","[2, 4, 13]",1.0
+moonkey,luna moth,"[12, 17, 19, 24]","[3, 5, 14]",1.0
+moonkey,luna moth,"[12, 17, 19, 24]","[7, 9, 18]",1.0
+moonkey,luna moth,"[12, 17, 19, 24]","[11, 13, 22]",1.0
+moonkey,luna moth,"[13, 18, 20, 25]","[1, 3, 12]",1.0
+moonkey,luna moth,"[13, 18, 20, 25]","[3, 5, 14]",1.0
+moonkey,luna moth,"[13, 18, 20, 25]","[6, 8, 17]",1.0
+moonkey,luna moth,"[13, 18, 20, 25]","[8, 10, 19]",1.0
+moonkey,luna moth,"[13, 18, 20, 25]","[12, 14, 23]",1.0
+pairing average win rate,1.0, , , 
+moonkey,jade rabbit,"[1, 6, 8, 13]","[3, 14]",1.0
+moonkey,jade rabbit,"[1, 6, 8, 13]","[4, 15]",0.81
+moonkey,jade rabbit,"[1, 6, 8, 13]","[7, 18]",0.85
+moonkey,jade rabbit,"[1, 6, 8, 13]","[9, 20]",0.89
+moonkey,jade rabbit,"[1, 6, 8, 13]","[11, 22]",0.73
+moonkey,jade rabbit,"[1, 6, 8, 13]","[12, 23]",0.8
+moonkey,jade rabbit,"[1, 6, 8, 13]","[14, 25]",1.0
+moonkey,jade rabbit,"[2, 7, 9, 14]","[1, 12]",1.0
+moonkey,jade rabbit,"[2, 7, 9, 14]","[4, 15]",0.74
+moonkey,jade rabbit,"[2, 7, 9, 14]","[6, 17]",0.63
+moonkey,jade rabbit,"[2, 7, 9, 14]","[8, 19]",0.69
+moonkey,jade rabbit,"[2, 7, 9, 14]","[11, 22]",0.84
+moonkey,jade rabbit,"[2, 7, 9, 14]","[12, 23]",1.0
+moonkey,jade rabbit,"[2, 7, 9, 14]","[13, 24]",1.0
+moonkey,jade rabbit,"[3, 8, 10, 15]","[1, 12]",1.0
+moonkey,jade rabbit,"[3, 8, 10, 15]","[2, 13]",1.0
+moonkey,jade rabbit,"[3, 8, 10, 15]","[6, 17]",0.45
+moonkey,jade rabbit,"[3, 8, 10, 15]","[7, 18]",0.39
+moonkey,jade rabbit,"[3, 8, 10, 15]","[9, 20]",0.43
+moonkey,jade rabbit,"[3, 8, 10, 15]","[11, 22]",0.75
+moonkey,jade rabbit,"[3, 8, 10, 15]","[12, 23]",1.0
+moonkey,jade rabbit,"[3, 8, 10, 15]","[13, 24]",1.0
+moonkey,jade rabbit,"[3, 8, 10, 15]","[14, 25]",0.8
+moonkey,jade rabbit,"[6, 11, 13, 18]","[1, 12]",1.0
+moonkey,jade rabbit,"[6, 11, 13, 18]","[3, 14]",0.97
+moonkey,jade rabbit,"[6, 11, 13, 18]","[4, 15]",0.89
+moonkey,jade rabbit,"[6, 11, 13, 18]","[8, 19]",0.91
+moonkey,jade rabbit,"[6, 11, 13, 18]","[9, 20]",0.92
+moonkey,jade rabbit,"[6, 11, 13, 18]","[12, 23]",0.98
+moonkey,jade rabbit,"[6, 11, 13, 18]","[14, 25]",1.0
+moonkey,jade rabbit,"[7, 12, 14, 19]","[2, 13]",1.0
+moonkey,jade rabbit,"[7, 12, 14, 19]","[4, 15]",1.0
+moonkey,jade rabbit,"[7, 12, 14, 19]","[6, 17]",1.0
+moonkey,jade rabbit,"[7, 12, 14, 19]","[9, 20]",1.0
+moonkey,jade rabbit,"[7, 12, 14, 19]","[11, 22]",1.0
+moonkey,jade rabbit,"[7, 12, 14, 19]","[13, 24]",1.0
+moonkey,jade rabbit,"[8, 13, 15, 20]","[1, 12]",1.0
+moonkey,jade rabbit,"[8, 13, 15, 20]","[3, 14]",0.96
+moonkey,jade rabbit,"[8, 13, 15, 20]","[6, 17]",0.99
+moonkey,jade rabbit,"[8, 13, 15, 20]","[7, 18]",0.95
+moonkey,jade rabbit,"[8, 13, 15, 20]","[11, 22]",0.96
+moonkey,jade rabbit,"[8, 13, 15, 20]","[12, 23]",0.96
+moonkey,jade rabbit,"[8, 13, 15, 20]","[14, 25]",1.0
+moonkey,jade rabbit,"[11, 16, 18, 23]","[1, 12]",0.78
+moonkey,jade rabbit,"[11, 16, 18, 23]","[2, 13]",1.0
+moonkey,jade rabbit,"[11, 16, 18, 23]","[3, 14]",1.0
+moonkey,jade rabbit,"[11, 16, 18, 23]","[4, 15]",0.78
+moonkey,jade rabbit,"[11, 16, 18, 23]","[6, 17]",0.54
+moonkey,jade rabbit,"[11, 16, 18, 23]","[8, 19]",0.43
+moonkey,jade rabbit,"[11, 16, 18, 23]","[9, 20]",0.46
+moonkey,jade rabbit,"[11, 16, 18, 23]","[13, 24]",1.0
+moonkey,jade rabbit,"[11, 16, 18, 23]","[14, 25]",1.0
+moonkey,jade rabbit,"[12, 17, 19, 24]","[2, 13]",1.0
+moonkey,jade rabbit,"[12, 17, 19, 24]","[3, 14]",1.0
+moonkey,jade rabbit,"[12, 17, 19, 24]","[4, 15]",0.89
+moonkey,jade rabbit,"[12, 17, 19, 24]","[7, 18]",0.76
+moonkey,jade rabbit,"[12, 17, 19, 24]","[9, 20]",0.66
+moonkey,jade rabbit,"[12, 17, 19, 24]","[11, 22]",0.84
+moonkey,jade rabbit,"[12, 17, 19, 24]","[14, 25]",1.0
+moonkey,jade rabbit,"[13, 18, 20, 25]","[1, 12]",1.0
+moonkey,jade rabbit,"[13, 18, 20, 25]","[3, 14]",0.73
+moonkey,jade rabbit,"[13, 18, 20, 25]","[4, 15]",0.8
+moonkey,jade rabbit,"[13, 18, 20, 25]","[6, 17]",0.86
+moonkey,jade rabbit,"[13, 18, 20, 25]","[8, 19]",0.85
+moonkey,jade rabbit,"[13, 18, 20, 25]","[11, 22]",0.77
+moonkey,jade rabbit,"[13, 18, 20, 25]","[12, 23]",1.0
+pairing average win rate,0.8703030303030304, , , 
+lunar tick,tribble,"[2, 12, 16, 18]","[3, 7, 8, 9]",0.93
+lunar tick,tribble,"[2, 12, 16, 18]","[4, 8, 9, 10]",0.94
+lunar tick,tribble,"[2, 12, 16, 18]","[9, 13, 14, 15]",1.0
+lunar tick,tribble,"[2, 12, 16, 18]","[17, 21, 22, 23]",0.87
+lunar tick,tribble,"[2, 12, 16, 18]","[19, 23, 24, 25]",0.83
+lunar tick,tribble,"[3, 13, 17, 19]","[2, 6, 7, 8]",0.86
+lunar tick,tribble,"[3, 13, 17, 19]","[4, 8, 9, 10]",0.83
+lunar tick,tribble,"[3, 13, 17, 19]","[18, 22, 23, 24]",1.0
+lunar tick,tribble,"[4, 14, 18, 20]","[2, 6, 7, 8]",0.89
+lunar tick,tribble,"[4, 14, 18, 20]","[3, 7, 8, 9]",0.89
+lunar tick,tribble,"[4, 14, 18, 20]","[7, 11, 12, 13]",1.0
+lunar tick,tribble,"[4, 14, 18, 20]","[17, 21, 22, 23]",0.84
+lunar tick,tribble,"[4, 14, 18, 20]","[19, 23, 24, 25]",0.81
+lunar tick,tribble,"[7, 17, 21, 23]","[4, 8, 9, 10]",1.0
+lunar tick,tribble,"[7, 17, 21, 23]","[8, 12, 13, 14]",0.97
+lunar tick,tribble,"[7, 17, 21, 23]","[9, 13, 14, 15]",1.0
+lunar tick,tribble,"[7, 17, 21, 23]","[14, 18, 19, 20]",1.0
+lunar tick,tribble,"[8, 18, 22, 24]","[7, 11, 12, 13]",1.0
+lunar tick,tribble,"[8, 18, 22, 24]","[9, 13, 14, 15]",1.0
+lunar tick,tribble,"[9, 19, 23, 25]","[2, 6, 7, 8]",0.98
+lunar tick,tribble,"[9, 19, 23, 25]","[7, 11, 12, 13]",1.0
+lunar tick,tribble,"[9, 19, 23, 25]","[8, 12, 13, 14]",1.0
+lunar tick,tribble,"[9, 19, 23, 25]","[12, 16, 17, 18]",1.0
+pairing average win rate,0.9408695652173915, , , 
+lunar tick,moonicorn,"[2, 12, 16, 18]","[1, 6, 7]",0.62
+lunar tick,moonicorn,"[2, 12, 16, 18]","[3, 8, 9]",1.0
+lunar tick,moonicorn,"[2, 12, 16, 18]","[4, 9, 10]",1.0
+lunar tick,moonicorn,"[2, 12, 16, 18]","[8, 13, 14]",1.0
+lunar tick,moonicorn,"[2, 12, 16, 18]","[9, 14, 15]",1.0
+lunar tick,moonicorn,"[2, 12, 16, 18]","[14, 19, 20]",1.0
+lunar tick,moonicorn,"[2, 12, 16, 18]","[17, 22, 23]",0.69
+lunar tick,moonicorn,"[2, 12, 16, 18]","[19, 24, 25]",0.67
+lunar tick,moonicorn,"[3, 13, 17, 19]","[1, 6, 7]",1.0
+lunar tick,moonicorn,"[3, 13, 17, 19]","[2, 7, 8]",0.81
+lunar tick,moonicorn,"[3, 13, 17, 19]","[4, 9, 10]",1.0
+lunar tick,moonicorn,"[3, 13, 17, 19]","[6, 11, 12]",0.77
+lunar tick,moonicorn,"[3, 13, 17, 19]","[9, 14, 15]",1.0
+lunar tick,moonicorn,"[3, 13, 17, 19]","[16, 21, 22]",0.52
+lunar tick,moonicorn,"[3, 13, 17, 19]","[18, 23, 24]",1.0
+lunar tick,moonicorn,"[4, 14, 18, 20]","[1, 6, 7]",1.0
+lunar tick,moonicorn,"[4, 14, 18, 20]","[2, 7, 8]",1.0
+lunar tick,moonicorn,"[4, 14, 18, 20]","[3, 8, 9]",0.46
+lunar tick,moonicorn,"[4, 14, 18, 20]","[6, 11, 12]",0.75
+lunar tick,moonicorn,"[4, 14, 18, 20]","[7, 12, 13]",1.0
+lunar tick,moonicorn,"[4, 14, 18, 20]","[11, 16, 17]",1.0
+lunar tick,moonicorn,"[4, 14, 18, 20]","[16, 21, 22]",0.87
+lunar tick,moonicorn,"[4, 14, 18, 20]","[17, 22, 23]",0.82
+lunar tick,moonicorn,"[4, 14, 18, 20]","[19, 24, 25]",0.49
+lunar tick,moonicorn,"[7, 17, 21, 23]","[3, 8, 9]",0.64
+lunar tick,moonicorn,"[7, 17, 21, 23]","[4, 9, 10]",0.66
+lunar tick,moonicorn,"[7, 17, 21, 23]","[6, 11, 12]",0.41
+lunar tick,moonicorn,"[7, 17, 21, 23]","[8, 13, 14]",0.45
+lunar tick,moonicorn,"[7, 17, 21, 23]","[9, 14, 15]",0.71
+lunar tick,moonicorn,"[7, 17, 21, 23]","[13, 18, 19]",1.0
+lunar tick,moonicorn,"[7, 17, 21, 23]","[14, 19, 20]",1.0
+lunar tick,moonicorn,"[7, 17, 21, 23]","[19, 24, 25]",1.0
+lunar tick,moonicorn,"[8, 18, 22, 24]","[1, 6, 7]",0.7
+lunar tick,moonicorn,"[8, 18, 22, 24]","[4, 9, 10]",0.63
+lunar tick,moonicorn,"[8, 18, 22, 24]","[6, 11, 12]",1.0
+lunar tick,moonicorn,"[8, 18, 22, 24]","[7, 12, 13]",1.0
+lunar tick,moonicorn,"[8, 18, 22, 24]","[9, 14, 15]",1.0
+lunar tick,moonicorn,"[8, 18, 22, 24]","[11, 16, 17]",0.59
+lunar tick,moonicorn,"[8, 18, 22, 24]","[14, 19, 20]",1.0
+lunar tick,moonicorn,"[9, 19, 23, 25]","[1, 6, 7]",1.0
+lunar tick,moonicorn,"[9, 19, 23, 25]","[2, 7, 8]",1.0
+lunar tick,moonicorn,"[9, 19, 23, 25]","[6, 11, 12]",0.67
+lunar tick,moonicorn,"[9, 19, 23, 25]","[7, 12, 13]",1.0
+lunar tick,moonicorn,"[9, 19, 23, 25]","[8, 13, 14]",0.55
+lunar tick,moonicorn,"[9, 19, 23, 25]","[11, 16, 17]",1.0
+lunar tick,moonicorn,"[9, 19, 23, 25]","[12, 17, 18]",1.0
+lunar tick,moonicorn,"[9, 19, 23, 25]","[16, 21, 22]",0.74
+pairing average win rate,0.8344680851063829, , , 
+lunar tick,luna moth,"[2, 12, 16, 18]","[3, 5, 14]",1.0
+lunar tick,luna moth,"[2, 12, 16, 18]","[6, 8, 17]",1.0
+lunar tick,luna moth,"[2, 12, 16, 18]","[8, 10, 19]",1.0
+lunar tick,luna moth,"[2, 12, 16, 18]","[11, 13, 22]",1.0
+lunar tick,luna moth,"[2, 12, 16, 18]","[13, 15, 24]",1.0
+lunar tick,luna moth,"[3, 13, 17, 19]","[7, 9, 18]",1.0
+lunar tick,luna moth,"[3, 13, 17, 19]","[12, 14, 23]",1.0
+lunar tick,luna moth,"[4, 14, 18, 20]","[1, 3, 12]",1.0
+lunar tick,luna moth,"[4, 14, 18, 20]","[6, 8, 17]",1.0
+lunar tick,luna moth,"[4, 14, 18, 20]","[8, 10, 19]",1.0
+lunar tick,luna moth,"[4, 14, 18, 20]","[11, 13, 22]",1.0
+lunar tick,luna moth,"[4, 14, 18, 20]","[13, 15, 24]",1.0
+lunar tick,luna moth,"[7, 17, 21, 23]","[1, 3, 12]",0.75
+lunar tick,luna moth,"[7, 17, 21, 23]","[2, 4, 13]",0.85
+lunar tick,luna moth,"[7, 17, 21, 23]","[3, 5, 14]",0.76
+lunar tick,luna moth,"[7, 17, 21, 23]","[8, 10, 19]",1.0
+lunar tick,luna moth,"[7, 17, 21, 23]","[11, 13, 22]",0.78
+lunar tick,luna moth,"[7, 17, 21, 23]","[13, 15, 24]",0.8
+lunar tick,luna moth,"[8, 18, 22, 24]","[1, 3, 12]",1.0
+lunar tick,luna moth,"[8, 18, 22, 24]","[2, 4, 13]",1.0
+lunar tick,luna moth,"[8, 18, 22, 24]","[3, 5, 14]",1.0
+lunar tick,luna moth,"[8, 18, 22, 24]","[12, 14, 23]",1.0
+lunar tick,luna moth,"[9, 19, 23, 25]","[1, 3, 12]",0.7
+lunar tick,luna moth,"[9, 19, 23, 25]","[2, 4, 13]",0.88
+lunar tick,luna moth,"[9, 19, 23, 25]","[3, 5, 14]",0.85
+lunar tick,luna moth,"[9, 19, 23, 25]","[6, 8, 17]",1.0
+lunar tick,luna moth,"[9, 19, 23, 25]","[11, 13, 22]",0.84
+lunar tick,luna moth,"[9, 19, 23, 25]","[13, 15, 24]",0.81
+pairing average win rate,0.9292857142857143, , , 
+lunar tick,jade rabbit,"[2, 12, 16, 18]","[3, 14]",1.0
+lunar tick,jade rabbit,"[2, 12, 16, 18]","[4, 15]",0.74
+lunar tick,jade rabbit,"[2, 12, 16, 18]","[6, 17]",0.64
+lunar tick,jade rabbit,"[2, 12, 16, 18]","[8, 19]",0.64
+lunar tick,jade rabbit,"[2, 12, 16, 18]","[9, 20]",0.55
+lunar tick,jade rabbit,"[2, 12, 16, 18]","[11, 22]",0.63
+lunar tick,jade rabbit,"[2, 12, 16, 18]","[13, 24]",0.69
+lunar tick,jade rabbit,"[2, 12, 16, 18]","[14, 25]",1.0
+lunar tick,jade rabbit,"[3, 13, 17, 19]","[1, 12]",0.58
+lunar tick,jade rabbit,"[3, 13, 17, 19]","[4, 15]",0.61
+lunar tick,jade rabbit,"[3, 13, 17, 19]","[7, 18]",1.0
+lunar tick,jade rabbit,"[3, 13, 17, 19]","[9, 20]",0.64
+lunar tick,jade rabbit,"[3, 13, 17, 19]","[11, 22]",0.68
+lunar tick,jade rabbit,"[3, 13, 17, 19]","[12, 23]",1.0
+lunar tick,jade rabbit,"[3, 13, 17, 19]","[14, 25]",0.64
+lunar tick,jade rabbit,"[4, 14, 18, 20]","[1, 12]",1.0
+lunar tick,jade rabbit,"[4, 14, 18, 20]","[2, 13]",0.94
+lunar tick,jade rabbit,"[4, 14, 18, 20]","[6, 17]",0.95
+lunar tick,jade rabbit,"[4, 14, 18, 20]","[8, 19]",0.95
+lunar tick,jade rabbit,"[4, 14, 18, 20]","[11, 22]",0.96
+lunar tick,jade rabbit,"[4, 14, 18, 20]","[12, 23]",1.0
+lunar tick,jade rabbit,"[4, 14, 18, 20]","[13, 24]",1.0
+lunar tick,jade rabbit,"[7, 17, 21, 23]","[1, 12]",0.38
+lunar tick,jade rabbit,"[7, 17, 21, 23]","[2, 13]",1.0
+lunar tick,jade rabbit,"[7, 17, 21, 23]","[3, 14]",1.0
+lunar tick,jade rabbit,"[7, 17, 21, 23]","[4, 15]",0.41
+lunar tick,jade rabbit,"[7, 17, 21, 23]","[8, 19]",0.37
+lunar tick,jade rabbit,"[7, 17, 21, 23]","[9, 20]",0.38
+lunar tick,jade rabbit,"[7, 17, 21, 23]","[11, 22]",0.41
+lunar tick,jade rabbit,"[7, 17, 21, 23]","[13, 24]",1.0
+lunar tick,jade rabbit,"[7, 17, 21, 23]","[14, 25]",1.0
+lunar tick,jade rabbit,"[8, 18, 22, 24]","[1, 12]",1.0
+lunar tick,jade rabbit,"[8, 18, 22, 24]","[2, 13]",0.73
+lunar tick,jade rabbit,"[8, 18, 22, 24]","[3, 14]",1.0
+lunar tick,jade rabbit,"[8, 18, 22, 24]","[4, 15]",0.68
+lunar tick,jade rabbit,"[8, 18, 22, 24]","[6, 17]",0.68
+lunar tick,jade rabbit,"[8, 18, 22, 24]","[9, 20]",0.69
+lunar tick,jade rabbit,"[8, 18, 22, 24]","[12, 23]",1.0
+lunar tick,jade rabbit,"[8, 18, 22, 24]","[14, 25]",1.0
+lunar tick,jade rabbit,"[9, 19, 23, 25]","[1, 12]",0.46
+lunar tick,jade rabbit,"[9, 19, 23, 25]","[2, 13]",1.0
+lunar tick,jade rabbit,"[9, 19, 23, 25]","[3, 14]",0.47
+lunar tick,jade rabbit,"[9, 19, 23, 25]","[4, 15]",0.57
+lunar tick,jade rabbit,"[9, 19, 23, 25]","[6, 17]",1.0
+lunar tick,jade rabbit,"[9, 19, 23, 25]","[7, 18]",1.0
+lunar tick,jade rabbit,"[9, 19, 23, 25]","[11, 22]",0.56
+lunar tick,jade rabbit,"[9, 19, 23, 25]","[13, 24]",1.0
+pairing average win rate,0.7793617021276597, , , 
+tribble,moonicorn,"[2, 6, 7, 8]","[4, 9, 10]",1.0
+tribble,moonicorn,"[2, 6, 7, 8]","[9, 14, 15]",1.0
+tribble,moonicorn,"[2, 6, 7, 8]","[11, 16, 17]",0.7
+tribble,moonicorn,"[2, 6, 7, 8]","[12, 17, 18]",0.85
+tribble,moonicorn,"[2, 6, 7, 8]","[13, 18, 19]",0.9
+tribble,moonicorn,"[2, 6, 7, 8]","[14, 19, 20]",0.75
+tribble,moonicorn,"[2, 6, 7, 8]","[16, 21, 22]",0.57
+tribble,moonicorn,"[2, 6, 7, 8]","[17, 22, 23]",0.73
+tribble,moonicorn,"[2, 6, 7, 8]","[18, 23, 24]",0.61
+tribble,moonicorn,"[2, 6, 7, 8]","[19, 24, 25]",0.68
+tribble,moonicorn,"[3, 7, 8, 9]","[6, 11, 12]",0.46
+tribble,moonicorn,"[3, 7, 8, 9]","[11, 16, 17]",0.92
+tribble,moonicorn,"[3, 7, 8, 9]","[12, 17, 18]",0.92
+tribble,moonicorn,"[3, 7, 8, 9]","[13, 18, 19]",0.89
+tribble,moonicorn,"[3, 7, 8, 9]","[14, 19, 20]",0.81
+tribble,moonicorn,"[3, 7, 8, 9]","[16, 21, 22]",0.48
+tribble,moonicorn,"[3, 7, 8, 9]","[17, 22, 23]",0.76
+tribble,moonicorn,"[3, 7, 8, 9]","[18, 23, 24]",0.64
+tribble,moonicorn,"[3, 7, 8, 9]","[19, 24, 25]",0.8
+tribble,moonicorn,"[4, 8, 9, 10]","[1, 6, 7]",0.69
+tribble,moonicorn,"[4, 8, 9, 10]","[6, 11, 12]",0.61
+tribble,moonicorn,"[4, 8, 9, 10]","[7, 12, 13]",0.9
+tribble,moonicorn,"[4, 8, 9, 10]","[11, 16, 17]",0.81
+tribble,moonicorn,"[4, 8, 9, 10]","[12, 17, 18]",0.96
+tribble,moonicorn,"[4, 8, 9, 10]","[13, 18, 19]",0.95
+tribble,moonicorn,"[4, 8, 9, 10]","[14, 19, 20]",0.86
+tribble,moonicorn,"[4, 8, 9, 10]","[16, 21, 22]",0.51
+tribble,moonicorn,"[4, 8, 9, 10]","[17, 22, 23]",0.85
+tribble,moonicorn,"[4, 8, 9, 10]","[18, 23, 24]",0.62
+tribble,moonicorn,"[4, 8, 9, 10]","[19, 24, 25]",0.9
+tribble,moonicorn,"[7, 11, 12, 13]","[3, 8, 9]",1.0
+tribble,moonicorn,"[7, 11, 12, 13]","[4, 9, 10]",0.27
+tribble,moonicorn,"[7, 11, 12, 13]","[9, 14, 15]",0.37
+tribble,moonicorn,"[7, 11, 12, 13]","[14, 19, 20]",0.61
+tribble,moonicorn,"[7, 11, 12, 13]","[16, 21, 22]",0.18
+tribble,moonicorn,"[7, 11, 12, 13]","[17, 22, 23]",0.87
+tribble,moonicorn,"[7, 11, 12, 13]","[18, 23, 24]",0.71
+tribble,moonicorn,"[7, 11, 12, 13]","[19, 24, 25]",0.55
+tribble,moonicorn,"[8, 12, 13, 14]","[1, 6, 7]",1.0
+tribble,moonicorn,"[8, 12, 13, 14]","[4, 9, 10]",1.0
+tribble,moonicorn,"[8, 12, 13, 14]","[11, 16, 17]",0.56
+tribble,moonicorn,"[8, 12, 13, 14]","[16, 21, 22]",0.51
+tribble,moonicorn,"[8, 12, 13, 14]","[17, 22, 23]",0.72
+tribble,moonicorn,"[8, 12, 13, 14]","[18, 23, 24]",0.65
+tribble,moonicorn,"[8, 12, 13, 14]","[19, 24, 25]",0.46
+tribble,moonicorn,"[9, 13, 14, 15]","[1, 6, 7]",0.1
+tribble,moonicorn,"[9, 13, 14, 15]","[2, 7, 8]",1.0
+tribble,moonicorn,"[9, 13, 14, 15]","[6, 11, 12]",0.35
+tribble,moonicorn,"[9, 13, 14, 15]","[11, 16, 17]",0.42
+tribble,moonicorn,"[9, 13, 14, 15]","[12, 17, 18]",0.6
+tribble,moonicorn,"[9, 13, 14, 15]","[16, 21, 22]",0.22
+tribble,moonicorn,"[9, 13, 14, 15]","[17, 22, 23]",0.87
+tribble,moonicorn,"[9, 13, 14, 15]","[18, 23, 24]",0.62
+tribble,moonicorn,"[9, 13, 14, 15]","[19, 24, 25]",0.44
+tribble,moonicorn,"[12, 16, 17, 18]","[1, 6, 7]",0.0
+tribble,moonicorn,"[12, 16, 17, 18]","[2, 7, 8]",1.0
+tribble,moonicorn,"[12, 16, 17, 18]","[3, 8, 9]",1.0
+tribble,moonicorn,"[12, 16, 17, 18]","[4, 9, 10]",0.4
+tribble,moonicorn,"[12, 16, 17, 18]","[8, 13, 14]",1.0
+tribble,moonicorn,"[12, 16, 17, 18]","[9, 14, 15]",0.43
+tribble,moonicorn,"[12, 16, 17, 18]","[14, 19, 20]",1.0
+tribble,moonicorn,"[12, 16, 17, 18]","[19, 24, 25]",1.0
+tribble,moonicorn,"[13, 17, 18, 19]","[1, 6, 7]",1.0
+tribble,moonicorn,"[13, 17, 18, 19]","[2, 7, 8]",1.0
+tribble,moonicorn,"[13, 17, 18, 19]","[3, 8, 9]",1.0
+tribble,moonicorn,"[13, 17, 18, 19]","[4, 9, 10]",0.44
+tribble,moonicorn,"[13, 17, 18, 19]","[6, 11, 12]",1.0
+tribble,moonicorn,"[13, 17, 18, 19]","[9, 14, 15]",1.0
+tribble,moonicorn,"[13, 17, 18, 19]","[16, 21, 22]",0.56
+tribble,moonicorn,"[14, 18, 19, 20]","[1, 6, 7]",0.79
+tribble,moonicorn,"[14, 18, 19, 20]","[2, 7, 8]",1.0
+tribble,moonicorn,"[14, 18, 19, 20]","[3, 8, 9]",1.0
+tribble,moonicorn,"[14, 18, 19, 20]","[4, 9, 10]",0.2
+tribble,moonicorn,"[14, 18, 19, 20]","[6, 11, 12]",0.8
+tribble,moonicorn,"[14, 18, 19, 20]","[7, 12, 13]",0.76
+tribble,moonicorn,"[14, 18, 19, 20]","[11, 16, 17]",0.82
+tribble,moonicorn,"[14, 18, 19, 20]","[16, 21, 22]",0.74
+tribble,moonicorn,"[14, 18, 19, 20]","[17, 22, 23]",0.72
+tribble,moonicorn,"[17, 21, 22, 23]","[1, 6, 7]",0.22
+tribble,moonicorn,"[17, 21, 22, 23]","[2, 7, 8]",0.87
+tribble,moonicorn,"[17, 21, 22, 23]","[3, 8, 9]",0.8
+tribble,moonicorn,"[17, 21, 22, 23]","[4, 9, 10]",0.23
+tribble,moonicorn,"[17, 21, 22, 23]","[6, 11, 12]",0.11
+tribble,moonicorn,"[17, 21, 22, 23]","[7, 12, 13]",0.3
+tribble,moonicorn,"[17, 21, 22, 23]","[8, 13, 14]",0.85
+tribble,moonicorn,"[17, 21, 22, 23]","[9, 14, 15]",0.2
+tribble,moonicorn,"[17, 21, 22, 23]","[13, 18, 19]",1.0
+tribble,moonicorn,"[17, 21, 22, 23]","[14, 19, 20]",1.0
+tribble,moonicorn,"[17, 21, 22, 23]","[19, 24, 25]",1.0
+tribble,moonicorn,"[18, 22, 23, 24]","[1, 6, 7]",0.39
+tribble,moonicorn,"[18, 22, 23, 24]","[2, 7, 8]",1.0
+tribble,moonicorn,"[18, 22, 23, 24]","[3, 8, 9]",1.0
+tribble,moonicorn,"[18, 22, 23, 24]","[4, 9, 10]",0.49
+tribble,moonicorn,"[18, 22, 23, 24]","[6, 11, 12]",0.58
+tribble,moonicorn,"[18, 22, 23, 24]","[7, 12, 13]",0.48
+tribble,moonicorn,"[18, 22, 23, 24]","[8, 13, 14]",1.0
+tribble,moonicorn,"[18, 22, 23, 24]","[9, 14, 15]",0.36
+tribble,moonicorn,"[18, 22, 23, 24]","[11, 16, 17]",0.39
+tribble,moonicorn,"[18, 22, 23, 24]","[14, 19, 20]",1.0
+tribble,moonicorn,"[19, 23, 24, 25]","[1, 6, 7]",0.38
+tribble,moonicorn,"[19, 23, 24, 25]","[2, 7, 8]",0.87
+tribble,moonicorn,"[19, 23, 24, 25]","[3, 8, 9]",0.86
+tribble,moonicorn,"[19, 23, 24, 25]","[4, 9, 10]",0.37
+tribble,moonicorn,"[19, 23, 24, 25]","[6, 11, 12]",0.52
+tribble,moonicorn,"[19, 23, 24, 25]","[7, 12, 13]",0.43
+tribble,moonicorn,"[19, 23, 24, 25]","[8, 13, 14]",0.81
+tribble,moonicorn,"[19, 23, 24, 25]","[9, 14, 15]",0.34
+tribble,moonicorn,"[19, 23, 24, 25]","[11, 16, 17]",0.5
+tribble,moonicorn,"[19, 23, 24, 25]","[12, 17, 18]",1.0
+tribble,moonicorn,"[19, 23, 24, 25]","[16, 21, 22]",0.31
+pairing average win rate,0.6866363636363636, , , 
+tribble,luna moth,"[2, 6, 7, 8]","[1, 3, 12]",0.71
+tribble,luna moth,"[2, 6, 7, 8]","[3, 5, 14]",0.72
+tribble,luna moth,"[2, 6, 7, 8]","[11, 13, 22]",1.0
+tribble,luna moth,"[2, 6, 7, 8]","[12, 14, 23]",1.0
+tribble,luna moth,"[2, 6, 7, 8]","[13, 15, 24]",1.0
+tribble,luna moth,"[3, 7, 8, 9]","[2, 4, 13]",1.0
+tribble,luna moth,"[3, 7, 8, 9]","[11, 13, 22]",1.0
+tribble,luna moth,"[3, 7, 8, 9]","[12, 14, 23]",1.0
+tribble,luna moth,"[3, 7, 8, 9]","[13, 15, 24]",1.0
+tribble,luna moth,"[4, 8, 9, 10]","[1, 3, 12]",0.76
+tribble,luna moth,"[4, 8, 9, 10]","[3, 5, 14]",0.77
+tribble,luna moth,"[4, 8, 9, 10]","[11, 13, 22]",1.0
+tribble,luna moth,"[4, 8, 9, 10]","[12, 14, 23]",1.0
+tribble,luna moth,"[4, 8, 9, 10]","[13, 15, 24]",1.0
+tribble,luna moth,"[7, 11, 12, 13]","[3, 5, 14]",1.0
+tribble,luna moth,"[7, 11, 12, 13]","[6, 8, 17]",1.0
+tribble,luna moth,"[7, 11, 12, 13]","[8, 10, 19]",1.0
+tribble,luna moth,"[8, 12, 13, 14]","[7, 9, 18]",1.0
+tribble,luna moth,"[9, 13, 14, 15]","[1, 3, 12]",1.0
+tribble,luna moth,"[9, 13, 14, 15]","[6, 8, 17]",1.0
+tribble,luna moth,"[9, 13, 14, 15]","[8, 10, 19]",1.0
+tribble,luna moth,"[12, 16, 17, 18]","[2, 4, 13]",1.0
+tribble,luna moth,"[12, 16, 17, 18]","[3, 5, 14]",1.0
+tribble,luna moth,"[12, 16, 17, 18]","[8, 10, 19]",1.0
+tribble,luna moth,"[12, 16, 17, 18]","[11, 13, 22]",1.0
+tribble,luna moth,"[12, 16, 17, 18]","[13, 15, 24]",1.0
+tribble,luna moth,"[13, 17, 18, 19]","[1, 3, 12]",1.0
+tribble,luna moth,"[13, 17, 18, 19]","[3, 5, 14]",1.0
+tribble,luna moth,"[13, 17, 18, 19]","[12, 14, 23]",1.0
+tribble,luna moth,"[14, 18, 19, 20]","[1, 3, 12]",1.0
+tribble,luna moth,"[14, 18, 19, 20]","[2, 4, 13]",1.0
+tribble,luna moth,"[14, 18, 19, 20]","[6, 8, 17]",1.0
+tribble,luna moth,"[14, 18, 19, 20]","[11, 13, 22]",1.0
+tribble,luna moth,"[14, 18, 19, 20]","[13, 15, 24]",1.0
+tribble,luna moth,"[17, 21, 22, 23]","[1, 3, 12]",1.0
+tribble,luna moth,"[17, 21, 22, 23]","[2, 4, 13]",1.0
+tribble,luna moth,"[17, 21, 22, 23]","[3, 5, 14]",1.0
+tribble,luna moth,"[17, 21, 22, 23]","[7, 9, 18]",0.75
+tribble,luna moth,"[17, 21, 22, 23]","[8, 10, 19]",0.73
+tribble,luna moth,"[17, 21, 22, 23]","[13, 15, 24]",1.0
+tribble,luna moth,"[18, 22, 23, 24]","[1, 3, 12]",1.0
+tribble,luna moth,"[18, 22, 23, 24]","[2, 4, 13]",1.0
+tribble,luna moth,"[18, 22, 23, 24]","[3, 5, 14]",1.0
+tribble,luna moth,"[18, 22, 23, 24]","[6, 8, 17]",1.0
+tribble,luna moth,"[18, 22, 23, 24]","[8, 10, 19]",1.0
+tribble,luna moth,"[19, 23, 24, 25]","[1, 3, 12]",1.0
+tribble,luna moth,"[19, 23, 24, 25]","[2, 4, 13]",1.0
+tribble,luna moth,"[19, 23, 24, 25]","[3, 5, 14]",1.0
+tribble,luna moth,"[19, 23, 24, 25]","[6, 8, 17]",0.77
+tribble,luna moth,"[19, 23, 24, 25]","[7, 9, 18]",0.69
+tribble,luna moth,"[19, 23, 24, 25]","[11, 13, 22]",1.0
+pairing average win rate,0.9588235294117646, , , 
+tribble,jade rabbit,"[2, 6, 7, 8]","[1, 12]",0.41
+tribble,jade rabbit,"[2, 6, 7, 8]","[3, 14]",1.0
+tribble,jade rabbit,"[2, 6, 7, 8]","[4, 15]",0.49
+tribble,jade rabbit,"[2, 6, 7, 8]","[9, 20]",0.7
+tribble,jade rabbit,"[2, 6, 7, 8]","[11, 22]",0.42
+tribble,jade rabbit,"[2, 6, 7, 8]","[12, 23]",1.0
+tribble,jade rabbit,"[2, 6, 7, 8]","[13, 24]",1.0
+tribble,jade rabbit,"[2, 6, 7, 8]","[14, 25]",1.0
+tribble,jade rabbit,"[3, 7, 8, 9]","[1, 12]",0.53
+tribble,jade rabbit,"[3, 7, 8, 9]","[2, 13]",1.0
+tribble,jade rabbit,"[3, 7, 8, 9]","[4, 15]",0.81
+tribble,jade rabbit,"[3, 7, 8, 9]","[6, 17]",0.69
+tribble,jade rabbit,"[3, 7, 8, 9]","[11, 22]",0.47
+tribble,jade rabbit,"[3, 7, 8, 9]","[12, 23]",1.0
+tribble,jade rabbit,"[3, 7, 8, 9]","[13, 24]",1.0
+tribble,jade rabbit,"[3, 7, 8, 9]","[14, 25]",0.53
+tribble,jade rabbit,"[4, 8, 9, 10]","[1, 12]",0.32
+tribble,jade rabbit,"[4, 8, 9, 10]","[2, 13]",1.0
+tribble,jade rabbit,"[4, 8, 9, 10]","[3, 14]",1.0
+tribble,jade rabbit,"[4, 8, 9, 10]","[6, 17]",0.46
+tribble,jade rabbit,"[4, 8, 9, 10]","[7, 18]",0.74
+tribble,jade rabbit,"[4, 8, 9, 10]","[11, 22]",0.46
+tribble,jade rabbit,"[4, 8, 9, 10]","[12, 23]",1.0
+tribble,jade rabbit,"[4, 8, 9, 10]","[13, 24]",1.0
+tribble,jade rabbit,"[4, 8, 9, 10]","[14, 25]",1.0
+tribble,jade rabbit,"[7, 11, 12, 13]","[3, 14]",1.0
+tribble,jade rabbit,"[7, 11, 12, 13]","[4, 15]",1.0
+tribble,jade rabbit,"[7, 11, 12, 13]","[6, 17]",1.0
+tribble,jade rabbit,"[7, 11, 12, 13]","[8, 19]",1.0
+tribble,jade rabbit,"[7, 11, 12, 13]","[9, 20]",1.0
+tribble,jade rabbit,"[7, 11, 12, 13]","[14, 25]",1.0
+tribble,jade rabbit,"[8, 12, 13, 14]","[4, 15]",1.0
+tribble,jade rabbit,"[8, 12, 13, 14]","[6, 17]",1.0
+tribble,jade rabbit,"[8, 12, 13, 14]","[7, 18]",1.0
+tribble,jade rabbit,"[8, 12, 13, 14]","[9, 20]",1.0
+tribble,jade rabbit,"[8, 12, 13, 14]","[11, 22]",1.0
+tribble,jade rabbit,"[9, 13, 14, 15]","[1, 12]",1.0
+tribble,jade rabbit,"[9, 13, 14, 15]","[6, 17]",1.0
+tribble,jade rabbit,"[9, 13, 14, 15]","[7, 18]",1.0
+tribble,jade rabbit,"[9, 13, 14, 15]","[8, 19]",1.0
+tribble,jade rabbit,"[9, 13, 14, 15]","[11, 22]",1.0
+tribble,jade rabbit,"[9, 13, 14, 15]","[12, 23]",1.0
+tribble,jade rabbit,"[12, 16, 17, 18]","[2, 13]",1.0
+tribble,jade rabbit,"[12, 16, 17, 18]","[3, 14]",1.0
+tribble,jade rabbit,"[12, 16, 17, 18]","[4, 15]",0.35
+tribble,jade rabbit,"[12, 16, 17, 18]","[8, 19]",1.0
+tribble,jade rabbit,"[12, 16, 17, 18]","[9, 20]",0.25
+tribble,jade rabbit,"[12, 16, 17, 18]","[11, 22]",0.24
+tribble,jade rabbit,"[12, 16, 17, 18]","[13, 24]",1.0
+tribble,jade rabbit,"[12, 16, 17, 18]","[14, 25]",1.0
+tribble,jade rabbit,"[13, 17, 18, 19]","[1, 12]",1.0
+tribble,jade rabbit,"[13, 17, 18, 19]","[3, 14]",1.0
+tribble,jade rabbit,"[13, 17, 18, 19]","[4, 15]",1.0
+tribble,jade rabbit,"[13, 17, 18, 19]","[9, 20]",1.0
+tribble,jade rabbit,"[13, 17, 18, 19]","[11, 22]",1.0
+tribble,jade rabbit,"[13, 17, 18, 19]","[12, 23]",1.0
+tribble,jade rabbit,"[13, 17, 18, 19]","[14, 25]",1.0
+tribble,jade rabbit,"[14, 18, 19, 20]","[1, 12]",0.54
+tribble,jade rabbit,"[14, 18, 19, 20]","[2, 13]",1.0
+tribble,jade rabbit,"[14, 18, 19, 20]","[4, 15]",0.42
+tribble,jade rabbit,"[14, 18, 19, 20]","[6, 17]",0.58
+tribble,jade rabbit,"[14, 18, 19, 20]","[11, 22]",0.39
+tribble,jade rabbit,"[14, 18, 19, 20]","[12, 23]",1.0
+tribble,jade rabbit,"[14, 18, 19, 20]","[13, 24]",1.0
+tribble,jade rabbit,"[17, 21, 22, 23]","[1, 12]",0.63
+tribble,jade rabbit,"[17, 21, 22, 23]","[2, 13]",1.0
+tribble,jade rabbit,"[17, 21, 22, 23]","[3, 14]",1.0
+tribble,jade rabbit,"[17, 21, 22, 23]","[4, 15]",0.57
+tribble,jade rabbit,"[17, 21, 22, 23]","[7, 18]",0.73
+tribble,jade rabbit,"[17, 21, 22, 23]","[8, 19]",0.52
+tribble,jade rabbit,"[17, 21, 22, 23]","[9, 20]",0.55
+tribble,jade rabbit,"[17, 21, 22, 23]","[13, 24]",1.0
+tribble,jade rabbit,"[17, 21, 22, 23]","[14, 25]",1.0
+tribble,jade rabbit,"[18, 22, 23, 24]","[1, 12]",0.56
+tribble,jade rabbit,"[18, 22, 23, 24]","[2, 13]",1.0
+tribble,jade rabbit,"[18, 22, 23, 24]","[3, 14]",1.0
+tribble,jade rabbit,"[18, 22, 23, 24]","[4, 15]",0.56
+tribble,jade rabbit,"[18, 22, 23, 24]","[6, 17]",0.77
+tribble,jade rabbit,"[18, 22, 23, 24]","[8, 19]",0.47
+tribble,jade rabbit,"[18, 22, 23, 24]","[9, 20]",0.51
+tribble,jade rabbit,"[18, 22, 23, 24]","[14, 25]",1.0
+tribble,jade rabbit,"[19, 23, 24, 25]","[1, 12]",0.45
+tribble,jade rabbit,"[19, 23, 24, 25]","[2, 13]",1.0
+tribble,jade rabbit,"[19, 23, 24, 25]","[3, 14]",0.54
+tribble,jade rabbit,"[19, 23, 24, 25]","[4, 15]",0.46
+tribble,jade rabbit,"[19, 23, 24, 25]","[6, 17]",0.52
+tribble,jade rabbit,"[19, 23, 24, 25]","[7, 18]",0.49
+tribble,jade rabbit,"[19, 23, 24, 25]","[9, 20]",0.52
+tribble,jade rabbit,"[19, 23, 24, 25]","[11, 22]",1.0
+pairing average win rate,0.805056179775281, , , 
+moonicorn,luna moth,"[1, 6, 7]","[2, 4, 13]",1.0
+moonicorn,luna moth,"[1, 6, 7]","[3, 5, 14]",1.0
+moonicorn,luna moth,"[1, 6, 7]","[8, 10, 19]",1.0
+moonicorn,luna moth,"[1, 6, 7]","[11, 13, 22]",0.75
+moonicorn,luna moth,"[1, 6, 7]","[12, 14, 23]",1.0
+moonicorn,luna moth,"[1, 6, 7]","[13, 15, 24]",1.0
+moonicorn,luna moth,"[2, 7, 8]","[1, 3, 12]",1.0
+moonicorn,luna moth,"[2, 7, 8]","[3, 5, 14]",0.64
+moonicorn,luna moth,"[2, 7, 8]","[11, 13, 22]",1.0
+moonicorn,luna moth,"[2, 7, 8]","[12, 14, 23]",1.0
+moonicorn,luna moth,"[2, 7, 8]","[13, 15, 24]",0.86
+moonicorn,luna moth,"[3, 8, 9]","[2, 4, 13]",0.73
+moonicorn,luna moth,"[3, 8, 9]","[11, 13, 22]",0.94
+moonicorn,luna moth,"[3, 8, 9]","[12, 14, 23]",1.0
+moonicorn,luna moth,"[3, 8, 9]","[13, 15, 24]",1.0
+moonicorn,luna moth,"[4, 9, 10]","[1, 3, 12]",0.0
+moonicorn,luna moth,"[4, 9, 10]","[3, 5, 14]",0.26
+moonicorn,luna moth,"[4, 9, 10]","[6, 8, 17]",0.9
+moonicorn,luna moth,"[4, 9, 10]","[11, 13, 22]",1.0
+moonicorn,luna moth,"[4, 9, 10]","[12, 14, 23]",0.44
+moonicorn,luna moth,"[4, 9, 10]","[13, 15, 24]",0.86
+moonicorn,luna moth,"[6, 11, 12]","[2, 4, 13]",1.0
+moonicorn,luna moth,"[6, 11, 12]","[3, 5, 14]",0.63
+moonicorn,luna moth,"[6, 11, 12]","[7, 9, 18]",1.0
+moonicorn,luna moth,"[6, 11, 12]","[8, 10, 19]",1.0
+moonicorn,luna moth,"[6, 11, 12]","[13, 15, 24]",0.84
+moonicorn,luna moth,"[7, 12, 13]","[3, 5, 14]",1.0
+moonicorn,luna moth,"[7, 12, 13]","[6, 8, 17]",1.0
+moonicorn,luna moth,"[7, 12, 13]","[8, 10, 19]",1.0
+moonicorn,luna moth,"[8, 13, 14]","[1, 3, 12]",1.0
+moonicorn,luna moth,"[8, 13, 14]","[7, 9, 18]",1.0
+moonicorn,luna moth,"[9, 14, 15]","[1, 3, 12]",1.0
+moonicorn,luna moth,"[9, 14, 15]","[2, 4, 13]",1.0
+moonicorn,luna moth,"[9, 14, 15]","[6, 8, 17]",1.0
+moonicorn,luna moth,"[9, 14, 15]","[8, 10, 19]",1.0
+moonicorn,luna moth,"[9, 14, 15]","[11, 13, 22]",1.0
+moonicorn,luna moth,"[11, 16, 17]","[1, 3, 12]",0.56
+moonicorn,luna moth,"[11, 16, 17]","[2, 4, 13]",1.0
+moonicorn,luna moth,"[11, 16, 17]","[3, 5, 14]",1.0
+moonicorn,luna moth,"[11, 16, 17]","[7, 9, 18]",0.27
+moonicorn,luna moth,"[11, 16, 17]","[8, 10, 19]",1.0
+moonicorn,luna moth,"[11, 16, 17]","[12, 14, 23]",1.0
+moonicorn,luna moth,"[11, 16, 17]","[13, 15, 24]",1.0
+moonicorn,luna moth,"[12, 17, 18]","[2, 4, 13]",1.0
+moonicorn,luna moth,"[12, 17, 18]","[3, 5, 14]",1.0
+moonicorn,luna moth,"[12, 17, 18]","[8, 10, 19]",1.0
+moonicorn,luna moth,"[12, 17, 18]","[11, 13, 22]",0.56
+moonicorn,luna moth,"[12, 17, 18]","[13, 15, 24]",1.0
+moonicorn,luna moth,"[13, 18, 19]","[1, 3, 12]",1.0
+moonicorn,luna moth,"[13, 18, 19]","[3, 5, 14]",1.0
+moonicorn,luna moth,"[13, 18, 19]","[6, 8, 17]",1.0
+moonicorn,luna moth,"[13, 18, 19]","[12, 14, 23]",1.0
+moonicorn,luna moth,"[14, 19, 20]","[1, 3, 12]",1.0
+moonicorn,luna moth,"[14, 19, 20]","[2, 4, 13]",0.74
+moonicorn,luna moth,"[14, 19, 20]","[6, 8, 17]",1.0
+moonicorn,luna moth,"[14, 19, 20]","[7, 9, 18]",1.0
+moonicorn,luna moth,"[14, 19, 20]","[11, 13, 22]",0.73
+moonicorn,luna moth,"[14, 19, 20]","[13, 15, 24]",0.67
+moonicorn,luna moth,"[16, 21, 22]","[1, 3, 12]",0.58
+moonicorn,luna moth,"[16, 21, 22]","[2, 4, 13]",0.48
+moonicorn,luna moth,"[16, 21, 22]","[3, 5, 14]",0.35
+moonicorn,luna moth,"[16, 21, 22]","[6, 8, 17]",0.83
+moonicorn,luna moth,"[16, 21, 22]","[7, 9, 18]",0.37
+moonicorn,luna moth,"[16, 21, 22]","[8, 10, 19]",0.58
+moonicorn,luna moth,"[16, 21, 22]","[12, 14, 23]",1.0
+moonicorn,luna moth,"[16, 21, 22]","[13, 15, 24]",0.6
+moonicorn,luna moth,"[17, 22, 23]","[1, 3, 12]",0.79
+moonicorn,luna moth,"[17, 22, 23]","[2, 4, 13]",1.0
+moonicorn,luna moth,"[17, 22, 23]","[3, 5, 14]",1.0
+moonicorn,luna moth,"[17, 22, 23]","[7, 9, 18]",0.36
+moonicorn,luna moth,"[17, 22, 23]","[8, 10, 19]",1.0
+moonicorn,luna moth,"[17, 22, 23]","[13, 15, 24]",1.0
+moonicorn,luna moth,"[18, 23, 24]","[1, 3, 12]",0.72
+moonicorn,luna moth,"[18, 23, 24]","[2, 4, 13]",1.0
+moonicorn,luna moth,"[18, 23, 24]","[3, 5, 14]",1.0
+moonicorn,luna moth,"[18, 23, 24]","[6, 8, 17]",0.85
+moonicorn,luna moth,"[18, 23, 24]","[8, 10, 19]",0.58
+moonicorn,luna moth,"[18, 23, 24]","[11, 13, 22]",1.0
+moonicorn,luna moth,"[19, 24, 25]","[1, 3, 12]",0.48
+moonicorn,luna moth,"[19, 24, 25]","[2, 4, 13]",1.0
+moonicorn,luna moth,"[19, 24, 25]","[3, 5, 14]",1.0
+moonicorn,luna moth,"[19, 24, 25]","[6, 8, 17]",1.0
+moonicorn,luna moth,"[19, 24, 25]","[7, 9, 18]",0.0
+moonicorn,luna moth,"[19, 24, 25]","[11, 13, 22]",1.0
+moonicorn,luna moth,"[19, 24, 25]","[12, 14, 23]",0.5
+pairing average win rate,0.8405882352941175, , , 
+moonicorn,jade rabbit,"[1, 6, 7]","[2, 13]",0.17
+moonicorn,jade rabbit,"[1, 6, 7]","[3, 14]",1.0
+moonicorn,jade rabbit,"[1, 6, 7]","[4, 15]",0.2
+moonicorn,jade rabbit,"[1, 6, 7]","[8, 19]",0.18
+moonicorn,jade rabbit,"[1, 6, 7]","[9, 20]",0.99
+moonicorn,jade rabbit,"[1, 6, 7]","[11, 22]",0.96
+moonicorn,jade rabbit,"[1, 6, 7]","[12, 23]",1.0
+moonicorn,jade rabbit,"[1, 6, 7]","[13, 24]",1.0
+moonicorn,jade rabbit,"[1, 6, 7]","[14, 25]",1.0
+moonicorn,jade rabbit,"[2, 7, 8]","[1, 12]",0.93
+moonicorn,jade rabbit,"[2, 7, 8]","[3, 14]",1.0
+moonicorn,jade rabbit,"[2, 7, 8]","[4, 15]",0.0
+moonicorn,jade rabbit,"[2, 7, 8]","[6, 17]",0.8
+moonicorn,jade rabbit,"[2, 7, 8]","[9, 20]",0.97
+moonicorn,jade rabbit,"[2, 7, 8]","[11, 22]",1.0
+moonicorn,jade rabbit,"[2, 7, 8]","[12, 23]",1.0
+moonicorn,jade rabbit,"[2, 7, 8]","[13, 24]",1.0
+moonicorn,jade rabbit,"[2, 7, 8]","[14, 25]",1.0
+moonicorn,jade rabbit,"[3, 8, 9]","[1, 12]",1.0
+moonicorn,jade rabbit,"[3, 8, 9]","[2, 13]",1.0
+moonicorn,jade rabbit,"[3, 8, 9]","[4, 15]",0.85
+moonicorn,jade rabbit,"[3, 8, 9]","[6, 17]",0.6
+moonicorn,jade rabbit,"[3, 8, 9]","[7, 18]",0.61
+moonicorn,jade rabbit,"[3, 8, 9]","[11, 22]",0.84
+moonicorn,jade rabbit,"[3, 8, 9]","[12, 23]",1.0
+moonicorn,jade rabbit,"[3, 8, 9]","[13, 24]",1.0
+moonicorn,jade rabbit,"[3, 8, 9]","[14, 25]",1.0
+moonicorn,jade rabbit,"[4, 9, 10]","[1, 12]",0.95
+moonicorn,jade rabbit,"[4, 9, 10]","[2, 13]",1.0
+moonicorn,jade rabbit,"[4, 9, 10]","[3, 14]",0.77
+moonicorn,jade rabbit,"[4, 9, 10]","[6, 17]",0.64
+moonicorn,jade rabbit,"[4, 9, 10]","[7, 18]",0.63
+moonicorn,jade rabbit,"[4, 9, 10]","[8, 19]",0.81
+moonicorn,jade rabbit,"[4, 9, 10]","[11, 22]",0.8
+moonicorn,jade rabbit,"[4, 9, 10]","[12, 23]",1.0
+moonicorn,jade rabbit,"[4, 9, 10]","[13, 24]",1.0
+moonicorn,jade rabbit,"[4, 9, 10]","[14, 25]",0.81
+moonicorn,jade rabbit,"[6, 11, 12]","[2, 13]",1.0
+moonicorn,jade rabbit,"[6, 11, 12]","[3, 14]",0.82
+moonicorn,jade rabbit,"[6, 11, 12]","[4, 15]",1.0
+moonicorn,jade rabbit,"[6, 11, 12]","[7, 18]",1.0
+moonicorn,jade rabbit,"[6, 11, 12]","[8, 19]",1.0
+moonicorn,jade rabbit,"[6, 11, 12]","[9, 20]",1.0
+moonicorn,jade rabbit,"[6, 11, 12]","[13, 24]",1.0
+moonicorn,jade rabbit,"[6, 11, 12]","[14, 25]",0.93
+moonicorn,jade rabbit,"[7, 12, 13]","[3, 14]",1.0
+moonicorn,jade rabbit,"[7, 12, 13]","[4, 15]",1.0
+moonicorn,jade rabbit,"[7, 12, 13]","[6, 17]",1.0
+moonicorn,jade rabbit,"[7, 12, 13]","[8, 19]",1.0
+moonicorn,jade rabbit,"[7, 12, 13]","[9, 20]",1.0
+moonicorn,jade rabbit,"[7, 12, 13]","[11, 22]",1.0
+moonicorn,jade rabbit,"[7, 12, 13]","[14, 25]",1.0
+moonicorn,jade rabbit,"[8, 13, 14]","[1, 12]",1.0
+moonicorn,jade rabbit,"[8, 13, 14]","[4, 15]",1.0
+moonicorn,jade rabbit,"[8, 13, 14]","[6, 17]",1.0
+moonicorn,jade rabbit,"[8, 13, 14]","[7, 18]",1.0
+moonicorn,jade rabbit,"[8, 13, 14]","[9, 20]",1.0
+moonicorn,jade rabbit,"[8, 13, 14]","[11, 22]",1.0
+moonicorn,jade rabbit,"[8, 13, 14]","[12, 23]",1.0
+moonicorn,jade rabbit,"[9, 14, 15]","[1, 12]",1.0
+moonicorn,jade rabbit,"[9, 14, 15]","[2, 13]",1.0
+moonicorn,jade rabbit,"[9, 14, 15]","[6, 17]",1.0
+moonicorn,jade rabbit,"[9, 14, 15]","[7, 18]",1.0
+moonicorn,jade rabbit,"[9, 14, 15]","[8, 19]",1.0
+moonicorn,jade rabbit,"[9, 14, 15]","[11, 22]",1.0
+moonicorn,jade rabbit,"[9, 14, 15]","[12, 23]",1.0
+moonicorn,jade rabbit,"[9, 14, 15]","[13, 24]",1.0
+moonicorn,jade rabbit,"[11, 16, 17]","[1, 12]",0.95
+moonicorn,jade rabbit,"[11, 16, 17]","[2, 13]",0.16
+moonicorn,jade rabbit,"[11, 16, 17]","[3, 14]",0.99
+moonicorn,jade rabbit,"[11, 16, 17]","[4, 15]",0.11
+moonicorn,jade rabbit,"[11, 16, 17]","[7, 18]",0.61
+moonicorn,jade rabbit,"[11, 16, 17]","[8, 19]",0.13
+moonicorn,jade rabbit,"[11, 16, 17]","[9, 20]",0.61
+moonicorn,jade rabbit,"[11, 16, 17]","[12, 23]",1.0
+moonicorn,jade rabbit,"[11, 16, 17]","[13, 24]",1.0
+moonicorn,jade rabbit,"[11, 16, 17]","[14, 25]",0.98
+moonicorn,jade rabbit,"[12, 17, 18]","[2, 13]",1.0
+moonicorn,jade rabbit,"[12, 17, 18]","[3, 14]",1.0
+moonicorn,jade rabbit,"[12, 17, 18]","[4, 15]",1.0
+moonicorn,jade rabbit,"[12, 17, 18]","[8, 19]",1.0
+moonicorn,jade rabbit,"[12, 17, 18]","[9, 20]",1.0
+moonicorn,jade rabbit,"[12, 17, 18]","[11, 22]",1.0
+moonicorn,jade rabbit,"[12, 17, 18]","[13, 24]",1.0
+moonicorn,jade rabbit,"[12, 17, 18]","[14, 25]",1.0
+moonicorn,jade rabbit,"[13, 18, 19]","[1, 12]",0.97
+moonicorn,jade rabbit,"[13, 18, 19]","[3, 14]",0.97
+moonicorn,jade rabbit,"[13, 18, 19]","[4, 15]",0.0
+moonicorn,jade rabbit,"[13, 18, 19]","[6, 17]",0.29
+moonicorn,jade rabbit,"[13, 18, 19]","[9, 20]",0.85
+moonicorn,jade rabbit,"[13, 18, 19]","[11, 22]",0.96
+moonicorn,jade rabbit,"[13, 18, 19]","[12, 23]",1.0
+moonicorn,jade rabbit,"[13, 18, 19]","[14, 25]",0.96
+moonicorn,jade rabbit,"[14, 19, 20]","[1, 12]",1.0
+moonicorn,jade rabbit,"[14, 19, 20]","[2, 13]",1.0
+moonicorn,jade rabbit,"[14, 19, 20]","[4, 15]",1.0
+moonicorn,jade rabbit,"[14, 19, 20]","[6, 17]",1.0
+moonicorn,jade rabbit,"[14, 19, 20]","[7, 18]",1.0
+moonicorn,jade rabbit,"[14, 19, 20]","[11, 22]",1.0
+moonicorn,jade rabbit,"[14, 19, 20]","[12, 23]",1.0
+moonicorn,jade rabbit,"[14, 19, 20]","[13, 24]",1.0
+moonicorn,jade rabbit,"[16, 21, 22]","[1, 12]",0.95
+moonicorn,jade rabbit,"[16, 21, 22]","[2, 13]",1.0
+moonicorn,jade rabbit,"[16, 21, 22]","[3, 14]",0.84
+moonicorn,jade rabbit,"[16, 21, 22]","[4, 15]",0.48
+moonicorn,jade rabbit,"[16, 21, 22]","[6, 17]",0.75
+moonicorn,jade rabbit,"[16, 21, 22]","[7, 18]",0.48
+moonicorn,jade rabbit,"[16, 21, 22]","[8, 19]",0.53
+moonicorn,jade rabbit,"[16, 21, 22]","[9, 20]",0.68
+moonicorn,jade rabbit,"[16, 21, 22]","[12, 23]",1.0
+moonicorn,jade rabbit,"[16, 21, 22]","[13, 24]",1.0
+moonicorn,jade rabbit,"[16, 21, 22]","[14, 25]",0.9
+moonicorn,jade rabbit,"[17, 22, 23]","[1, 12]",0.97
+moonicorn,jade rabbit,"[17, 22, 23]","[2, 13]",1.0
+moonicorn,jade rabbit,"[17, 22, 23]","[3, 14]",0.97
+moonicorn,jade rabbit,"[17, 22, 23]","[4, 15]",0.5
+moonicorn,jade rabbit,"[17, 22, 23]","[7, 18]",0.54
+moonicorn,jade rabbit,"[17, 22, 23]","[8, 19]",0.45
+moonicorn,jade rabbit,"[17, 22, 23]","[9, 20]",0.67
+moonicorn,jade rabbit,"[17, 22, 23]","[13, 24]",1.0
+moonicorn,jade rabbit,"[17, 22, 23]","[14, 25]",1.0
+moonicorn,jade rabbit,"[18, 23, 24]","[1, 12]",0.99
+moonicorn,jade rabbit,"[18, 23, 24]","[2, 13]",0.47
+moonicorn,jade rabbit,"[18, 23, 24]","[3, 14]",0.99
+moonicorn,jade rabbit,"[18, 23, 24]","[4, 15]",0.49
+moonicorn,jade rabbit,"[18, 23, 24]","[6, 17]",0.5
+moonicorn,jade rabbit,"[18, 23, 24]","[8, 19]",0.72
+moonicorn,jade rabbit,"[18, 23, 24]","[9, 20]",0.87
+moonicorn,jade rabbit,"[18, 23, 24]","[11, 22]",0.99
+moonicorn,jade rabbit,"[18, 23, 24]","[14, 25]",1.0
+moonicorn,jade rabbit,"[19, 24, 25]","[1, 12]",0.93
+moonicorn,jade rabbit,"[19, 24, 25]","[2, 13]",0.35
+moonicorn,jade rabbit,"[19, 24, 25]","[3, 14]",0.93
+moonicorn,jade rabbit,"[19, 24, 25]","[4, 15]",0.51
+moonicorn,jade rabbit,"[19, 24, 25]","[6, 17]",0.38
+moonicorn,jade rabbit,"[19, 24, 25]","[7, 18]",0.75
+moonicorn,jade rabbit,"[19, 24, 25]","[9, 20]",0.83
+moonicorn,jade rabbit,"[19, 24, 25]","[11, 22]",0.99
+moonicorn,jade rabbit,"[19, 24, 25]","[12, 23]",1.0
+pairing average win rate,0.8503597122302159, , , 
+luna moth,jade rabbit,"[1, 3, 12]","[2, 13]",1.0
+luna moth,jade rabbit,"[1, 3, 12]","[4, 15]",0.64
+luna moth,jade rabbit,"[1, 3, 12]","[6, 17]",0.59
+luna moth,jade rabbit,"[1, 3, 12]","[7, 18]",0.57
+luna moth,jade rabbit,"[1, 3, 12]","[8, 19]",0.88
+luna moth,jade rabbit,"[1, 3, 12]","[9, 20]",0.74
+luna moth,jade rabbit,"[1, 3, 12]","[11, 22]",0.69
+luna moth,jade rabbit,"[1, 3, 12]","[13, 24]",1.0
+luna moth,jade rabbit,"[1, 3, 12]","[14, 25]",0.92
+luna moth,jade rabbit,"[2, 4, 13]","[1, 12]",1.0
+luna moth,jade rabbit,"[2, 4, 13]","[3, 14]",1.0
+luna moth,jade rabbit,"[2, 4, 13]","[6, 17]",0.57
+luna moth,jade rabbit,"[2, 4, 13]","[7, 18]",0.64
+luna moth,jade rabbit,"[2, 4, 13]","[8, 19]",0.6
+luna moth,jade rabbit,"[2, 4, 13]","[9, 20]",0.55
+luna moth,jade rabbit,"[2, 4, 13]","[11, 22]",1.0
+luna moth,jade rabbit,"[2, 4, 13]","[12, 23]",1.0
+luna moth,jade rabbit,"[2, 4, 13]","[14, 25]",1.0
+luna moth,jade rabbit,"[3, 5, 14]","[1, 12]",1.0
+luna moth,jade rabbit,"[3, 5, 14]","[2, 13]",1.0
+luna moth,jade rabbit,"[3, 5, 14]","[4, 15]",0.6
+luna moth,jade rabbit,"[3, 5, 14]","[6, 17]",0.56
+luna moth,jade rabbit,"[3, 5, 14]","[7, 18]",0.62
+luna moth,jade rabbit,"[3, 5, 14]","[8, 19]",0.86
+luna moth,jade rabbit,"[3, 5, 14]","[9, 20]",0.69
+luna moth,jade rabbit,"[3, 5, 14]","[11, 22]",0.6
+luna moth,jade rabbit,"[3, 5, 14]","[12, 23]",1.0
+luna moth,jade rabbit,"[3, 5, 14]","[13, 24]",1.0
+luna moth,jade rabbit,"[6, 8, 17]","[1, 12]",1.0
+luna moth,jade rabbit,"[6, 8, 17]","[2, 13]",1.0
+luna moth,jade rabbit,"[6, 8, 17]","[3, 14]",1.0
+luna moth,jade rabbit,"[6, 8, 17]","[4, 15]",0.73
+luna moth,jade rabbit,"[6, 8, 17]","[7, 18]",0.65
+luna moth,jade rabbit,"[6, 8, 17]","[9, 20]",0.68
+luna moth,jade rabbit,"[6, 8, 17]","[11, 22]",0.66
+luna moth,jade rabbit,"[6, 8, 17]","[12, 23]",1.0
+luna moth,jade rabbit,"[6, 8, 17]","[13, 24]",1.0
+luna moth,jade rabbit,"[6, 8, 17]","[14, 25]",1.0
+luna moth,jade rabbit,"[7, 9, 18]","[1, 12]",1.0
+luna moth,jade rabbit,"[7, 9, 18]","[2, 13]",1.0
+luna moth,jade rabbit,"[7, 9, 18]","[3, 14]",1.0
+luna moth,jade rabbit,"[7, 9, 18]","[4, 15]",0.72
+luna moth,jade rabbit,"[7, 9, 18]","[6, 17]",0.67
+luna moth,jade rabbit,"[7, 9, 18]","[8, 19]",1.0
+luna moth,jade rabbit,"[7, 9, 18]","[11, 22]",0.7
+luna moth,jade rabbit,"[7, 9, 18]","[12, 23]",1.0
+luna moth,jade rabbit,"[7, 9, 18]","[13, 24]",1.0
+luna moth,jade rabbit,"[7, 9, 18]","[14, 25]",1.0
+luna moth,jade rabbit,"[8, 10, 19]","[1, 12]",1.0
+luna moth,jade rabbit,"[8, 10, 19]","[2, 13]",1.0
+luna moth,jade rabbit,"[8, 10, 19]","[3, 14]",1.0
+luna moth,jade rabbit,"[8, 10, 19]","[4, 15]",0.56
+luna moth,jade rabbit,"[8, 10, 19]","[6, 17]",0.82
+luna moth,jade rabbit,"[8, 10, 19]","[7, 18]",0.51
+luna moth,jade rabbit,"[8, 10, 19]","[9, 20]",0.52
+luna moth,jade rabbit,"[8, 10, 19]","[11, 22]",0.58
+luna moth,jade rabbit,"[8, 10, 19]","[12, 23]",1.0
+luna moth,jade rabbit,"[8, 10, 19]","[13, 24]",1.0
+luna moth,jade rabbit,"[8, 10, 19]","[14, 25]",1.0
+luna moth,jade rabbit,"[11, 13, 22]","[1, 12]",1.0
+luna moth,jade rabbit,"[11, 13, 22]","[3, 14]",1.0
+luna moth,jade rabbit,"[11, 13, 22]","[4, 15]",0.84
+luna moth,jade rabbit,"[11, 13, 22]","[6, 17]",0.78
+luna moth,jade rabbit,"[11, 13, 22]","[7, 18]",0.84
+luna moth,jade rabbit,"[11, 13, 22]","[8, 19]",0.8
+luna moth,jade rabbit,"[11, 13, 22]","[9, 20]",0.79
+luna moth,jade rabbit,"[11, 13, 22]","[12, 23]",1.0
+luna moth,jade rabbit,"[11, 13, 22]","[14, 25]",1.0
+luna moth,jade rabbit,"[12, 14, 23]","[2, 13]",1.0
+luna moth,jade rabbit,"[12, 14, 23]","[4, 15]",0.77
+luna moth,jade rabbit,"[12, 14, 23]","[6, 17]",0.78
+luna moth,jade rabbit,"[12, 14, 23]","[7, 18]",0.63
+luna moth,jade rabbit,"[12, 14, 23]","[8, 19]",0.81
+luna moth,jade rabbit,"[12, 14, 23]","[9, 20]",0.75
+luna moth,jade rabbit,"[12, 14, 23]","[11, 22]",0.74
+luna moth,jade rabbit,"[12, 14, 23]","[13, 24]",1.0
+luna moth,jade rabbit,"[13, 15, 24]","[1, 12]",1.0
+luna moth,jade rabbit,"[13, 15, 24]","[3, 14]",1.0
+luna moth,jade rabbit,"[13, 15, 24]","[6, 17]",0.58
+luna moth,jade rabbit,"[13, 15, 24]","[7, 18]",0.68
+luna moth,jade rabbit,"[13, 15, 24]","[8, 19]",0.62
+luna moth,jade rabbit,"[13, 15, 24]","[9, 20]",0.61
+luna moth,jade rabbit,"[13, 15, 24]","[11, 22]",1.0
+luna moth,jade rabbit,"[13, 15, 24]","[12, 23]",1.0
+luna moth,jade rabbit,"[13, 15, 24]","[14, 25]",1.0
+pairing average win rate,0.8369411764705887, , , 

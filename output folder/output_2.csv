@@ -1,0 +1,974 @@
+animal_1,animal_2,chosen_1,chosen_2,win_rate
+kangaroo,platypus,"[1, 7, 13, 19]","[2, 3, 8, 9]",1.0
+kangaroo,platypus,"[1, 7, 13, 19]","[3, 4, 9, 10]",1.0
+kangaroo,platypus,"[1, 7, 13, 19]","[8, 9, 14, 15]",1.0
+kangaroo,platypus,"[1, 7, 13, 19]","[16, 17, 22, 23]",0.76
+kangaroo,platypus,"[1, 7, 13, 19]","[17, 18, 23, 24]",0.74
+kangaroo,platypus,"[2, 8, 14, 20]","[3, 4, 9, 10]",0.61
+kangaroo,platypus,"[2, 8, 14, 20]","[6, 7, 12, 13]",1.0
+kangaroo,platypus,"[2, 8, 14, 20]","[16, 17, 22, 23]",0.64
+kangaroo,platypus,"[2, 8, 14, 20]","[17, 18, 23, 24]",1.0
+kangaroo,platypus,"[2, 8, 14, 20]","[18, 19, 24, 25]",0.82
+kangaroo,platypus,"[6, 12, 18, 14]","[1, 2, 7, 8]",1.0
+kangaroo,platypus,"[6, 12, 18, 14]","[2, 3, 8, 9]",1.0
+kangaroo,platypus,"[6, 12, 18, 14]","[3, 4, 9, 10]",0.65
+kangaroo,platypus,"[6, 12, 18, 14]","[16, 17, 22, 23]",0.61
+kangaroo,platypus,"[7, 13, 19, 25]","[2, 3, 8, 9]",1.0
+kangaroo,platypus,"[7, 13, 19, 25]","[3, 4, 9, 10]",1.0
+kangaroo,platypus,"[7, 13, 19, 25]","[8, 9, 14, 15]",1.0
+kangaroo,platypus,"[7, 13, 19, 25]","[16, 17, 22, 23]",0.81
+kangaroo,platypus,"[7, 13, 19, 25]","[17, 18, 23, 24]",0.76
+pairing average win rate,0.8631578947368422, , , 
+kangaroo,crocodile,"[1, 7, 13, 19]","[2, 3, 4, 5]",0.87
+kangaroo,crocodile,"[1, 7, 13, 19]","[21, 22, 23, 24]",0.79
+kangaroo,crocodile,"[1, 7, 13, 19]","[22, 23, 24, 25]",0.91
+kangaroo,crocodile,"[2, 8, 14, 20]","[16, 17, 18, 19]",1.0
+kangaroo,crocodile,"[2, 8, 14, 20]","[21, 22, 23, 24]",1.0
+kangaroo,crocodile,"[2, 8, 14, 20]","[22, 23, 24, 25]",1.0
+kangaroo,crocodile,"[6, 12, 18, 14]","[1, 2, 3, 4]",1.0
+kangaroo,crocodile,"[6, 12, 18, 14]","[2, 3, 4, 5]",1.0
+kangaroo,crocodile,"[6, 12, 18, 14]","[7, 8, 9, 10]",1.0
+kangaroo,crocodile,"[6, 12, 18, 14]","[21, 22, 23, 24]",0.83
+kangaroo,crocodile,"[6, 12, 18, 14]","[22, 23, 24, 25]",0.74
+kangaroo,crocodile,"[7, 13, 19, 25]","[1, 2, 3, 4]",1.0
+kangaroo,crocodile,"[7, 13, 19, 25]","[2, 3, 4, 5]",0.88
+kangaroo,crocodile,"[7, 13, 19, 25]","[21, 22, 23, 24]",0.89
+pairing average win rate,0.9221428571428573, , , 
+kangaroo,koala,"[1, 7, 13, 19]","[2, 3, 8]",0.48
+kangaroo,koala,"[1, 7, 13, 19]","[3, 4, 9]",0.74
+kangaroo,koala,"[1, 7, 13, 19]","[4, 5, 10]",0.57
+kangaroo,koala,"[1, 7, 13, 19]","[8, 9, 14]",0.95
+kangaroo,koala,"[1, 7, 13, 19]","[9, 10, 15]",0.67
+kangaroo,koala,"[1, 7, 13, 19]","[11, 12, 17]",0.84
+kangaroo,koala,"[1, 7, 13, 19]","[14, 15, 20]",0.78
+kangaroo,koala,"[1, 7, 13, 19]","[16, 17, 22]",0.86
+kangaroo,koala,"[1, 7, 13, 19]","[17, 18, 23]",0.92
+kangaroo,koala,"[2, 8, 14, 20]","[3, 4, 9]",0.74
+kangaroo,koala,"[2, 8, 14, 20]","[4, 5, 10]",0.66
+kangaroo,koala,"[2, 8, 14, 20]","[6, 7, 12]",0.97
+kangaroo,koala,"[2, 8, 14, 20]","[9, 10, 15]",0.73
+kangaroo,koala,"[2, 8, 14, 20]","[11, 12, 17]",0.85
+kangaroo,koala,"[2, 8, 14, 20]","[12, 13, 18]",0.94
+kangaroo,koala,"[2, 8, 14, 20]","[16, 17, 22]",0.76
+kangaroo,koala,"[2, 8, 14, 20]","[17, 18, 23]",1.0
+kangaroo,koala,"[2, 8, 14, 20]","[18, 19, 24]",0.83
+kangaroo,koala,"[6, 12, 18, 14]","[1, 2, 7]",0.89
+kangaroo,koala,"[6, 12, 18, 14]","[2, 3, 8]",0.91
+kangaroo,koala,"[6, 12, 18, 14]","[3, 4, 9]",0.82
+kangaroo,koala,"[6, 12, 18, 14]","[4, 5, 10]",0.83
+kangaroo,koala,"[6, 12, 18, 14]","[7, 8, 13]",0.84
+kangaroo,koala,"[6, 12, 18, 14]","[9, 10, 15]",0.75
+kangaroo,koala,"[6, 12, 18, 14]","[16, 17, 22]",0.43
+kangaroo,koala,"[6, 12, 18, 14]","[19, 20, 25]",0.46
+kangaroo,koala,"[7, 13, 19, 25]","[2, 3, 8]",0.47
+kangaroo,koala,"[7, 13, 19, 25]","[3, 4, 9]",0.82
+kangaroo,koala,"[7, 13, 19, 25]","[4, 5, 10]",0.44
+kangaroo,koala,"[7, 13, 19, 25]","[8, 9, 14]",0.94
+kangaroo,koala,"[7, 13, 19, 25]","[9, 10, 15]",0.77
+kangaroo,koala,"[7, 13, 19, 25]","[11, 12, 17]",0.89
+kangaroo,koala,"[7, 13, 19, 25]","[14, 15, 20]",0.73
+kangaroo,koala,"[7, 13, 19, 25]","[16, 17, 22]",0.92
+kangaroo,koala,"[7, 13, 19, 25]","[17, 18, 23]",0.88
+pairing average win rate,0.7737142857142858, , , 
+kangaroo,cockatoo,"[1, 7, 13, 19]","[3, 9, 14]",1.0
+kangaroo,cockatoo,"[1, 7, 13, 19]","[4, 10, 15]",0.79
+kangaroo,cockatoo,"[1, 7, 13, 19]","[6, 12, 17]",1.0
+kangaroo,cockatoo,"[1, 7, 13, 19]","[11, 17, 22]",0.84
+kangaroo,cockatoo,"[1, 7, 13, 19]","[12, 18, 23]",0.84
+kangaroo,cockatoo,"[1, 7, 13, 19]","[14, 20, 25]",1.0
+kangaroo,cockatoo,"[2, 8, 14, 20]","[1, 7, 12]",1.0
+kangaroo,cockatoo,"[2, 8, 14, 20]","[4, 10, 15]",0.88
+kangaroo,cockatoo,"[2, 8, 14, 20]","[6, 12, 17]",1.0
+kangaroo,cockatoo,"[2, 8, 14, 20]","[7, 13, 18]",0.88
+kangaroo,cockatoo,"[2, 8, 14, 20]","[9, 15, 19]",1.0
+kangaroo,cockatoo,"[2, 8, 14, 20]","[11, 17, 22]",0.88
+kangaroo,cockatoo,"[2, 8, 14, 20]","[12, 18, 23]",1.0
+kangaroo,cockatoo,"[2, 8, 14, 20]","[13, 19, 24]",1.0
+kangaroo,cockatoo,"[6, 12, 18, 14]","[2, 7, 13]",1.0
+kangaroo,cockatoo,"[6, 12, 18, 14]","[4, 10, 15]",1.0
+kangaroo,cockatoo,"[6, 12, 18, 14]","[9, 15, 19]",1.0
+kangaroo,cockatoo,"[6, 12, 18, 14]","[11, 17, 22]",1.0
+kangaroo,cockatoo,"[6, 12, 18, 14]","[13, 19, 24]",1.0
+kangaroo,cockatoo,"[7, 13, 19, 25]","[3, 9, 14]",1.0
+kangaroo,cockatoo,"[7, 13, 19, 25]","[4, 10, 15]",0.83
+kangaroo,cockatoo,"[7, 13, 19, 25]","[6, 12, 17]",1.0
+kangaroo,cockatoo,"[7, 13, 19, 25]","[11, 17, 22]",0.89
+kangaroo,cockatoo,"[7, 13, 19, 25]","[12, 18, 23]",0.87
+pairing average win rate,0.9458333333333333, , , 
+kangaroo,tiddalik,"[1, 7, 13, 19]","[2, 6, 8]",0.93
+kangaroo,tiddalik,"[1, 7, 13, 19]","[4, 8, 10]",0.86
+kangaroo,tiddalik,"[1, 7, 13, 19]","[8, 12, 14]",0.95
+kangaroo,tiddalik,"[1, 7, 13, 19]","[12, 16, 18]",0.85
+kangaroo,tiddalik,"[1, 7, 13, 19]","[14, 18, 20]",0.93
+kangaroo,tiddalik,"[1, 7, 13, 19]","[17, 21, 23]",1.0
+kangaroo,tiddalik,"[1, 7, 13, 19]","[18, 22, 24]",0.91
+kangaroo,tiddalik,"[2, 8, 14, 20]","[3, 7, 9]",1.0
+kangaroo,tiddalik,"[2, 8, 14, 20]","[7, 11, 13]",1.0
+kangaroo,tiddalik,"[2, 8, 14, 20]","[9, 13, 15]",1.0
+kangaroo,tiddalik,"[2, 8, 14, 20]","[12, 16, 18]",1.0
+kangaroo,tiddalik,"[2, 8, 14, 20]","[13, 17, 19]",1.0
+kangaroo,tiddalik,"[2, 8, 14, 20]","[17, 21, 23]",1.0
+kangaroo,tiddalik,"[2, 8, 14, 20]","[18, 22, 24]",1.0
+kangaroo,tiddalik,"[2, 8, 14, 20]","[19, 23, 25]",1.0
+kangaroo,tiddalik,"[6, 12, 18, 14]","[3, 7, 9]",1.0
+kangaroo,tiddalik,"[6, 12, 18, 14]","[4, 8, 10]",1.0
+kangaroo,tiddalik,"[6, 12, 18, 14]","[7, 11, 13]",1.0
+kangaroo,tiddalik,"[6, 12, 18, 14]","[9, 13, 15]",1.0
+kangaroo,tiddalik,"[6, 12, 18, 14]","[13, 17, 19]",1.0
+kangaroo,tiddalik,"[6, 12, 18, 14]","[17, 21, 23]",1.0
+kangaroo,tiddalik,"[6, 12, 18, 14]","[19, 23, 25]",1.0
+kangaroo,tiddalik,"[7, 13, 19, 25]","[2, 6, 8]",0.93
+kangaroo,tiddalik,"[7, 13, 19, 25]","[4, 8, 10]",0.95
+kangaroo,tiddalik,"[7, 13, 19, 25]","[8, 12, 14]",0.9
+kangaroo,tiddalik,"[7, 13, 19, 25]","[12, 16, 18]",0.91
+kangaroo,tiddalik,"[7, 13, 19, 25]","[14, 18, 20]",0.9
+kangaroo,tiddalik,"[7, 13, 19, 25]","[17, 21, 23]",1.0
+kangaroo,tiddalik,"[7, 13, 19, 25]","[18, 22, 24]",0.92
+pairing average win rate,0.9634482758620689, , , 
+platypus,crocodile,"[1, 2, 7, 8]","[11, 12, 13, 14]",0.86
+platypus,crocodile,"[1, 2, 7, 8]","[12, 13, 14, 15]",0.87
+platypus,crocodile,"[1, 2, 7, 8]","[16, 17, 18, 19]",0.56
+platypus,crocodile,"[1, 2, 7, 8]","[17, 18, 19, 20]",0.45
+platypus,crocodile,"[1, 2, 7, 8]","[21, 22, 23, 24]",0.56
+platypus,crocodile,"[1, 2, 7, 8]","[22, 23, 24, 25]",0.56
+platypus,crocodile,"[2, 3, 8, 9]","[11, 12, 13, 14]",0.79
+platypus,crocodile,"[2, 3, 8, 9]","[12, 13, 14, 15]",0.91
+platypus,crocodile,"[2, 3, 8, 9]","[16, 17, 18, 19]",0.58
+platypus,crocodile,"[2, 3, 8, 9]","[17, 18, 19, 20]",0.52
+platypus,crocodile,"[2, 3, 8, 9]","[21, 22, 23, 24]",0.6
+platypus,crocodile,"[2, 3, 8, 9]","[22, 23, 24, 25]",0.64
+platypus,crocodile,"[3, 4, 9, 10]","[11, 12, 13, 14]",0.37
+platypus,crocodile,"[3, 4, 9, 10]","[12, 13, 14, 15]",0.33
+platypus,crocodile,"[3, 4, 9, 10]","[16, 17, 18, 19]",0.42
+platypus,crocodile,"[3, 4, 9, 10]","[17, 18, 19, 20]",0.44
+platypus,crocodile,"[3, 4, 9, 10]","[21, 22, 23, 24]",0.39
+platypus,crocodile,"[3, 4, 9, 10]","[22, 23, 24, 25]",0.32
+platypus,crocodile,"[6, 7, 12, 13]","[1, 2, 3, 4]",0.43
+platypus,crocodile,"[6, 7, 12, 13]","[2, 3, 4, 5]",0.39
+platypus,crocodile,"[6, 7, 12, 13]","[16, 17, 18, 19]",0.47
+platypus,crocodile,"[6, 7, 12, 13]","[17, 18, 19, 20]",0.4
+platypus,crocodile,"[6, 7, 12, 13]","[21, 22, 23, 24]",0.42
+platypus,crocodile,"[6, 7, 12, 13]","[22, 23, 24, 25]",0.39
+platypus,crocodile,"[7, 8, 13, 14]","[1, 2, 3, 4]",0.78
+platypus,crocodile,"[7, 8, 13, 14]","[2, 3, 4, 5]",0.88
+platypus,crocodile,"[7, 8, 13, 14]","[16, 17, 18, 19]",0.64
+platypus,crocodile,"[7, 8, 13, 14]","[17, 18, 19, 20]",0.65
+platypus,crocodile,"[7, 8, 13, 14]","[21, 22, 23, 24]",0.54
+platypus,crocodile,"[7, 8, 13, 14]","[22, 23, 24, 25]",0.57
+platypus,crocodile,"[8, 9, 14, 15]","[1, 2, 3, 4]",0.8
+platypus,crocodile,"[8, 9, 14, 15]","[2, 3, 4, 5]",0.77
+platypus,crocodile,"[8, 9, 14, 15]","[16, 17, 18, 19]",0.55
+platypus,crocodile,"[8, 9, 14, 15]","[17, 18, 19, 20]",0.64
+platypus,crocodile,"[8, 9, 14, 15]","[21, 22, 23, 24]",0.62
+platypus,crocodile,"[8, 9, 14, 15]","[22, 23, 24, 25]",0.6
+platypus,crocodile,"[16, 17, 22, 23]","[1, 2, 3, 4]",0.36
+platypus,crocodile,"[16, 17, 22, 23]","[2, 3, 4, 5]",0.29
+platypus,crocodile,"[16, 17, 22, 23]","[6, 7, 8, 9]",1.0
+platypus,crocodile,"[16, 17, 22, 23]","[7, 8, 9, 10]",1.0
+platypus,crocodile,"[16, 17, 22, 23]","[11, 12, 13, 14]",0.29
+platypus,crocodile,"[16, 17, 22, 23]","[12, 13, 14, 15]",0.26
+platypus,crocodile,"[17, 18, 23, 24]","[1, 2, 3, 4]",0.47
+platypus,crocodile,"[17, 18, 23, 24]","[2, 3, 4, 5]",0.52
+platypus,crocodile,"[17, 18, 23, 24]","[6, 7, 8, 9]",1.0
+platypus,crocodile,"[17, 18, 23, 24]","[7, 8, 9, 10]",1.0
+platypus,crocodile,"[17, 18, 23, 24]","[11, 12, 13, 14]",0.52
+platypus,crocodile,"[17, 18, 23, 24]","[12, 13, 14, 15]",0.45
+platypus,crocodile,"[18, 19, 24, 25]","[1, 2, 3, 4]",0.36
+platypus,crocodile,"[18, 19, 24, 25]","[2, 3, 4, 5]",0.34
+platypus,crocodile,"[18, 19, 24, 25]","[6, 7, 8, 9]",1.0
+platypus,crocodile,"[18, 19, 24, 25]","[7, 8, 9, 10]",1.0
+platypus,crocodile,"[18, 19, 24, 25]","[11, 12, 13, 14]",0.22
+platypus,crocodile,"[18, 19, 24, 25]","[12, 13, 14, 15]",0.26
+pairing average win rate,0.5750000000000001, , , 
+platypus,koala,"[1, 2, 7, 8]","[3, 4, 9]",1.0
+platypus,koala,"[1, 2, 7, 8]","[4, 5, 10]",0.23
+platypus,koala,"[1, 2, 7, 8]","[9, 10, 15]",1.0
+platypus,koala,"[1, 2, 7, 8]","[11, 12, 17]",0.81
+platypus,koala,"[1, 2, 7, 8]","[12, 13, 18]",0.5
+platypus,koala,"[1, 2, 7, 8]","[13, 14, 19]",0.76
+platypus,koala,"[1, 2, 7, 8]","[14, 15, 20]",0.44
+platypus,koala,"[1, 2, 7, 8]","[16, 17, 22]",0.77
+platypus,koala,"[1, 2, 7, 8]","[17, 18, 23]",0.9
+platypus,koala,"[1, 2, 7, 8]","[18, 19, 24]",0.84
+platypus,koala,"[1, 2, 7, 8]","[19, 20, 25]",0.7
+platypus,koala,"[2, 3, 8, 9]","[4, 5, 10]",0.3
+platypus,koala,"[2, 3, 8, 9]","[6, 7, 12]",0.87
+platypus,koala,"[2, 3, 8, 9]","[11, 12, 17]",1.0
+platypus,koala,"[2, 3, 8, 9]","[12, 13, 18]",0.99
+platypus,koala,"[2, 3, 8, 9]","[13, 14, 19]",0.99
+platypus,koala,"[2, 3, 8, 9]","[14, 15, 20]",0.83
+platypus,koala,"[2, 3, 8, 9]","[16, 17, 22]",0.82
+platypus,koala,"[2, 3, 8, 9]","[17, 18, 23]",0.98
+platypus,koala,"[2, 3, 8, 9]","[18, 19, 24]",0.96
+platypus,koala,"[2, 3, 8, 9]","[19, 20, 25]",0.72
+platypus,koala,"[3, 4, 9, 10]","[1, 2, 7]",0.3
+platypus,koala,"[3, 4, 9, 10]","[6, 7, 12]",0.53
+platypus,koala,"[3, 4, 9, 10]","[7, 8, 13]",1.0
+platypus,koala,"[3, 4, 9, 10]","[11, 12, 17]",1.0
+platypus,koala,"[3, 4, 9, 10]","[12, 13, 18]",0.3
+platypus,koala,"[3, 4, 9, 10]","[13, 14, 19]",0.71
+platypus,koala,"[3, 4, 9, 10]","[14, 15, 20]",0.0
+platypus,koala,"[3, 4, 9, 10]","[16, 17, 22]",1.0
+platypus,koala,"[3, 4, 9, 10]","[17, 18, 23]",1.0
+platypus,koala,"[3, 4, 9, 10]","[18, 19, 24]",0.66
+platypus,koala,"[3, 4, 9, 10]","[19, 20, 25]",0.61
+platypus,koala,"[6, 7, 12, 13]","[2, 3, 8]",1.0
+platypus,koala,"[6, 7, 12, 13]","[3, 4, 9]",0.42
+platypus,koala,"[6, 7, 12, 13]","[4, 5, 10]",0.48
+platypus,koala,"[6, 7, 12, 13]","[8, 9, 14]",1.0
+platypus,koala,"[6, 7, 12, 13]","[9, 10, 15]",0.55
+platypus,koala,"[6, 7, 12, 13]","[14, 15, 20]",0.11
+platypus,koala,"[6, 7, 12, 13]","[16, 17, 22]",1.0
+platypus,koala,"[6, 7, 12, 13]","[17, 18, 23]",1.0
+platypus,koala,"[6, 7, 12, 13]","[18, 19, 24]",0.37
+platypus,koala,"[6, 7, 12, 13]","[19, 20, 25]",0.5
+platypus,koala,"[7, 8, 13, 14]","[3, 4, 9]",1.0
+platypus,koala,"[7, 8, 13, 14]","[4, 5, 10]",0.0
+platypus,koala,"[7, 8, 13, 14]","[9, 10, 15]",1.0
+platypus,koala,"[7, 8, 13, 14]","[11, 12, 17]",0.72
+platypus,koala,"[7, 8, 13, 14]","[16, 17, 22]",0.65
+platypus,koala,"[7, 8, 13, 14]","[17, 18, 23]",0.67
+platypus,koala,"[7, 8, 13, 14]","[18, 19, 24]",0.42
+platypus,koala,"[7, 8, 13, 14]","[19, 20, 25]",0.41
+platypus,koala,"[8, 9, 14, 15]","[1, 2, 7]",0.87
+platypus,koala,"[8, 9, 14, 15]","[4, 5, 10]",0.3
+platypus,koala,"[8, 9, 14, 15]","[6, 7, 12]",0.9
+platypus,koala,"[8, 9, 14, 15]","[11, 12, 17]",1.0
+platypus,koala,"[8, 9, 14, 15]","[12, 13, 18]",0.94
+platypus,koala,"[8, 9, 14, 15]","[16, 17, 22]",0.89
+platypus,koala,"[8, 9, 14, 15]","[17, 18, 23]",0.94
+platypus,koala,"[8, 9, 14, 15]","[18, 19, 24]",0.95
+platypus,koala,"[8, 9, 14, 15]","[19, 20, 25]",0.54
+platypus,koala,"[16, 17, 22, 23]","[1, 2, 7]",0.23
+platypus,koala,"[16, 17, 22, 23]","[2, 3, 8]",1.0
+platypus,koala,"[16, 17, 22, 23]","[3, 4, 9]",0.49
+platypus,koala,"[16, 17, 22, 23]","[4, 5, 10]",0.37
+platypus,koala,"[16, 17, 22, 23]","[6, 7, 12]",0.46
+platypus,koala,"[16, 17, 22, 23]","[7, 8, 13]",1.0
+platypus,koala,"[16, 17, 22, 23]","[8, 9, 14]",1.0
+platypus,koala,"[16, 17, 22, 23]","[9, 10, 15]",0.65
+platypus,koala,"[16, 17, 22, 23]","[12, 13, 18]",0.51
+platypus,koala,"[16, 17, 22, 23]","[13, 14, 19]",0.89
+platypus,koala,"[16, 17, 22, 23]","[14, 15, 20]",0.33
+platypus,koala,"[16, 17, 22, 23]","[18, 19, 24]",1.0
+platypus,koala,"[16, 17, 22, 23]","[19, 20, 25]",0.75
+platypus,koala,"[17, 18, 23, 24]","[1, 2, 7]",0.38
+platypus,koala,"[17, 18, 23, 24]","[2, 3, 8]",1.0
+platypus,koala,"[17, 18, 23, 24]","[3, 4, 9]",0.39
+platypus,koala,"[17, 18, 23, 24]","[4, 5, 10]",0.53
+platypus,koala,"[17, 18, 23, 24]","[6, 7, 12]",0.39
+platypus,koala,"[17, 18, 23, 24]","[7, 8, 13]",1.0
+platypus,koala,"[17, 18, 23, 24]","[8, 9, 14]",1.0
+platypus,koala,"[17, 18, 23, 24]","[9, 10, 15]",0.63
+platypus,koala,"[17, 18, 23, 24]","[13, 14, 19]",0.34
+platypus,koala,"[17, 18, 23, 24]","[14, 15, 20]",0.56
+platypus,koala,"[17, 18, 23, 24]","[19, 20, 25]",0.41
+platypus,koala,"[18, 19, 24, 25]","[1, 2, 7]",0.55
+platypus,koala,"[18, 19, 24, 25]","[2, 3, 8]",1.0
+platypus,koala,"[18, 19, 24, 25]","[3, 4, 9]",0.48
+platypus,koala,"[18, 19, 24, 25]","[4, 5, 10]",0.6
+platypus,koala,"[18, 19, 24, 25]","[6, 7, 12]",0.37
+platypus,koala,"[18, 19, 24, 25]","[7, 8, 13]",1.0
+platypus,koala,"[18, 19, 24, 25]","[8, 9, 14]",1.0
+platypus,koala,"[18, 19, 24, 25]","[9, 10, 15]",0.5
+platypus,koala,"[18, 19, 24, 25]","[11, 12, 17]",1.0
+platypus,koala,"[18, 19, 24, 25]","[14, 15, 20]",0.1
+platypus,koala,"[18, 19, 24, 25]","[16, 17, 22]",1.0
+pairing average win rate,0.692127659574468, , , 
+platypus,cockatoo,"[1, 2, 7, 8]","[3, 9, 14]",1.0
+platypus,cockatoo,"[1, 2, 7, 8]","[4, 10, 15]",0.54
+platypus,cockatoo,"[1, 2, 7, 8]","[6, 12, 17]",1.0
+platypus,cockatoo,"[1, 2, 7, 8]","[9, 15, 19]",1.0
+platypus,cockatoo,"[1, 2, 7, 8]","[11, 17, 22]",0.76
+platypus,cockatoo,"[1, 2, 7, 8]","[12, 18, 23]",0.7
+platypus,cockatoo,"[1, 2, 7, 8]","[13, 19, 24]",0.56
+platypus,cockatoo,"[1, 2, 7, 8]","[14, 20, 25]",0.74
+platypus,cockatoo,"[2, 3, 8, 9]","[1, 7, 12]",1.0
+platypus,cockatoo,"[2, 3, 8, 9]","[4, 10, 15]",0.89
+platypus,cockatoo,"[2, 3, 8, 9]","[6, 12, 17]",1.0
+platypus,cockatoo,"[2, 3, 8, 9]","[7, 13, 18]",1.0
+platypus,cockatoo,"[2, 3, 8, 9]","[11, 17, 22]",0.54
+platypus,cockatoo,"[2, 3, 8, 9]","[12, 18, 23]",0.86
+platypus,cockatoo,"[2, 3, 8, 9]","[13, 19, 24]",0.63
+platypus,cockatoo,"[2, 3, 8, 9]","[14, 20, 25]",0.45
+platypus,cockatoo,"[3, 4, 9, 10]","[1, 7, 12]",1.0
+platypus,cockatoo,"[3, 4, 9, 10]","[2, 7, 13]",1.0
+platypus,cockatoo,"[3, 4, 9, 10]","[6, 12, 17]",1.0
+platypus,cockatoo,"[3, 4, 9, 10]","[7, 13, 18]",1.0
+platypus,cockatoo,"[3, 4, 9, 10]","[8, 14, 19]",1.0
+platypus,cockatoo,"[3, 4, 9, 10]","[11, 17, 22]",0.78
+platypus,cockatoo,"[3, 4, 9, 10]","[12, 18, 23]",0.76
+platypus,cockatoo,"[3, 4, 9, 10]","[13, 19, 24]",0.81
+platypus,cockatoo,"[3, 4, 9, 10]","[14, 20, 25]",0.71
+platypus,cockatoo,"[6, 7, 12, 13]","[3, 9, 14]",1.0
+platypus,cockatoo,"[6, 7, 12, 13]","[4, 10, 15]",0.77
+platypus,cockatoo,"[6, 7, 12, 13]","[8, 14, 19]",1.0
+platypus,cockatoo,"[6, 7, 12, 13]","[9, 15, 19]",1.0
+platypus,cockatoo,"[6, 7, 12, 13]","[11, 17, 22]",0.73
+platypus,cockatoo,"[6, 7, 12, 13]","[14, 20, 25]",0.72
+platypus,cockatoo,"[7, 8, 13, 14]","[4, 10, 15]",0.66
+platypus,cockatoo,"[7, 8, 13, 14]","[6, 12, 17]",1.0
+platypus,cockatoo,"[7, 8, 13, 14]","[9, 15, 19]",1.0
+platypus,cockatoo,"[7, 8, 13, 14]","[11, 17, 22]",0.86
+platypus,cockatoo,"[7, 8, 13, 14]","[12, 18, 23]",0.87
+platypus,cockatoo,"[8, 9, 14, 15]","[1, 7, 12]",0.94
+platypus,cockatoo,"[8, 9, 14, 15]","[2, 7, 13]",1.0
+platypus,cockatoo,"[8, 9, 14, 15]","[6, 12, 17]",0.89
+platypus,cockatoo,"[8, 9, 14, 15]","[7, 13, 18]",1.0
+platypus,cockatoo,"[8, 9, 14, 15]","[11, 17, 22]",0.81
+platypus,cockatoo,"[8, 9, 14, 15]","[12, 18, 23]",0.83
+platypus,cockatoo,"[8, 9, 14, 15]","[13, 19, 24]",0.7
+platypus,cockatoo,"[16, 17, 22, 23]","[1, 7, 12]",1.0
+platypus,cockatoo,"[16, 17, 22, 23]","[2, 7, 13]",1.0
+platypus,cockatoo,"[16, 17, 22, 23]","[3, 9, 14]",1.0
+platypus,cockatoo,"[16, 17, 22, 23]","[4, 10, 15]",0.39
+platypus,cockatoo,"[16, 17, 22, 23]","[7, 13, 18]",1.0
+platypus,cockatoo,"[16, 17, 22, 23]","[8, 14, 19]",0.84
+platypus,cockatoo,"[16, 17, 22, 23]","[9, 15, 19]",1.0
+platypus,cockatoo,"[16, 17, 22, 23]","[13, 19, 24]",0.73
+platypus,cockatoo,"[16, 17, 22, 23]","[14, 20, 25]",0.67
+platypus,cockatoo,"[17, 18, 23, 24]","[1, 7, 12]",1.0
+platypus,cockatoo,"[17, 18, 23, 24]","[2, 7, 13]",1.0
+platypus,cockatoo,"[17, 18, 23, 24]","[3, 9, 14]",1.0
+platypus,cockatoo,"[17, 18, 23, 24]","[4, 10, 15]",0.32
+platypus,cockatoo,"[17, 18, 23, 24]","[8, 14, 19]",0.69
+platypus,cockatoo,"[17, 18, 23, 24]","[9, 15, 19]",1.0
+platypus,cockatoo,"[17, 18, 23, 24]","[14, 20, 25]",0.64
+platypus,cockatoo,"[18, 19, 24, 25]","[1, 7, 12]",1.0
+platypus,cockatoo,"[18, 19, 24, 25]","[2, 7, 13]",1.0
+platypus,cockatoo,"[18, 19, 24, 25]","[3, 9, 14]",1.0
+platypus,cockatoo,"[18, 19, 24, 25]","[4, 10, 15]",1.0
+platypus,cockatoo,"[18, 19, 24, 25]","[6, 12, 17]",1.0
+platypus,cockatoo,"[18, 19, 24, 25]","[11, 17, 22]",1.0
+pairing average win rate,0.8583076923076924, , , 
+platypus,tiddalik,"[1, 2, 7, 8]","[9, 13, 15]",1.0
+platypus,tiddalik,"[1, 2, 7, 8]","[12, 16, 18]",1.0
+platypus,tiddalik,"[1, 2, 7, 8]","[13, 17, 19]",1.0
+platypus,tiddalik,"[1, 2, 7, 8]","[14, 18, 20]",1.0
+platypus,tiddalik,"[1, 2, 7, 8]","[17, 21, 23]",1.0
+platypus,tiddalik,"[1, 2, 7, 8]","[18, 22, 24]",1.0
+platypus,tiddalik,"[1, 2, 7, 8]","[19, 23, 25]",1.0
+platypus,tiddalik,"[2, 3, 8, 9]","[7, 11, 13]",0.95
+platypus,tiddalik,"[2, 3, 8, 9]","[12, 16, 18]",0.97
+platypus,tiddalik,"[2, 3, 8, 9]","[13, 17, 19]",0.97
+platypus,tiddalik,"[2, 3, 8, 9]","[14, 18, 20]",1.0
+platypus,tiddalik,"[2, 3, 8, 9]","[17, 21, 23]",0.96
+platypus,tiddalik,"[2, 3, 8, 9]","[18, 22, 24]",0.96
+platypus,tiddalik,"[2, 3, 8, 9]","[19, 23, 25]",0.99
+platypus,tiddalik,"[3, 4, 9, 10]","[2, 6, 8]",1.0
+platypus,tiddalik,"[3, 4, 9, 10]","[7, 11, 13]",0.59
+platypus,tiddalik,"[3, 4, 9, 10]","[8, 12, 14]",1.0
+platypus,tiddalik,"[3, 4, 9, 10]","[12, 16, 18]",1.0
+platypus,tiddalik,"[3, 4, 9, 10]","[13, 17, 19]",0.69
+platypus,tiddalik,"[3, 4, 9, 10]","[14, 18, 20]",1.0
+platypus,tiddalik,"[3, 4, 9, 10]","[17, 21, 23]",0.73
+platypus,tiddalik,"[3, 4, 9, 10]","[18, 22, 24]",1.0
+platypus,tiddalik,"[3, 4, 9, 10]","[19, 23, 25]",0.8
+platypus,tiddalik,"[6, 7, 12, 13]","[4, 8, 10]",1.0
+platypus,tiddalik,"[6, 7, 12, 13]","[14, 18, 20]",0.91
+platypus,tiddalik,"[6, 7, 12, 13]","[17, 21, 23]",0.73
+platypus,tiddalik,"[6, 7, 12, 13]","[18, 22, 24]",0.89
+platypus,tiddalik,"[6, 7, 12, 13]","[19, 23, 25]",0.7
+platypus,tiddalik,"[7, 8, 13, 14]","[12, 16, 18]",0.85
+platypus,tiddalik,"[7, 8, 13, 14]","[17, 21, 23]",0.74
+platypus,tiddalik,"[7, 8, 13, 14]","[18, 22, 24]",0.87
+platypus,tiddalik,"[7, 8, 13, 14]","[19, 23, 25]",0.74
+platypus,tiddalik,"[8, 9, 14, 15]","[7, 11, 13]",0.81
+platypus,tiddalik,"[8, 9, 14, 15]","[12, 16, 18]",0.9
+platypus,tiddalik,"[8, 9, 14, 15]","[13, 17, 19]",0.98
+platypus,tiddalik,"[8, 9, 14, 15]","[17, 21, 23]",0.85
+platypus,tiddalik,"[8, 9, 14, 15]","[18, 22, 24]",0.92
+platypus,tiddalik,"[8, 9, 14, 15]","[19, 23, 25]",0.81
+platypus,tiddalik,"[16, 17, 22, 23]","[2, 6, 8]",1.0
+platypus,tiddalik,"[16, 17, 22, 23]","[3, 7, 9]",1.0
+platypus,tiddalik,"[16, 17, 22, 23]","[4, 8, 10]",1.0
+platypus,tiddalik,"[16, 17, 22, 23]","[7, 11, 13]",1.0
+platypus,tiddalik,"[16, 17, 22, 23]","[8, 12, 14]",1.0
+platypus,tiddalik,"[16, 17, 22, 23]","[9, 13, 15]",1.0
+platypus,tiddalik,"[16, 17, 22, 23]","[14, 18, 20]",1.0
+platypus,tiddalik,"[17, 18, 23, 24]","[2, 6, 8]",1.0
+platypus,tiddalik,"[17, 18, 23, 24]","[3, 7, 9]",1.0
+platypus,tiddalik,"[17, 18, 23, 24]","[4, 8, 10]",1.0
+platypus,tiddalik,"[17, 18, 23, 24]","[7, 11, 13]",1.0
+platypus,tiddalik,"[17, 18, 23, 24]","[8, 12, 14]",1.0
+platypus,tiddalik,"[17, 18, 23, 24]","[9, 13, 15]",1.0
+platypus,tiddalik,"[18, 19, 24, 25]","[2, 6, 8]",1.0
+platypus,tiddalik,"[18, 19, 24, 25]","[3, 7, 9]",1.0
+platypus,tiddalik,"[18, 19, 24, 25]","[4, 8, 10]",1.0
+platypus,tiddalik,"[18, 19, 24, 25]","[7, 11, 13]",1.0
+platypus,tiddalik,"[18, 19, 24, 25]","[8, 12, 14]",1.0
+platypus,tiddalik,"[18, 19, 24, 25]","[9, 13, 15]",1.0
+platypus,tiddalik,"[18, 19, 24, 25]","[17, 21, 23]",1.0
+pairing average win rate,0.9363793103448276, , , 
+crocodile,koala,"[1, 2, 3, 4]","[6, 7, 12]",0.44
+crocodile,koala,"[1, 2, 3, 4]","[7, 8, 13]",0.36
+crocodile,koala,"[1, 2, 3, 4]","[8, 9, 14]",0.68
+crocodile,koala,"[1, 2, 3, 4]","[9, 10, 15]",0.23
+crocodile,koala,"[1, 2, 3, 4]","[11, 12, 17]",0.84
+crocodile,koala,"[1, 2, 3, 4]","[12, 13, 18]",0.81
+crocodile,koala,"[1, 2, 3, 4]","[13, 14, 19]",0.95
+crocodile,koala,"[1, 2, 3, 4]","[14, 15, 20]",0.55
+crocodile,koala,"[1, 2, 3, 4]","[16, 17, 22]",0.6
+crocodile,koala,"[1, 2, 3, 4]","[17, 18, 23]",0.7
+crocodile,koala,"[1, 2, 3, 4]","[18, 19, 24]",0.76
+crocodile,koala,"[1, 2, 3, 4]","[19, 20, 25]",0.54
+crocodile,koala,"[2, 3, 4, 5]","[6, 7, 12]",0.46
+crocodile,koala,"[2, 3, 4, 5]","[7, 8, 13]",0.52
+crocodile,koala,"[2, 3, 4, 5]","[8, 9, 14]",0.65
+crocodile,koala,"[2, 3, 4, 5]","[9, 10, 15]",0.19
+crocodile,koala,"[2, 3, 4, 5]","[11, 12, 17]",0.81
+crocodile,koala,"[2, 3, 4, 5]","[12, 13, 18]",0.88
+crocodile,koala,"[2, 3, 4, 5]","[13, 14, 19]",0.95
+crocodile,koala,"[2, 3, 4, 5]","[14, 15, 20]",0.73
+crocodile,koala,"[2, 3, 4, 5]","[16, 17, 22]",0.56
+crocodile,koala,"[2, 3, 4, 5]","[17, 18, 23]",0.79
+crocodile,koala,"[2, 3, 4, 5]","[18, 19, 24]",0.67
+crocodile,koala,"[2, 3, 4, 5]","[19, 20, 25]",0.51
+crocodile,koala,"[6, 7, 8, 9]","[4, 5, 10]",1.0
+crocodile,koala,"[6, 7, 8, 9]","[11, 12, 17]",0.55
+crocodile,koala,"[6, 7, 8, 9]","[12, 13, 18]",0.5
+crocodile,koala,"[6, 7, 8, 9]","[13, 14, 19]",0.54
+crocodile,koala,"[6, 7, 8, 9]","[14, 15, 20]",0.36
+crocodile,koala,"[6, 7, 8, 9]","[16, 17, 22]",0.57
+crocodile,koala,"[6, 7, 8, 9]","[17, 18, 23]",0.71
+crocodile,koala,"[6, 7, 8, 9]","[18, 19, 24]",0.72
+crocodile,koala,"[6, 7, 8, 9]","[19, 20, 25]",0.57
+crocodile,koala,"[7, 8, 9, 10]","[11, 12, 17]",0.57
+crocodile,koala,"[7, 8, 9, 10]","[12, 13, 18]",0.43
+crocodile,koala,"[7, 8, 9, 10]","[13, 14, 19]",0.59
+crocodile,koala,"[7, 8, 9, 10]","[14, 15, 20]",0.33
+crocodile,koala,"[7, 8, 9, 10]","[16, 17, 22]",0.55
+crocodile,koala,"[7, 8, 9, 10]","[17, 18, 23]",0.72
+crocodile,koala,"[7, 8, 9, 10]","[18, 19, 24]",0.65
+crocodile,koala,"[7, 8, 9, 10]","[19, 20, 25]",0.53
+crocodile,koala,"[11, 12, 13, 14]","[1, 2, 7]",0.36
+crocodile,koala,"[11, 12, 13, 14]","[2, 3, 8]",0.35
+crocodile,koala,"[11, 12, 13, 14]","[3, 4, 9]",0.86
+crocodile,koala,"[11, 12, 13, 14]","[4, 5, 10]",0.97
+crocodile,koala,"[11, 12, 13, 14]","[9, 10, 15]",0.48
+crocodile,koala,"[11, 12, 13, 14]","[16, 17, 22]",0.4
+crocodile,koala,"[11, 12, 13, 14]","[17, 18, 23]",0.56
+crocodile,koala,"[11, 12, 13, 14]","[18, 19, 24]",0.61
+crocodile,koala,"[11, 12, 13, 14]","[19, 20, 25]",0.27
+crocodile,koala,"[12, 13, 14, 15]","[1, 2, 7]",0.42
+crocodile,koala,"[12, 13, 14, 15]","[2, 3, 8]",0.4
+crocodile,koala,"[12, 13, 14, 15]","[3, 4, 9]",0.92
+crocodile,koala,"[12, 13, 14, 15]","[4, 5, 10]",0.96
+crocodile,koala,"[12, 13, 14, 15]","[16, 17, 22]",0.46
+crocodile,koala,"[12, 13, 14, 15]","[17, 18, 23]",0.52
+crocodile,koala,"[12, 13, 14, 15]","[18, 19, 24]",0.53
+crocodile,koala,"[12, 13, 14, 15]","[19, 20, 25]",0.46
+crocodile,koala,"[16, 17, 18, 19]","[1, 2, 7]",0.32
+crocodile,koala,"[16, 17, 18, 19]","[2, 3, 8]",0.33
+crocodile,koala,"[16, 17, 18, 19]","[3, 4, 9]",0.91
+crocodile,koala,"[16, 17, 18, 19]","[4, 5, 10]",0.98
+crocodile,koala,"[16, 17, 18, 19]","[6, 7, 12]",0.56
+crocodile,koala,"[16, 17, 18, 19]","[7, 8, 13]",0.6
+crocodile,koala,"[16, 17, 18, 19]","[8, 9, 14]",0.51
+crocodile,koala,"[16, 17, 18, 19]","[9, 10, 15]",0.0
+crocodile,koala,"[16, 17, 18, 19]","[14, 15, 20]",0.21
+crocodile,koala,"[17, 18, 19, 20]","[1, 2, 7]",0.37
+crocodile,koala,"[17, 18, 19, 20]","[2, 3, 8]",0.34
+crocodile,koala,"[17, 18, 19, 20]","[3, 4, 9]",0.87
+crocodile,koala,"[17, 18, 19, 20]","[4, 5, 10]",0.98
+crocodile,koala,"[17, 18, 19, 20]","[6, 7, 12]",0.48
+crocodile,koala,"[17, 18, 19, 20]","[7, 8, 13]",0.62
+crocodile,koala,"[17, 18, 19, 20]","[8, 9, 14]",0.52
+crocodile,koala,"[17, 18, 19, 20]","[9, 10, 15]",0.0
+crocodile,koala,"[21, 22, 23, 24]","[1, 2, 7]",0.22
+crocodile,koala,"[21, 22, 23, 24]","[2, 3, 8]",0.31
+crocodile,koala,"[21, 22, 23, 24]","[3, 4, 9]",0.88
+crocodile,koala,"[21, 22, 23, 24]","[4, 5, 10]",0.95
+crocodile,koala,"[21, 22, 23, 24]","[6, 7, 12]",0.51
+crocodile,koala,"[21, 22, 23, 24]","[7, 8, 13]",0.68
+crocodile,koala,"[21, 22, 23, 24]","[8, 9, 14]",0.6
+crocodile,koala,"[21, 22, 23, 24]","[9, 10, 15]",0.02
+crocodile,koala,"[21, 22, 23, 24]","[11, 12, 17]",0.37
+crocodile,koala,"[21, 22, 23, 24]","[12, 13, 18]",0.46
+crocodile,koala,"[21, 22, 23, 24]","[13, 14, 19]",0.35
+crocodile,koala,"[21, 22, 23, 24]","[14, 15, 20]",0.26
+crocodile,koala,"[21, 22, 23, 24]","[19, 20, 25]",0.64
+crocodile,koala,"[22, 23, 24, 25]","[1, 2, 7]",0.36
+crocodile,koala,"[22, 23, 24, 25]","[2, 3, 8]",0.44
+crocodile,koala,"[22, 23, 24, 25]","[3, 4, 9]",0.88
+crocodile,koala,"[22, 23, 24, 25]","[4, 5, 10]",0.93
+crocodile,koala,"[22, 23, 24, 25]","[6, 7, 12]",0.59
+crocodile,koala,"[22, 23, 24, 25]","[7, 8, 13]",0.61
+crocodile,koala,"[22, 23, 24, 25]","[8, 9, 14]",0.54
+crocodile,koala,"[22, 23, 24, 25]","[9, 10, 15]",0.07
+crocodile,koala,"[22, 23, 24, 25]","[11, 12, 17]",0.45
+crocodile,koala,"[22, 23, 24, 25]","[12, 13, 18]",0.3
+crocodile,koala,"[22, 23, 24, 25]","[13, 14, 19]",0.23
+crocodile,koala,"[22, 23, 24, 25]","[14, 15, 20]",0.31
+pairing average win rate,0.5516, , , 
+crocodile,cockatoo,"[1, 2, 3, 4]","[6, 12, 17]",0.83
+crocodile,cockatoo,"[1, 2, 3, 4]","[7, 13, 18]",0.92
+crocodile,cockatoo,"[1, 2, 3, 4]","[8, 14, 19]",0.92
+crocodile,cockatoo,"[1, 2, 3, 4]","[9, 15, 19]",0.94
+crocodile,cockatoo,"[1, 2, 3, 4]","[11, 17, 22]",0.68
+crocodile,cockatoo,"[1, 2, 3, 4]","[12, 18, 23]",0.75
+crocodile,cockatoo,"[1, 2, 3, 4]","[13, 19, 24]",0.89
+crocodile,cockatoo,"[1, 2, 3, 4]","[14, 20, 25]",0.42
+crocodile,cockatoo,"[2, 3, 4, 5]","[1, 7, 12]",1.0
+crocodile,cockatoo,"[2, 3, 4, 5]","[6, 12, 17]",0.84
+crocodile,cockatoo,"[2, 3, 4, 5]","[7, 13, 18]",0.87
+crocodile,cockatoo,"[2, 3, 4, 5]","[8, 14, 19]",0.91
+crocodile,cockatoo,"[2, 3, 4, 5]","[9, 15, 19]",0.92
+crocodile,cockatoo,"[2, 3, 4, 5]","[11, 17, 22]",0.51
+crocodile,cockatoo,"[2, 3, 4, 5]","[12, 18, 23]",0.77
+crocodile,cockatoo,"[2, 3, 4, 5]","[13, 19, 24]",0.95
+crocodile,cockatoo,"[2, 3, 4, 5]","[14, 20, 25]",0.3
+crocodile,cockatoo,"[6, 7, 8, 9]","[4, 10, 15]",0.98
+crocodile,cockatoo,"[6, 7, 8, 9]","[11, 17, 22]",0.7
+crocodile,cockatoo,"[6, 7, 8, 9]","[12, 18, 23]",0.68
+crocodile,cockatoo,"[6, 7, 8, 9]","[13, 19, 24]",0.74
+crocodile,cockatoo,"[6, 7, 8, 9]","[14, 20, 25]",0.77
+crocodile,cockatoo,"[7, 8, 9, 10]","[6, 12, 17]",1.0
+crocodile,cockatoo,"[7, 8, 9, 10]","[11, 17, 22]",0.78
+crocodile,cockatoo,"[7, 8, 9, 10]","[12, 18, 23]",0.72
+crocodile,cockatoo,"[7, 8, 9, 10]","[13, 19, 24]",0.82
+crocodile,cockatoo,"[7, 8, 9, 10]","[14, 20, 25]",0.74
+crocodile,cockatoo,"[11, 12, 13, 14]","[4, 10, 15]",1.0
+crocodile,cockatoo,"[11, 12, 13, 14]","[9, 15, 19]",1.0
+crocodile,cockatoo,"[12, 13, 14, 15]","[11, 17, 22]",1.0
+crocodile,cockatoo,"[16, 17, 18, 19]","[1, 7, 12]",0.91
+crocodile,cockatoo,"[16, 17, 18, 19]","[2, 7, 13]",0.95
+crocodile,cockatoo,"[16, 17, 18, 19]","[3, 9, 14]",0.47
+crocodile,cockatoo,"[16, 17, 18, 19]","[4, 10, 15]",1.0
+crocodile,cockatoo,"[16, 17, 18, 19]","[14, 20, 25]",0.45
+crocodile,cockatoo,"[17, 18, 19, 20]","[1, 7, 12]",0.9
+crocodile,cockatoo,"[17, 18, 19, 20]","[2, 7, 13]",0.96
+crocodile,cockatoo,"[17, 18, 19, 20]","[3, 9, 14]",0.61
+crocodile,cockatoo,"[17, 18, 19, 20]","[4, 10, 15]",1.0
+crocodile,cockatoo,"[21, 22, 23, 24]","[1, 7, 12]",0.96
+crocodile,cockatoo,"[21, 22, 23, 24]","[2, 7, 13]",0.95
+crocodile,cockatoo,"[21, 22, 23, 24]","[3, 9, 14]",0.53
+crocodile,cockatoo,"[21, 22, 23, 24]","[4, 10, 15]",1.0
+crocodile,cockatoo,"[21, 22, 23, 24]","[6, 12, 17]",0.25
+crocodile,cockatoo,"[21, 22, 23, 24]","[7, 13, 18]",1.0
+crocodile,cockatoo,"[21, 22, 23, 24]","[8, 14, 19]",0.52
+crocodile,cockatoo,"[21, 22, 23, 24]","[9, 15, 19]",0.25
+crocodile,cockatoo,"[21, 22, 23, 24]","[14, 20, 25]",0.75
+crocodile,cockatoo,"[22, 23, 24, 25]","[1, 7, 12]",0.99
+crocodile,cockatoo,"[22, 23, 24, 25]","[2, 7, 13]",0.98
+crocodile,cockatoo,"[22, 23, 24, 25]","[3, 9, 14]",0.69
+crocodile,cockatoo,"[22, 23, 24, 25]","[4, 10, 15]",1.0
+crocodile,cockatoo,"[22, 23, 24, 25]","[6, 12, 17]",0.26
+crocodile,cockatoo,"[22, 23, 24, 25]","[7, 13, 18]",1.0
+crocodile,cockatoo,"[22, 23, 24, 25]","[8, 14, 19]",0.75
+crocodile,cockatoo,"[22, 23, 24, 25]","[9, 15, 19]",0.3
+pairing average win rate,0.7817857142857141, , , 
+crocodile,tiddalik,"[1, 2, 3, 4]","[7, 11, 13]",0.62
+crocodile,tiddalik,"[1, 2, 3, 4]","[8, 12, 14]",0.64
+crocodile,tiddalik,"[1, 2, 3, 4]","[9, 13, 15]",0.56
+crocodile,tiddalik,"[1, 2, 3, 4]","[12, 16, 18]",0.66
+crocodile,tiddalik,"[1, 2, 3, 4]","[13, 17, 19]",0.77
+crocodile,tiddalik,"[1, 2, 3, 4]","[14, 18, 20]",0.53
+crocodile,tiddalik,"[1, 2, 3, 4]","[17, 21, 23]",0.44
+crocodile,tiddalik,"[1, 2, 3, 4]","[18, 22, 24]",0.73
+crocodile,tiddalik,"[1, 2, 3, 4]","[19, 23, 25]",0.53
+crocodile,tiddalik,"[2, 3, 4, 5]","[7, 11, 13]",0.59
+crocodile,tiddalik,"[2, 3, 4, 5]","[8, 12, 14]",0.69
+crocodile,tiddalik,"[2, 3, 4, 5]","[9, 13, 15]",0.49
+crocodile,tiddalik,"[2, 3, 4, 5]","[12, 16, 18]",0.56
+crocodile,tiddalik,"[2, 3, 4, 5]","[13, 17, 19]",0.72
+crocodile,tiddalik,"[2, 3, 4, 5]","[14, 18, 20]",0.62
+crocodile,tiddalik,"[2, 3, 4, 5]","[17, 21, 23]",0.49
+crocodile,tiddalik,"[2, 3, 4, 5]","[18, 22, 24]",0.76
+crocodile,tiddalik,"[2, 3, 4, 5]","[19, 23, 25]",0.56
+crocodile,tiddalik,"[6, 7, 8, 9]","[12, 16, 18]",0.78
+crocodile,tiddalik,"[6, 7, 8, 9]","[13, 17, 19]",0.76
+crocodile,tiddalik,"[6, 7, 8, 9]","[14, 18, 20]",0.81
+crocodile,tiddalik,"[6, 7, 8, 9]","[17, 21, 23]",0.75
+crocodile,tiddalik,"[6, 7, 8, 9]","[18, 22, 24]",0.88
+crocodile,tiddalik,"[6, 7, 8, 9]","[19, 23, 25]",0.8
+crocodile,tiddalik,"[7, 8, 9, 10]","[12, 16, 18]",0.8
+crocodile,tiddalik,"[7, 8, 9, 10]","[13, 17, 19]",0.78
+crocodile,tiddalik,"[7, 8, 9, 10]","[14, 18, 20]",0.78
+crocodile,tiddalik,"[7, 8, 9, 10]","[17, 21, 23]",0.79
+crocodile,tiddalik,"[7, 8, 9, 10]","[18, 22, 24]",0.91
+crocodile,tiddalik,"[7, 8, 9, 10]","[19, 23, 25]",0.83
+crocodile,tiddalik,"[11, 12, 13, 14]","[2, 6, 8]",0.9
+crocodile,tiddalik,"[11, 12, 13, 14]","[3, 7, 9]",0.65
+crocodile,tiddalik,"[11, 12, 13, 14]","[4, 8, 10]",0.82
+crocodile,tiddalik,"[11, 12, 13, 14]","[17, 21, 23]",0.89
+crocodile,tiddalik,"[11, 12, 13, 14]","[18, 22, 24]",0.8
+crocodile,tiddalik,"[11, 12, 13, 14]","[19, 23, 25]",0.89
+crocodile,tiddalik,"[12, 13, 14, 15]","[2, 6, 8]",0.86
+crocodile,tiddalik,"[12, 13, 14, 15]","[3, 7, 9]",0.5
+crocodile,tiddalik,"[12, 13, 14, 15]","[4, 8, 10]",0.87
+crocodile,tiddalik,"[12, 13, 14, 15]","[17, 21, 23]",0.88
+crocodile,tiddalik,"[12, 13, 14, 15]","[18, 22, 24]",0.72
+crocodile,tiddalik,"[12, 13, 14, 15]","[19, 23, 25]",0.91
+crocodile,tiddalik,"[16, 17, 18, 19]","[2, 6, 8]",0.9
+crocodile,tiddalik,"[16, 17, 18, 19]","[3, 7, 9]",0.88
+crocodile,tiddalik,"[16, 17, 18, 19]","[4, 8, 10]",0.92
+crocodile,tiddalik,"[16, 17, 18, 19]","[7, 11, 13]",0.92
+crocodile,tiddalik,"[16, 17, 18, 19]","[8, 12, 14]",0.89
+crocodile,tiddalik,"[16, 17, 18, 19]","[9, 13, 15]",0.93
+crocodile,tiddalik,"[17, 18, 19, 20]","[2, 6, 8]",0.88
+crocodile,tiddalik,"[17, 18, 19, 20]","[3, 7, 9]",0.8
+crocodile,tiddalik,"[17, 18, 19, 20]","[4, 8, 10]",0.88
+crocodile,tiddalik,"[17, 18, 19, 20]","[7, 11, 13]",0.88
+crocodile,tiddalik,"[17, 18, 19, 20]","[8, 12, 14]",0.92
+crocodile,tiddalik,"[17, 18, 19, 20]","[9, 13, 15]",0.91
+crocodile,tiddalik,"[21, 22, 23, 24]","[2, 6, 8]",0.76
+crocodile,tiddalik,"[21, 22, 23, 24]","[3, 7, 9]",0.54
+crocodile,tiddalik,"[21, 22, 23, 24]","[4, 8, 10]",0.7
+crocodile,tiddalik,"[21, 22, 23, 24]","[7, 11, 13]",0.7
+crocodile,tiddalik,"[21, 22, 23, 24]","[8, 12, 14]",0.78
+crocodile,tiddalik,"[21, 22, 23, 24]","[9, 13, 15]",0.64
+crocodile,tiddalik,"[21, 22, 23, 24]","[12, 16, 18]",0.65
+crocodile,tiddalik,"[21, 22, 23, 24]","[13, 17, 19]",0.83
+crocodile,tiddalik,"[21, 22, 23, 24]","[14, 18, 20]",0.59
+crocodile,tiddalik,"[22, 23, 24, 25]","[2, 6, 8]",0.79
+crocodile,tiddalik,"[22, 23, 24, 25]","[3, 7, 9]",0.65
+crocodile,tiddalik,"[22, 23, 24, 25]","[4, 8, 10]",0.74
+crocodile,tiddalik,"[22, 23, 24, 25]","[7, 11, 13]",0.72
+crocodile,tiddalik,"[22, 23, 24, 25]","[8, 12, 14]",0.79
+crocodile,tiddalik,"[22, 23, 24, 25]","[9, 13, 15]",0.72
+crocodile,tiddalik,"[22, 23, 24, 25]","[12, 16, 18]",0.6
+crocodile,tiddalik,"[22, 23, 24, 25]","[13, 17, 19]",0.91
+crocodile,tiddalik,"[22, 23, 24, 25]","[14, 18, 20]",0.7
+pairing average win rate,0.7477777777777779, , , 
+koala,cockatoo,"[1, 2, 7]","[3, 9, 14]",0.85
+koala,cockatoo,"[1, 2, 7]","[4, 10, 15]",0.47
+koala,cockatoo,"[1, 2, 7]","[6, 12, 17]",1.0
+koala,cockatoo,"[1, 2, 7]","[8, 14, 19]",0.29
+koala,cockatoo,"[1, 2, 7]","[9, 15, 19]",0.58
+koala,cockatoo,"[1, 2, 7]","[11, 17, 22]",0.33
+koala,cockatoo,"[1, 2, 7]","[12, 18, 23]",1.0
+koala,cockatoo,"[1, 2, 7]","[13, 19, 24]",1.0
+koala,cockatoo,"[1, 2, 7]","[14, 20, 25]",0.84
+koala,cockatoo,"[2, 3, 8]","[1, 7, 12]",0.59
+koala,cockatoo,"[2, 3, 8]","[4, 10, 15]",0.27
+koala,cockatoo,"[2, 3, 8]","[6, 12, 17]",0.51
+koala,cockatoo,"[2, 3, 8]","[7, 13, 18]",0.86
+koala,cockatoo,"[2, 3, 8]","[9, 15, 19]",0.65
+koala,cockatoo,"[2, 3, 8]","[11, 17, 22]",0.25
+koala,cockatoo,"[2, 3, 8]","[12, 18, 23]",0.45
+koala,cockatoo,"[2, 3, 8]","[13, 19, 24]",0.51
+koala,cockatoo,"[2, 3, 8]","[14, 20, 25]",0.57
+koala,cockatoo,"[3, 4, 9]","[1, 7, 12]",0.96
+koala,cockatoo,"[3, 4, 9]","[2, 7, 13]",0.81
+koala,cockatoo,"[3, 4, 9]","[6, 12, 17]",0.97
+koala,cockatoo,"[3, 4, 9]","[7, 13, 18]",0.92
+koala,cockatoo,"[3, 4, 9]","[8, 14, 19]",1.0
+koala,cockatoo,"[3, 4, 9]","[11, 17, 22]",0.31
+koala,cockatoo,"[3, 4, 9]","[12, 18, 23]",0.97
+koala,cockatoo,"[3, 4, 9]","[13, 19, 24]",0.91
+koala,cockatoo,"[3, 4, 9]","[14, 20, 25]",0.82
+koala,cockatoo,"[4, 5, 10]","[1, 7, 12]",0.69
+koala,cockatoo,"[4, 5, 10]","[2, 7, 13]",0.49
+koala,cockatoo,"[4, 5, 10]","[3, 9, 14]",0.49
+koala,cockatoo,"[4, 5, 10]","[6, 12, 17]",0.56
+koala,cockatoo,"[4, 5, 10]","[7, 13, 18]",0.61
+koala,cockatoo,"[4, 5, 10]","[8, 14, 19]",0.33
+koala,cockatoo,"[4, 5, 10]","[9, 15, 19]",0.76
+koala,cockatoo,"[4, 5, 10]","[11, 17, 22]",0.17
+koala,cockatoo,"[4, 5, 10]","[12, 18, 23]",0.57
+koala,cockatoo,"[4, 5, 10]","[13, 19, 24]",0.45
+koala,cockatoo,"[4, 5, 10]","[14, 20, 25]",0.17
+koala,cockatoo,"[6, 7, 12]","[3, 9, 14]",1.0
+koala,cockatoo,"[6, 7, 12]","[4, 10, 15]",1.0
+koala,cockatoo,"[6, 7, 12]","[8, 14, 19]",1.0
+koala,cockatoo,"[6, 7, 12]","[9, 15, 19]",1.0
+koala,cockatoo,"[6, 7, 12]","[11, 17, 22]",1.0
+koala,cockatoo,"[6, 7, 12]","[13, 19, 24]",1.0
+koala,cockatoo,"[6, 7, 12]","[14, 20, 25]",1.0
+koala,cockatoo,"[7, 8, 13]","[3, 9, 14]",1.0
+koala,cockatoo,"[7, 8, 13]","[4, 10, 15]",0.91
+koala,cockatoo,"[7, 8, 13]","[6, 12, 17]",1.0
+koala,cockatoo,"[7, 8, 13]","[9, 15, 19]",1.0
+koala,cockatoo,"[7, 8, 13]","[11, 17, 22]",0.93
+koala,cockatoo,"[7, 8, 13]","[12, 18, 23]",1.0
+koala,cockatoo,"[7, 8, 13]","[14, 20, 25]",0.91
+koala,cockatoo,"[8, 9, 14]","[1, 7, 12]",1.0
+koala,cockatoo,"[8, 9, 14]","[2, 7, 13]",0.97
+koala,cockatoo,"[8, 9, 14]","[4, 10, 15]",1.0
+koala,cockatoo,"[8, 9, 14]","[6, 12, 17]",1.0
+koala,cockatoo,"[8, 9, 14]","[7, 13, 18]",0.93
+koala,cockatoo,"[8, 9, 14]","[11, 17, 22]",0.91
+koala,cockatoo,"[8, 9, 14]","[12, 18, 23]",1.0
+koala,cockatoo,"[8, 9, 14]","[13, 19, 24]",1.0
+koala,cockatoo,"[9, 10, 15]","[1, 7, 12]",0.9
+koala,cockatoo,"[9, 10, 15]","[2, 7, 13]",0.85
+koala,cockatoo,"[9, 10, 15]","[6, 12, 17]",0.91
+koala,cockatoo,"[9, 10, 15]","[7, 13, 18]",0.85
+koala,cockatoo,"[9, 10, 15]","[8, 14, 19]",1.0
+koala,cockatoo,"[9, 10, 15]","[11, 17, 22]",0.77
+koala,cockatoo,"[9, 10, 15]","[12, 18, 23]",0.86
+koala,cockatoo,"[9, 10, 15]","[13, 19, 24]",0.81
+koala,cockatoo,"[9, 10, 15]","[14, 20, 25]",0.79
+koala,cockatoo,"[11, 12, 17]","[2, 7, 13]",1.0
+koala,cockatoo,"[11, 12, 17]","[3, 9, 14]",1.0
+koala,cockatoo,"[11, 12, 17]","[4, 10, 15]",1.0
+koala,cockatoo,"[11, 12, 17]","[7, 13, 18]",1.0
+koala,cockatoo,"[11, 12, 17]","[8, 14, 19]",1.0
+koala,cockatoo,"[11, 12, 17]","[9, 15, 19]",1.0
+koala,cockatoo,"[11, 12, 17]","[13, 19, 24]",1.0
+koala,cockatoo,"[11, 12, 17]","[14, 20, 25]",1.0
+koala,cockatoo,"[12, 13, 18]","[3, 9, 14]",1.0
+koala,cockatoo,"[12, 13, 18]","[4, 10, 15]",1.0
+koala,cockatoo,"[12, 13, 18]","[8, 14, 19]",1.0
+koala,cockatoo,"[12, 13, 18]","[9, 15, 19]",1.0
+koala,cockatoo,"[12, 13, 18]","[11, 17, 22]",1.0
+koala,cockatoo,"[12, 13, 18]","[14, 20, 25]",1.0
+koala,cockatoo,"[13, 14, 19]","[1, 7, 12]",1.0
+koala,cockatoo,"[13, 14, 19]","[4, 10, 15]",1.0
+koala,cockatoo,"[13, 14, 19]","[6, 12, 17]",0.93
+koala,cockatoo,"[13, 14, 19]","[11, 17, 22]",1.0
+koala,cockatoo,"[13, 14, 19]","[12, 18, 23]",0.91
+koala,cockatoo,"[14, 15, 20]","[1, 7, 12]",0.78
+koala,cockatoo,"[14, 15, 20]","[2, 7, 13]",0.8
+koala,cockatoo,"[14, 15, 20]","[6, 12, 17]",0.87
+koala,cockatoo,"[14, 15, 20]","[7, 13, 18]",0.81
+koala,cockatoo,"[14, 15, 20]","[11, 17, 22]",0.91
+koala,cockatoo,"[14, 15, 20]","[12, 18, 23]",0.87
+koala,cockatoo,"[14, 15, 20]","[13, 19, 24]",0.5
+koala,cockatoo,"[16, 17, 22]","[1, 7, 12]",0.94
+koala,cockatoo,"[16, 17, 22]","[2, 7, 13]",0.6
+koala,cockatoo,"[16, 17, 22]","[3, 9, 14]",0.78
+koala,cockatoo,"[16, 17, 22]","[4, 10, 15]",0.39
+koala,cockatoo,"[16, 17, 22]","[7, 13, 18]",0.52
+koala,cockatoo,"[16, 17, 22]","[8, 14, 19]",0.87
+koala,cockatoo,"[16, 17, 22]","[9, 15, 19]",0.61
+koala,cockatoo,"[16, 17, 22]","[12, 18, 23]",0.74
+koala,cockatoo,"[16, 17, 22]","[13, 19, 24]",0.87
+koala,cockatoo,"[16, 17, 22]","[14, 20, 25]",0.54
+koala,cockatoo,"[17, 18, 23]","[1, 7, 12]",0.99
+koala,cockatoo,"[17, 18, 23]","[2, 7, 13]",0.98
+koala,cockatoo,"[17, 18, 23]","[3, 9, 14]",0.88
+koala,cockatoo,"[17, 18, 23]","[4, 10, 15]",0.56
+koala,cockatoo,"[17, 18, 23]","[8, 14, 19]",0.85
+koala,cockatoo,"[17, 18, 23]","[9, 15, 19]",0.54
+koala,cockatoo,"[17, 18, 23]","[13, 19, 24]",0.86
+koala,cockatoo,"[17, 18, 23]","[14, 20, 25]",0.83
+koala,cockatoo,"[18, 19, 24]","[1, 7, 12]",0.99
+koala,cockatoo,"[18, 19, 24]","[2, 7, 13]",0.87
+koala,cockatoo,"[18, 19, 24]","[3, 9, 14]",0.99
+koala,cockatoo,"[18, 19, 24]","[4, 10, 15]",0.71
+koala,cockatoo,"[18, 19, 24]","[6, 12, 17]",0.96
+koala,cockatoo,"[18, 19, 24]","[11, 17, 22]",0.34
+koala,cockatoo,"[18, 19, 24]","[14, 20, 25]",0.72
+koala,cockatoo,"[19, 20, 25]","[1, 7, 12]",0.89
+koala,cockatoo,"[19, 20, 25]","[2, 7, 13]",0.83
+koala,cockatoo,"[19, 20, 25]","[3, 9, 14]",0.87
+koala,cockatoo,"[19, 20, 25]","[4, 10, 15]",0.69
+koala,cockatoo,"[19, 20, 25]","[6, 12, 17]",0.63
+koala,cockatoo,"[19, 20, 25]","[7, 13, 18]",0.91
+koala,cockatoo,"[19, 20, 25]","[11, 17, 22]",0.43
+koala,cockatoo,"[19, 20, 25]","[12, 18, 23]",0.58
+pairing average win rate,0.8001562499999998, , , 
+koala,tiddalik,"[1, 2, 7]","[4, 8, 10]",0.86
+koala,tiddalik,"[1, 2, 7]","[8, 12, 14]",1.0
+koala,tiddalik,"[1, 2, 7]","[9, 13, 15]",0.73
+koala,tiddalik,"[1, 2, 7]","[12, 16, 18]",0.82
+koala,tiddalik,"[1, 2, 7]","[13, 17, 19]",0.73
+koala,tiddalik,"[1, 2, 7]","[14, 18, 20]",1.0
+koala,tiddalik,"[1, 2, 7]","[17, 21, 23]",0.55
+koala,tiddalik,"[1, 2, 7]","[18, 22, 24]",0.94
+koala,tiddalik,"[1, 2, 7]","[19, 23, 25]",0.71
+koala,tiddalik,"[2, 3, 8]","[7, 11, 13]",1.0
+koala,tiddalik,"[2, 3, 8]","[9, 13, 15]",1.0
+koala,tiddalik,"[2, 3, 8]","[12, 16, 18]",0.9
+koala,tiddalik,"[2, 3, 8]","[13, 17, 19]",1.0
+koala,tiddalik,"[2, 3, 8]","[14, 18, 20]",1.0
+koala,tiddalik,"[2, 3, 8]","[17, 21, 23]",1.0
+koala,tiddalik,"[2, 3, 8]","[18, 22, 24]",0.73
+koala,tiddalik,"[2, 3, 8]","[19, 23, 25]",1.0
+koala,tiddalik,"[3, 4, 9]","[2, 6, 8]",0.8
+koala,tiddalik,"[3, 4, 9]","[7, 11, 13]",0.74
+koala,tiddalik,"[3, 4, 9]","[8, 12, 14]",0.78
+koala,tiddalik,"[3, 4, 9]","[12, 16, 18]",0.91
+koala,tiddalik,"[3, 4, 9]","[13, 17, 19]",0.56
+koala,tiddalik,"[3, 4, 9]","[14, 18, 20]",1.0
+koala,tiddalik,"[3, 4, 9]","[17, 21, 23]",0.57
+koala,tiddalik,"[3, 4, 9]","[18, 22, 24]",0.94
+koala,tiddalik,"[3, 4, 9]","[19, 23, 25]",0.26
+koala,tiddalik,"[4, 5, 10]","[2, 6, 8]",1.0
+koala,tiddalik,"[4, 5, 10]","[3, 7, 9]",0.23
+koala,tiddalik,"[4, 5, 10]","[7, 11, 13]",0.29
+koala,tiddalik,"[4, 5, 10]","[8, 12, 14]",1.0
+koala,tiddalik,"[4, 5, 10]","[9, 13, 15]",0.0
+koala,tiddalik,"[4, 5, 10]","[12, 16, 18]",0.78
+koala,tiddalik,"[4, 5, 10]","[13, 17, 19]",0.61
+koala,tiddalik,"[4, 5, 10]","[14, 18, 20]",1.0
+koala,tiddalik,"[4, 5, 10]","[17, 21, 23]",0.59
+koala,tiddalik,"[4, 5, 10]","[18, 22, 24]",0.84
+koala,tiddalik,"[4, 5, 10]","[19, 23, 25]",0.18
+koala,tiddalik,"[6, 7, 12]","[4, 8, 10]",1.0
+koala,tiddalik,"[6, 7, 12]","[9, 13, 15]",0.83
+koala,tiddalik,"[6, 7, 12]","[13, 17, 19]",0.68
+koala,tiddalik,"[6, 7, 12]","[14, 18, 20]",1.0
+koala,tiddalik,"[6, 7, 12]","[17, 21, 23]",0.48
+koala,tiddalik,"[6, 7, 12]","[18, 22, 24]",1.0
+koala,tiddalik,"[6, 7, 12]","[19, 23, 25]",0.72
+koala,tiddalik,"[7, 8, 13]","[12, 16, 18]",0.85
+koala,tiddalik,"[7, 8, 13]","[14, 18, 20]",1.0
+koala,tiddalik,"[7, 8, 13]","[17, 21, 23]",1.0
+koala,tiddalik,"[7, 8, 13]","[18, 22, 24]",0.94
+koala,tiddalik,"[7, 8, 13]","[19, 23, 25]",1.0
+koala,tiddalik,"[8, 9, 14]","[7, 11, 13]",1.0
+koala,tiddalik,"[8, 9, 14]","[12, 16, 18]",1.0
+koala,tiddalik,"[8, 9, 14]","[13, 17, 19]",1.0
+koala,tiddalik,"[8, 9, 14]","[17, 21, 23]",1.0
+koala,tiddalik,"[8, 9, 14]","[18, 22, 24]",1.0
+koala,tiddalik,"[8, 9, 14]","[19, 23, 25]",1.0
+koala,tiddalik,"[9, 10, 15]","[2, 6, 8]",0.81
+koala,tiddalik,"[9, 10, 15]","[7, 11, 13]",0.89
+koala,tiddalik,"[9, 10, 15]","[8, 12, 14]",0.81
+koala,tiddalik,"[9, 10, 15]","[12, 16, 18]",0.8
+koala,tiddalik,"[9, 10, 15]","[13, 17, 19]",0.82
+koala,tiddalik,"[9, 10, 15]","[14, 18, 20]",1.0
+koala,tiddalik,"[9, 10, 15]","[17, 21, 23]",0.73
+koala,tiddalik,"[9, 10, 15]","[18, 22, 24]",0.86
+koala,tiddalik,"[9, 10, 15]","[19, 23, 25]",0.44
+koala,tiddalik,"[11, 12, 17]","[2, 6, 8]",0.95
+koala,tiddalik,"[11, 12, 17]","[3, 7, 9]",1.0
+koala,tiddalik,"[11, 12, 17]","[4, 8, 10]",1.0
+koala,tiddalik,"[11, 12, 17]","[9, 13, 15]",1.0
+koala,tiddalik,"[11, 12, 17]","[14, 18, 20]",1.0
+koala,tiddalik,"[11, 12, 17]","[18, 22, 24]",0.63
+koala,tiddalik,"[11, 12, 17]","[19, 23, 25]",1.0
+koala,tiddalik,"[12, 13, 18]","[2, 6, 8]",1.0
+koala,tiddalik,"[12, 13, 18]","[3, 7, 9]",1.0
+koala,tiddalik,"[12, 13, 18]","[4, 8, 10]",1.0
+koala,tiddalik,"[12, 13, 18]","[17, 21, 23]",1.0
+koala,tiddalik,"[12, 13, 18]","[19, 23, 25]",1.0
+koala,tiddalik,"[13, 14, 19]","[2, 6, 8]",0.78
+koala,tiddalik,"[13, 14, 19]","[3, 7, 9]",0.92
+koala,tiddalik,"[13, 14, 19]","[4, 8, 10]",0.96
+koala,tiddalik,"[13, 14, 19]","[12, 16, 18]",1.0
+koala,tiddalik,"[13, 14, 19]","[17, 21, 23]",0.72
+koala,tiddalik,"[13, 14, 19]","[18, 22, 24]",1.0
+koala,tiddalik,"[14, 15, 20]","[2, 6, 8]",0.89
+koala,tiddalik,"[14, 15, 20]","[3, 7, 9]",0.64
+koala,tiddalik,"[14, 15, 20]","[4, 8, 10]",0.97
+koala,tiddalik,"[14, 15, 20]","[7, 11, 13]",0.69
+koala,tiddalik,"[14, 15, 20]","[12, 16, 18]",1.0
+koala,tiddalik,"[14, 15, 20]","[13, 17, 19]",0.35
+koala,tiddalik,"[14, 15, 20]","[17, 21, 23]",0.61
+koala,tiddalik,"[14, 15, 20]","[18, 22, 24]",1.0
+koala,tiddalik,"[14, 15, 20]","[19, 23, 25]",0.16
+koala,tiddalik,"[16, 17, 22]","[2, 6, 8]",0.95
+koala,tiddalik,"[16, 17, 22]","[3, 7, 9]",1.0
+koala,tiddalik,"[16, 17, 22]","[4, 8, 10]",0.9
+koala,tiddalik,"[16, 17, 22]","[7, 11, 13]",1.0
+koala,tiddalik,"[16, 17, 22]","[8, 12, 14]",0.68
+koala,tiddalik,"[16, 17, 22]","[9, 13, 15]",1.0
+koala,tiddalik,"[16, 17, 22]","[14, 18, 20]",1.0
+koala,tiddalik,"[16, 17, 22]","[19, 23, 25]",1.0
+koala,tiddalik,"[17, 18, 23]","[2, 6, 8]",1.0
+koala,tiddalik,"[17, 18, 23]","[3, 7, 9]",1.0
+koala,tiddalik,"[17, 18, 23]","[4, 8, 10]",1.0
+koala,tiddalik,"[17, 18, 23]","[7, 11, 13]",1.0
+koala,tiddalik,"[17, 18, 23]","[8, 12, 14]",1.0
+koala,tiddalik,"[17, 18, 23]","[9, 13, 15]",1.0
+koala,tiddalik,"[18, 19, 24]","[2, 6, 8]",1.0
+koala,tiddalik,"[18, 19, 24]","[3, 7, 9]",1.0
+koala,tiddalik,"[18, 19, 24]","[4, 8, 10]",1.0
+koala,tiddalik,"[18, 19, 24]","[7, 11, 13]",1.0
+koala,tiddalik,"[18, 19, 24]","[8, 12, 14]",1.0
+koala,tiddalik,"[18, 19, 24]","[9, 13, 15]",1.0
+koala,tiddalik,"[18, 19, 24]","[17, 21, 23]",1.0
+koala,tiddalik,"[19, 20, 25]","[2, 6, 8]",0.8
+koala,tiddalik,"[19, 20, 25]","[3, 7, 9]",0.71
+koala,tiddalik,"[19, 20, 25]","[4, 8, 10]",0.95
+koala,tiddalik,"[19, 20, 25]","[7, 11, 13]",0.41
+koala,tiddalik,"[19, 20, 25]","[8, 12, 14]",0.66
+koala,tiddalik,"[19, 20, 25]","[9, 13, 15]",1.0
+koala,tiddalik,"[19, 20, 25]","[12, 16, 18]",0.46
+koala,tiddalik,"[19, 20, 25]","[17, 21, 23]",0.73
+koala,tiddalik,"[19, 20, 25]","[18, 22, 24]",0.42
+pairing average win rate,0.840082644628099, , , 
+cockatoo,tiddalik,"[1, 7, 12]","[2, 6, 8]",1.0
+cockatoo,tiddalik,"[1, 7, 12]","[4, 8, 10]",1.0
+cockatoo,tiddalik,"[1, 7, 12]","[9, 13, 15]",1.0
+cockatoo,tiddalik,"[1, 7, 12]","[13, 17, 19]",1.0
+cockatoo,tiddalik,"[1, 7, 12]","[14, 18, 20]",1.0
+cockatoo,tiddalik,"[1, 7, 12]","[17, 21, 23]",1.0
+cockatoo,tiddalik,"[1, 7, 12]","[18, 22, 24]",1.0
+cockatoo,tiddalik,"[1, 7, 12]","[19, 23, 25]",1.0
+cockatoo,tiddalik,"[2, 7, 13]","[4, 8, 10]",1.0
+cockatoo,tiddalik,"[2, 7, 13]","[8, 12, 14]",1.0
+cockatoo,tiddalik,"[2, 7, 13]","[12, 16, 18]",1.0
+cockatoo,tiddalik,"[2, 7, 13]","[14, 18, 20]",1.0
+cockatoo,tiddalik,"[2, 7, 13]","[17, 21, 23]",1.0
+cockatoo,tiddalik,"[2, 7, 13]","[18, 22, 24]",1.0
+cockatoo,tiddalik,"[2, 7, 13]","[19, 23, 25]",1.0
+cockatoo,tiddalik,"[3, 9, 14]","[2, 6, 8]",1.0
+cockatoo,tiddalik,"[3, 9, 14]","[4, 8, 10]",1.0
+cockatoo,tiddalik,"[3, 9, 14]","[7, 11, 13]",1.0
+cockatoo,tiddalik,"[3, 9, 14]","[12, 16, 18]",1.0
+cockatoo,tiddalik,"[3, 9, 14]","[13, 17, 19]",1.0
+cockatoo,tiddalik,"[3, 9, 14]","[17, 21, 23]",1.0
+cockatoo,tiddalik,"[3, 9, 14]","[18, 22, 24]",1.0
+cockatoo,tiddalik,"[3, 9, 14]","[19, 23, 25]",1.0
+cockatoo,tiddalik,"[4, 10, 15]","[2, 6, 8]",0.41
+cockatoo,tiddalik,"[4, 10, 15]","[3, 7, 9]",0.34
+cockatoo,tiddalik,"[4, 10, 15]","[7, 11, 13]",1.0
+cockatoo,tiddalik,"[4, 10, 15]","[8, 12, 14]",1.0
+cockatoo,tiddalik,"[4, 10, 15]","[12, 16, 18]",1.0
+cockatoo,tiddalik,"[4, 10, 15]","[13, 17, 19]",1.0
+cockatoo,tiddalik,"[4, 10, 15]","[14, 18, 20]",1.0
+cockatoo,tiddalik,"[4, 10, 15]","[17, 21, 23]",1.0
+cockatoo,tiddalik,"[4, 10, 15]","[18, 22, 24]",0.38
+cockatoo,tiddalik,"[4, 10, 15]","[19, 23, 25]",1.0
+cockatoo,tiddalik,"[6, 12, 17]","[3, 7, 9]",1.0
+cockatoo,tiddalik,"[6, 12, 17]","[4, 8, 10]",0.64
+cockatoo,tiddalik,"[6, 12, 17]","[7, 11, 13]",1.0
+cockatoo,tiddalik,"[6, 12, 17]","[9, 13, 15]",1.0
+cockatoo,tiddalik,"[6, 12, 17]","[14, 18, 20]",1.0
+cockatoo,tiddalik,"[6, 12, 17]","[18, 22, 24]",0.74
+cockatoo,tiddalik,"[6, 12, 17]","[19, 23, 25]",0.7
+cockatoo,tiddalik,"[7, 13, 18]","[2, 6, 8]",1.0
+cockatoo,tiddalik,"[7, 13, 18]","[4, 8, 10]",1.0
+cockatoo,tiddalik,"[7, 13, 18]","[8, 12, 14]",1.0
+cockatoo,tiddalik,"[7, 13, 18]","[17, 21, 23]",1.0
+cockatoo,tiddalik,"[7, 13, 18]","[19, 23, 25]",1.0
+cockatoo,tiddalik,"[8, 14, 19]","[3, 7, 9]",1.0
+cockatoo,tiddalik,"[8, 14, 19]","[7, 11, 13]",1.0
+cockatoo,tiddalik,"[8, 14, 19]","[9, 13, 15]",1.0
+cockatoo,tiddalik,"[8, 14, 19]","[12, 16, 18]",1.0
+cockatoo,tiddalik,"[8, 14, 19]","[17, 21, 23]",1.0
+cockatoo,tiddalik,"[8, 14, 19]","[18, 22, 24]",1.0
+cockatoo,tiddalik,"[9, 15, 19]","[2, 6, 8]",0.29
+cockatoo,tiddalik,"[9, 15, 19]","[4, 8, 10]",1.0
+cockatoo,tiddalik,"[9, 15, 19]","[7, 11, 13]",1.0
+cockatoo,tiddalik,"[9, 15, 19]","[8, 12, 14]",1.0
+cockatoo,tiddalik,"[9, 15, 19]","[12, 16, 18]",1.0
+cockatoo,tiddalik,"[9, 15, 19]","[14, 18, 20]",1.0
+cockatoo,tiddalik,"[9, 15, 19]","[17, 21, 23]",0.27
+cockatoo,tiddalik,"[9, 15, 19]","[18, 22, 24]",0.33
+cockatoo,tiddalik,"[11, 17, 22]","[2, 6, 8]",0.51
+cockatoo,tiddalik,"[11, 17, 22]","[3, 7, 9]",0.0
+cockatoo,tiddalik,"[11, 17, 22]","[4, 8, 10]",0.51
+cockatoo,tiddalik,"[11, 17, 22]","[8, 12, 14]",1.0
+cockatoo,tiddalik,"[11, 17, 22]","[9, 13, 15]",1.0
+cockatoo,tiddalik,"[11, 17, 22]","[12, 16, 18]",1.0
+cockatoo,tiddalik,"[11, 17, 22]","[14, 18, 20]",1.0
+cockatoo,tiddalik,"[11, 17, 22]","[19, 23, 25]",0.0
+cockatoo,tiddalik,"[12, 18, 23]","[2, 6, 8]",1.0
+cockatoo,tiddalik,"[12, 18, 23]","[3, 7, 9]",1.0
+cockatoo,tiddalik,"[12, 18, 23]","[4, 8, 10]",1.0
+cockatoo,tiddalik,"[12, 18, 23]","[7, 11, 13]",1.0
+cockatoo,tiddalik,"[12, 18, 23]","[9, 13, 15]",1.0
+cockatoo,tiddalik,"[12, 18, 23]","[13, 17, 19]",1.0
+cockatoo,tiddalik,"[13, 19, 24]","[2, 6, 8]",1.0
+cockatoo,tiddalik,"[13, 19, 24]","[3, 7, 9]",1.0
+cockatoo,tiddalik,"[13, 19, 24]","[4, 8, 10]",1.0
+cockatoo,tiddalik,"[13, 19, 24]","[8, 12, 14]",1.0
+cockatoo,tiddalik,"[13, 19, 24]","[12, 16, 18]",1.0
+cockatoo,tiddalik,"[13, 19, 24]","[14, 18, 20]",1.0
+cockatoo,tiddalik,"[13, 19, 24]","[17, 21, 23]",1.0
+cockatoo,tiddalik,"[14, 20, 25]","[2, 6, 8]",1.0
+cockatoo,tiddalik,"[14, 20, 25]","[3, 7, 9]",1.0
+cockatoo,tiddalik,"[14, 20, 25]","[4, 8, 10]",1.0
+cockatoo,tiddalik,"[14, 20, 25]","[7, 11, 13]",1.0
+cockatoo,tiddalik,"[14, 20, 25]","[9, 13, 15]",1.0
+cockatoo,tiddalik,"[14, 20, 25]","[12, 16, 18]",1.0
+cockatoo,tiddalik,"[14, 20, 25]","[13, 17, 19]",1.0
+cockatoo,tiddalik,"[14, 20, 25]","[17, 21, 23]",1.0
+cockatoo,tiddalik,"[14, 20, 25]","[18, 22, 24]",1.0
+pairing average win rate,0.9114606741573035, , , 

@@ -1,0 +1,1112 @@
+animal_1,animal_2,chosen_1,chosen_2,win_rate
+raccoon,pigeon,"[1, 3, 6, 9]","[2, 8, 13, 14]",0.26
+raccoon,pigeon,"[1, 3, 6, 9]","[7, 13, 18, 19]",1.0
+raccoon,pigeon,"[1, 3, 6, 9]","[8, 14, 19, 20]",0.92
+raccoon,pigeon,"[1, 3, 6, 9]","[11, 17, 22, 23]",0.14
+raccoon,pigeon,"[1, 3, 6, 9]","[12, 18, 23, 24]",0.84
+raccoon,pigeon,"[1, 3, 6, 9]","[13, 19, 24, 25]",1.0
+raccoon,pigeon,"[2, 4, 7, 10]","[3, 9, 14, 15]",0.7
+raccoon,pigeon,"[2, 4, 7, 10]","[6, 12, 17, 18]",0.99
+raccoon,pigeon,"[2, 4, 7, 10]","[8, 14, 19, 20]",0.86
+raccoon,pigeon,"[2, 4, 7, 10]","[11, 17, 22, 23]",0.29
+raccoon,pigeon,"[2, 4, 7, 10]","[12, 18, 23, 24]",0.91
+raccoon,pigeon,"[2, 4, 7, 10]","[13, 19, 24, 25]",1.0
+raccoon,pigeon,"[6, 8, 11, 14]","[1, 7, 12, 13]",0.87
+raccoon,pigeon,"[6, 8, 11, 14]","[7, 13, 18, 19]",1.0
+raccoon,pigeon,"[6, 8, 11, 14]","[12, 18, 23, 24]",0.88
+raccoon,pigeon,"[6, 8, 11, 14]","[13, 19, 24, 25]",1.0
+raccoon,pigeon,"[7, 9, 12, 15]","[2, 8, 13, 14]",0.8
+raccoon,pigeon,"[7, 9, 12, 15]","[8, 14, 19, 20]",1.0
+raccoon,pigeon,"[7, 9, 12, 15]","[11, 17, 22, 23]",0.78
+raccoon,pigeon,"[7, 9, 12, 15]","[13, 19, 24, 25]",1.0
+raccoon,pigeon,"[11, 13, 16, 19]","[3, 9, 14, 15]",1.0
+raccoon,pigeon,"[11, 13, 16, 19]","[6, 12, 17, 18]",1.0
+raccoon,pigeon,"[11, 13, 16, 19]","[12, 18, 23, 24]",1.0
+raccoon,pigeon,"[12, 14, 17, 20]","[7, 13, 18, 19]",1.0
+raccoon,pigeon,"[12, 14, 17, 20]","[13, 19, 24, 25]",1.0
+raccoon,pigeon,"[16, 18, 21, 24]","[1, 7, 12, 13]",0.89
+raccoon,pigeon,"[16, 18, 21, 24]","[2, 8, 13, 14]",0.59
+raccoon,pigeon,"[16, 18, 21, 24]","[3, 9, 14, 15]",0.48
+raccoon,pigeon,"[16, 18, 21, 24]","[8, 14, 19, 20]",0.83
+raccoon,pigeon,"[16, 18, 21, 24]","[11, 17, 22, 23]",0.15
+raccoon,pigeon,"[17, 19, 22, 25]","[1, 7, 12, 13]",1.0
+raccoon,pigeon,"[17, 19, 22, 25]","[2, 8, 13, 14]",1.0
+raccoon,pigeon,"[17, 19, 22, 25]","[3, 9, 14, 15]",1.0
+raccoon,pigeon,"[17, 19, 22, 25]","[12, 18, 23, 24]",1.0
+pairing average win rate,0.8288235294117647, , , 
+raccoon,rat,"[1, 3, 6, 9]","[7, 8, 13, 15]",1.0
+raccoon,rat,"[1, 3, 6, 9]","[11, 12, 17, 19]",0.7
+raccoon,rat,"[1, 3, 6, 9]","[12, 13, 18, 20]",0.49
+raccoon,rat,"[1, 3, 6, 9]","[16, 17, 22, 24]",0.8
+raccoon,rat,"[1, 3, 6, 9]","[17, 18, 23, 25]",0.78
+raccoon,rat,"[2, 4, 7, 10]","[11, 12, 17, 19]",0.63
+raccoon,rat,"[2, 4, 7, 10]","[12, 13, 18, 20]",1.0
+raccoon,rat,"[2, 4, 7, 10]","[16, 17, 22, 24]",0.7
+raccoon,rat,"[2, 4, 7, 10]","[17, 18, 23, 25]",0.78
+raccoon,rat,"[6, 8, 11, 14]","[1, 2, 7, 9]",1.0
+raccoon,rat,"[6, 8, 11, 14]","[12, 13, 18, 20]",0.51
+raccoon,rat,"[6, 8, 11, 14]","[16, 17, 22, 24]",0.88
+raccoon,rat,"[6, 8, 11, 14]","[17, 18, 23, 25]",0.88
+raccoon,rat,"[7, 9, 12, 15]","[2, 3, 8, 10]",1.0
+raccoon,rat,"[7, 9, 12, 15]","[16, 17, 22, 24]",0.89
+raccoon,rat,"[7, 9, 12, 15]","[17, 18, 23, 25]",0.85
+raccoon,rat,"[11, 13, 16, 19]","[1, 2, 7, 9]",0.66
+raccoon,rat,"[11, 13, 16, 19]","[2, 3, 8, 10]",0.55
+raccoon,rat,"[11, 13, 16, 19]","[6, 7, 12, 14]",0.65
+raccoon,rat,"[11, 13, 16, 19]","[17, 18, 23, 25]",1.0
+raccoon,rat,"[12, 14, 17, 20]","[1, 2, 7, 9]",1.0
+raccoon,rat,"[12, 14, 17, 20]","[2, 3, 8, 10]",1.0
+raccoon,rat,"[12, 14, 17, 20]","[7, 8, 13, 15]",1.0
+raccoon,rat,"[16, 18, 21, 24]","[1, 2, 7, 9]",0.49
+raccoon,rat,"[16, 18, 21, 24]","[2, 3, 8, 10]",0.48
+raccoon,rat,"[16, 18, 21, 24]","[6, 7, 12, 14]",0.63
+raccoon,rat,"[16, 18, 21, 24]","[7, 8, 13, 15]",0.68
+raccoon,rat,"[16, 18, 21, 24]","[11, 12, 17, 19]",1.0
+raccoon,rat,"[17, 19, 22, 25]","[1, 2, 7, 9]",1.0
+raccoon,rat,"[17, 19, 22, 25]","[2, 3, 8, 10]",1.0
+raccoon,rat,"[17, 19, 22, 25]","[6, 7, 12, 14]",1.0
+raccoon,rat,"[17, 19, 22, 25]","[7, 8, 13, 15]",1.0
+raccoon,rat,"[17, 19, 22, 25]","[12, 13, 18, 20]",1.0
+pairing average win rate,0.8190909090909091, , , 
+raccoon,squirrel,"[1, 3, 6, 9]","[4, 7, 13]",1.0
+raccoon,squirrel,"[1, 3, 6, 9]","[5, 8, 14]",0.58
+raccoon,squirrel,"[1, 3, 6, 9]","[8, 11, 17]",0.76
+raccoon,squirrel,"[1, 3, 6, 9]","[10, 13, 19]",1.0
+raccoon,squirrel,"[1, 3, 6, 9]","[13, 16, 22]",1.0
+raccoon,squirrel,"[1, 3, 6, 9]","[14, 17, 23]",0.92
+raccoon,squirrel,"[1, 3, 6, 9]","[15, 18, 24]",0.79
+raccoon,squirrel,"[2, 4, 7, 10]","[3, 6, 12]",0.03
+raccoon,squirrel,"[2, 4, 7, 10]","[5, 8, 14]",0.66
+raccoon,squirrel,"[2, 4, 7, 10]","[8, 11, 17]",0.57
+raccoon,squirrel,"[2, 4, 7, 10]","[9, 12, 18]",0.55
+raccoon,squirrel,"[2, 4, 7, 10]","[13, 16, 22]",1.0
+raccoon,squirrel,"[2, 4, 7, 10]","[14, 17, 23]",0.94
+raccoon,squirrel,"[2, 4, 7, 10]","[15, 18, 24]",0.64
+raccoon,squirrel,"[6, 8, 11, 14]","[4, 7, 13]",1.0
+raccoon,squirrel,"[6, 8, 11, 14]","[9, 12, 18]",0.85
+raccoon,squirrel,"[6, 8, 11, 14]","[10, 13, 19]",1.0
+raccoon,squirrel,"[6, 8, 11, 14]","[13, 16, 22]",1.0
+raccoon,squirrel,"[6, 8, 11, 14]","[15, 18, 24]",0.93
+raccoon,squirrel,"[7, 9, 12, 15]","[5, 8, 14]",0.65
+raccoon,squirrel,"[7, 9, 12, 15]","[8, 11, 17]",0.92
+raccoon,squirrel,"[7, 9, 12, 15]","[10, 13, 19]",1.0
+raccoon,squirrel,"[7, 9, 12, 15]","[13, 16, 22]",1.0
+raccoon,squirrel,"[7, 9, 12, 15]","[14, 17, 23]",1.0
+raccoon,squirrel,"[11, 13, 16, 19]","[3, 6, 12]",1.0
+raccoon,squirrel,"[11, 13, 16, 19]","[5, 8, 14]",1.0
+raccoon,squirrel,"[11, 13, 16, 19]","[9, 12, 18]",1.0
+raccoon,squirrel,"[11, 13, 16, 19]","[14, 17, 23]",1.0
+raccoon,squirrel,"[11, 13, 16, 19]","[15, 18, 24]",1.0
+raccoon,squirrel,"[12, 14, 17, 20]","[4, 7, 13]",1.0
+raccoon,squirrel,"[12, 14, 17, 20]","[10, 13, 19]",1.0
+raccoon,squirrel,"[12, 14, 17, 20]","[13, 16, 22]",1.0
+raccoon,squirrel,"[12, 14, 17, 20]","[15, 18, 24]",1.0
+raccoon,squirrel,"[16, 18, 21, 24]","[3, 6, 12]",1.0
+raccoon,squirrel,"[16, 18, 21, 24]","[4, 7, 13]",1.0
+raccoon,squirrel,"[16, 18, 21, 24]","[5, 8, 14]",1.0
+raccoon,squirrel,"[16, 18, 21, 24]","[8, 11, 17]",0.7
+raccoon,squirrel,"[16, 18, 21, 24]","[10, 13, 19]",1.0
+raccoon,squirrel,"[16, 18, 21, 24]","[14, 17, 23]",0.83
+raccoon,squirrel,"[17, 19, 22, 25]","[3, 6, 12]",1.0
+raccoon,squirrel,"[17, 19, 22, 25]","[4, 7, 13]",1.0
+raccoon,squirrel,"[17, 19, 22, 25]","[5, 8, 14]",1.0
+raccoon,squirrel,"[17, 19, 22, 25]","[9, 12, 18]",0.95
+raccoon,squirrel,"[17, 19, 22, 25]","[15, 18, 24]",0.91
+pairing average win rate,0.8904545454545455, , , 
+raccoon,opossum,"[1, 3, 6, 9]","[7, 12, 14]",1.0
+raccoon,opossum,"[1, 3, 6, 9]","[8, 13, 15]",0.5
+raccoon,opossum,"[1, 3, 6, 9]","[11, 16, 18]",0.73
+raccoon,opossum,"[1, 3, 6, 9]","[12, 17, 19]",1.0
+raccoon,opossum,"[1, 3, 6, 9]","[13, 18, 20]",0.66
+raccoon,opossum,"[1, 3, 6, 9]","[16, 21, 23]",0.4
+raccoon,opossum,"[1, 3, 6, 9]","[17, 22, 24]",1.0
+raccoon,opossum,"[1, 3, 6, 9]","[18, 23, 25]",0.69
+raccoon,opossum,"[2, 4, 7, 10]","[1, 6, 8]",0.61
+raccoon,opossum,"[2, 4, 7, 10]","[6, 11, 13]",0.9
+raccoon,opossum,"[2, 4, 7, 10]","[8, 13, 15]",0.95
+raccoon,opossum,"[2, 4, 7, 10]","[11, 16, 18]",0.79
+raccoon,opossum,"[2, 4, 7, 10]","[12, 17, 19]",1.0
+raccoon,opossum,"[2, 4, 7, 10]","[13, 18, 20]",0.93
+raccoon,opossum,"[2, 4, 7, 10]","[16, 21, 23]",0.49
+raccoon,opossum,"[2, 4, 7, 10]","[17, 22, 24]",1.0
+raccoon,opossum,"[2, 4, 7, 10]","[18, 23, 25]",0.83
+raccoon,opossum,"[6, 8, 11, 14]","[2, 7, 9]",1.0
+raccoon,opossum,"[6, 8, 11, 14]","[12, 17, 19]",1.0
+raccoon,opossum,"[6, 8, 11, 14]","[13, 18, 20]",0.34
+raccoon,opossum,"[6, 8, 11, 14]","[16, 21, 23]",0.27
+raccoon,opossum,"[6, 8, 11, 14]","[17, 22, 24]",1.0
+raccoon,opossum,"[6, 8, 11, 14]","[18, 23, 25]",0.51
+raccoon,opossum,"[7, 9, 12, 15]","[1, 6, 8]",0.92
+raccoon,opossum,"[7, 9, 12, 15]","[3, 8, 10]",0.93
+raccoon,opossum,"[7, 9, 12, 15]","[6, 11, 13]",0.84
+raccoon,opossum,"[7, 9, 12, 15]","[11, 16, 18]",0.93
+raccoon,opossum,"[7, 9, 12, 15]","[13, 18, 20]",0.94
+raccoon,opossum,"[7, 9, 12, 15]","[16, 21, 23]",0.36
+raccoon,opossum,"[7, 9, 12, 15]","[17, 22, 24]",0.71
+raccoon,opossum,"[7, 9, 12, 15]","[18, 23, 25]",0.9
+raccoon,opossum,"[11, 13, 16, 19]","[1, 6, 8]",1.0
+raccoon,opossum,"[11, 13, 16, 19]","[2, 7, 9]",1.0
+raccoon,opossum,"[11, 13, 16, 19]","[3, 8, 10]",0.29
+raccoon,opossum,"[11, 13, 16, 19]","[7, 12, 14]",1.0
+raccoon,opossum,"[11, 13, 16, 19]","[17, 22, 24]",1.0
+raccoon,opossum,"[11, 13, 16, 19]","[18, 23, 25]",0.59
+raccoon,opossum,"[12, 14, 17, 20]","[1, 6, 8]",0.89
+raccoon,opossum,"[12, 14, 17, 20]","[2, 7, 9]",0.65
+raccoon,opossum,"[12, 14, 17, 20]","[3, 8, 10]",0.91
+raccoon,opossum,"[12, 14, 17, 20]","[6, 11, 13]",0.63
+raccoon,opossum,"[12, 14, 17, 20]","[8, 13, 15]",0.85
+raccoon,opossum,"[12, 14, 17, 20]","[11, 16, 18]",0.87
+raccoon,opossum,"[12, 14, 17, 20]","[16, 21, 23]",0.63
+raccoon,opossum,"[12, 14, 17, 20]","[18, 23, 25]",0.95
+raccoon,opossum,"[16, 18, 21, 24]","[1, 6, 8]",1.0
+raccoon,opossum,"[16, 18, 21, 24]","[2, 7, 9]",1.0
+raccoon,opossum,"[16, 18, 21, 24]","[3, 8, 10]",0.33
+raccoon,opossum,"[16, 18, 21, 24]","[6, 11, 13]",1.0
+raccoon,opossum,"[16, 18, 21, 24]","[7, 12, 14]",1.0
+raccoon,opossum,"[16, 18, 21, 24]","[8, 13, 15]",0.69
+raccoon,opossum,"[16, 18, 21, 24]","[12, 17, 19]",1.0
+raccoon,opossum,"[17, 19, 22, 25]","[1, 6, 8]",0.89
+raccoon,opossum,"[17, 19, 22, 25]","[2, 7, 9]",0.92
+raccoon,opossum,"[17, 19, 22, 25]","[3, 8, 10]",0.88
+raccoon,opossum,"[17, 19, 22, 25]","[6, 11, 13]",0.73
+raccoon,opossum,"[17, 19, 22, 25]","[7, 12, 14]",0.96
+raccoon,opossum,"[17, 19, 22, 25]","[8, 13, 15]",0.87
+raccoon,opossum,"[17, 19, 22, 25]","[11, 16, 18]",0.75
+raccoon,opossum,"[17, 19, 22, 25]","[13, 18, 20]",0.92
+raccoon,opossum,"[17, 19, 22, 25]","[16, 21, 23]",0.64
+pairing average win rate,0.8027868852459017, , , 
+raccoon,sewer turtle,"[1, 3, 6, 9]","[4, 5]",0.01
+raccoon,sewer turtle,"[1, 3, 6, 9]","[7, 8]",0.04
+raccoon,sewer turtle,"[1, 3, 6, 9]","[11, 12]",0.73
+raccoon,sewer turtle,"[1, 3, 6, 9]","[12, 13]",0.94
+raccoon,sewer turtle,"[1, 3, 6, 9]","[13, 14]",0.95
+raccoon,sewer turtle,"[1, 3, 6, 9]","[14, 15]",0.9
+raccoon,sewer turtle,"[1, 3, 6, 9]","[16, 17]",0.63
+raccoon,sewer turtle,"[1, 3, 6, 9]","[17, 18]",0.77
+raccoon,sewer turtle,"[1, 3, 6, 9]","[18, 19]",0.89
+raccoon,sewer turtle,"[1, 3, 6, 9]","[19, 20]",0.81
+raccoon,sewer turtle,"[1, 3, 6, 9]","[21, 22]",0.49
+raccoon,sewer turtle,"[1, 3, 6, 9]","[22, 23]",0.77
+raccoon,sewer turtle,"[1, 3, 6, 9]","[23, 24]",0.75
+raccoon,sewer turtle,"[1, 3, 6, 9]","[24, 25]",0.5
+raccoon,sewer turtle,"[2, 4, 7, 10]","[8, 9]",1.0
+raccoon,sewer turtle,"[2, 4, 7, 10]","[11, 12]",0.22
+raccoon,sewer turtle,"[2, 4, 7, 10]","[12, 13]",0.19
+raccoon,sewer turtle,"[2, 4, 7, 10]","[13, 14]",1.0
+raccoon,sewer turtle,"[2, 4, 7, 10]","[14, 15]",1.0
+raccoon,sewer turtle,"[2, 4, 7, 10]","[16, 17]",0.2
+raccoon,sewer turtle,"[2, 4, 7, 10]","[17, 18]",0.13
+raccoon,sewer turtle,"[2, 4, 7, 10]","[18, 19]",1.0
+raccoon,sewer turtle,"[2, 4, 7, 10]","[19, 20]",1.0
+raccoon,sewer turtle,"[2, 4, 7, 10]","[21, 22]",0.17
+raccoon,sewer turtle,"[2, 4, 7, 10]","[22, 23]",0.21
+raccoon,sewer turtle,"[2, 4, 7, 10]","[23, 24]",1.0
+raccoon,sewer turtle,"[2, 4, 7, 10]","[24, 25]",1.0
+raccoon,sewer turtle,"[6, 8, 11, 14]","[1, 2]",0.56
+raccoon,sewer turtle,"[6, 8, 11, 14]","[2, 3]",0.81
+raccoon,sewer turtle,"[6, 8, 11, 14]","[3, 4]",0.8
+raccoon,sewer turtle,"[6, 8, 11, 14]","[4, 5]",0.48
+raccoon,sewer turtle,"[6, 8, 11, 14]","[9, 10]",0.44
+raccoon,sewer turtle,"[6, 8, 11, 14]","[12, 13]",0.05
+raccoon,sewer turtle,"[6, 8, 11, 14]","[16, 17]",0.68
+raccoon,sewer turtle,"[6, 8, 11, 14]","[17, 18]",0.79
+raccoon,sewer turtle,"[6, 8, 11, 14]","[18, 19]",0.87
+raccoon,sewer turtle,"[6, 8, 11, 14]","[19, 20]",0.7
+raccoon,sewer turtle,"[6, 8, 11, 14]","[21, 22]",0.49
+raccoon,sewer turtle,"[6, 8, 11, 14]","[22, 23]",0.79
+raccoon,sewer turtle,"[6, 8, 11, 14]","[23, 24]",0.86
+raccoon,sewer turtle,"[6, 8, 11, 14]","[24, 25]",0.49
+raccoon,sewer turtle,"[7, 9, 12, 15]","[1, 2]",0.14
+raccoon,sewer turtle,"[7, 9, 12, 15]","[2, 3]",0.96
+raccoon,sewer turtle,"[7, 9, 12, 15]","[3, 4]",0.92
+raccoon,sewer turtle,"[7, 9, 12, 15]","[4, 5]",0.19
+raccoon,sewer turtle,"[7, 9, 12, 15]","[13, 14]",0.66
+raccoon,sewer turtle,"[7, 9, 12, 15]","[16, 17]",0.5
+raccoon,sewer turtle,"[7, 9, 12, 15]","[17, 18]",0.76
+raccoon,sewer turtle,"[7, 9, 12, 15]","[18, 19]",0.93
+raccoon,sewer turtle,"[7, 9, 12, 15]","[19, 20]",0.83
+raccoon,sewer turtle,"[7, 9, 12, 15]","[21, 22]",0.42
+raccoon,sewer turtle,"[7, 9, 12, 15]","[22, 23]",0.83
+raccoon,sewer turtle,"[7, 9, 12, 15]","[23, 24]",0.81
+raccoon,sewer turtle,"[7, 9, 12, 15]","[24, 25]",0.47
+raccoon,sewer turtle,"[11, 13, 16, 19]","[1, 2]",0.52
+raccoon,sewer turtle,"[11, 13, 16, 19]","[2, 3]",0.76
+raccoon,sewer turtle,"[11, 13, 16, 19]","[3, 4]",0.73
+raccoon,sewer turtle,"[11, 13, 16, 19]","[4, 5]",0.46
+raccoon,sewer turtle,"[11, 13, 16, 19]","[6, 7]",0.53
+raccoon,sewer turtle,"[11, 13, 16, 19]","[7, 8]",0.67
+raccoon,sewer turtle,"[11, 13, 16, 19]","[8, 9]",0.9
+raccoon,sewer turtle,"[11, 13, 16, 19]","[9, 10]",0.78
+raccoon,sewer turtle,"[11, 13, 16, 19]","[14, 15]",0.63
+raccoon,sewer turtle,"[11, 13, 16, 19]","[17, 18]",0.01
+raccoon,sewer turtle,"[11, 13, 16, 19]","[21, 22]",0.41
+raccoon,sewer turtle,"[11, 13, 16, 19]","[22, 23]",0.72
+raccoon,sewer turtle,"[11, 13, 16, 19]","[23, 24]",0.64
+raccoon,sewer turtle,"[11, 13, 16, 19]","[24, 25]",0.46
+raccoon,sewer turtle,"[12, 14, 17, 20]","[1, 2]",0.64
+raccoon,sewer turtle,"[12, 14, 17, 20]","[2, 3]",0.81
+raccoon,sewer turtle,"[12, 14, 17, 20]","[3, 4]",0.76
+raccoon,sewer turtle,"[12, 14, 17, 20]","[4, 5]",0.53
+raccoon,sewer turtle,"[12, 14, 17, 20]","[6, 7]",0.28
+raccoon,sewer turtle,"[12, 14, 17, 20]","[7, 8]",0.84
+raccoon,sewer turtle,"[12, 14, 17, 20]","[8, 9]",0.95
+raccoon,sewer turtle,"[12, 14, 17, 20]","[9, 10]",0.52
+raccoon,sewer turtle,"[12, 14, 17, 20]","[18, 19]",0.41
+raccoon,sewer turtle,"[12, 14, 17, 20]","[21, 22]",0.45
+raccoon,sewer turtle,"[12, 14, 17, 20]","[22, 23]",0.8
+raccoon,sewer turtle,"[12, 14, 17, 20]","[23, 24]",0.82
+raccoon,sewer turtle,"[12, 14, 17, 20]","[24, 25]",0.54
+raccoon,sewer turtle,"[16, 18, 21, 24]","[1, 2]",0.26
+raccoon,sewer turtle,"[16, 18, 21, 24]","[2, 3]",0.5
+raccoon,sewer turtle,"[16, 18, 21, 24]","[3, 4]",0.55
+raccoon,sewer turtle,"[16, 18, 21, 24]","[4, 5]",0.37
+raccoon,sewer turtle,"[16, 18, 21, 24]","[6, 7]",0.36
+raccoon,sewer turtle,"[16, 18, 21, 24]","[7, 8]",0.31
+raccoon,sewer turtle,"[16, 18, 21, 24]","[8, 9]",1.0
+raccoon,sewer turtle,"[16, 18, 21, 24]","[9, 10]",1.0
+raccoon,sewer turtle,"[16, 18, 21, 24]","[11, 12]",0.35
+raccoon,sewer turtle,"[16, 18, 21, 24]","[12, 13]",0.34
+raccoon,sewer turtle,"[16, 18, 21, 24]","[13, 14]",1.0
+raccoon,sewer turtle,"[16, 18, 21, 24]","[14, 15]",1.0
+raccoon,sewer turtle,"[16, 18, 21, 24]","[19, 20]",1.0
+raccoon,sewer turtle,"[16, 18, 21, 24]","[22, 23]",0.0
+raccoon,sewer turtle,"[17, 19, 22, 25]","[1, 2]",0.43
+raccoon,sewer turtle,"[17, 19, 22, 25]","[2, 3]",0.84
+raccoon,sewer turtle,"[17, 19, 22, 25]","[3, 4]",0.84
+raccoon,sewer turtle,"[17, 19, 22, 25]","[4, 5]",0.44
+raccoon,sewer turtle,"[17, 19, 22, 25]","[6, 7]",0.45
+raccoon,sewer turtle,"[17, 19, 22, 25]","[7, 8]",0.69
+raccoon,sewer turtle,"[17, 19, 22, 25]","[8, 9]",0.91
+raccoon,sewer turtle,"[17, 19, 22, 25]","[9, 10]",0.75
+raccoon,sewer turtle,"[17, 19, 22, 25]","[11, 12]",0.37
+raccoon,sewer turtle,"[17, 19, 22, 25]","[12, 13]",0.69
+raccoon,sewer turtle,"[17, 19, 22, 25]","[13, 14]",1.0
+raccoon,sewer turtle,"[17, 19, 22, 25]","[14, 15]",0.72
+raccoon,sewer turtle,"[17, 19, 22, 25]","[23, 24]",0.03
+pairing average win rate,0.6231481481481482, , , 
+pigeon,rat,"[1, 7, 12, 13]","[2, 3, 8, 10]",1.0
+pigeon,rat,"[1, 7, 12, 13]","[16, 17, 22, 24]",1.0
+pigeon,rat,"[1, 7, 12, 13]","[17, 18, 23, 25]",1.0
+pigeon,rat,"[2, 8, 13, 14]","[11, 12, 17, 19]",1.0
+pigeon,rat,"[2, 8, 13, 14]","[16, 17, 22, 24]",1.0
+pigeon,rat,"[2, 8, 13, 14]","[17, 18, 23, 25]",1.0
+pigeon,rat,"[3, 9, 14, 15]","[11, 12, 17, 19]",0.62
+pigeon,rat,"[3, 9, 14, 15]","[12, 13, 18, 20]",1.0
+pigeon,rat,"[3, 9, 14, 15]","[16, 17, 22, 24]",0.6
+pigeon,rat,"[3, 9, 14, 15]","[17, 18, 23, 25]",0.69
+pigeon,rat,"[6, 12, 17, 18]","[1, 2, 7, 9]",1.0
+pigeon,rat,"[6, 12, 17, 18]","[2, 3, 8, 10]",1.0
+pigeon,rat,"[6, 12, 17, 18]","[7, 8, 13, 15]",1.0
+pigeon,rat,"[7, 13, 18, 19]","[2, 3, 8, 10]",1.0
+pigeon,rat,"[7, 13, 18, 19]","[16, 17, 22, 24]",1.0
+pigeon,rat,"[8, 14, 19, 20]","[1, 2, 7, 9]",0.77
+pigeon,rat,"[8, 14, 19, 20]","[16, 17, 22, 24]",1.0
+pigeon,rat,"[8, 14, 19, 20]","[17, 18, 23, 25]",1.0
+pigeon,rat,"[11, 17, 22, 23]","[1, 2, 7, 9]",1.0
+pigeon,rat,"[11, 17, 22, 23]","[2, 3, 8, 10]",1.0
+pigeon,rat,"[11, 17, 22, 23]","[6, 7, 12, 14]",1.0
+pigeon,rat,"[11, 17, 22, 23]","[7, 8, 13, 15]",1.0
+pigeon,rat,"[11, 17, 22, 23]","[12, 13, 18, 20]",1.0
+pigeon,rat,"[12, 18, 23, 24]","[1, 2, 7, 9]",0.72
+pigeon,rat,"[12, 18, 23, 24]","[2, 3, 8, 10]",0.54
+pigeon,rat,"[12, 18, 23, 24]","[7, 8, 13, 15]",1.0
+pigeon,rat,"[13, 19, 24, 25]","[1, 2, 7, 9]",0.93
+pigeon,rat,"[13, 19, 24, 25]","[2, 3, 8, 10]",0.71
+pigeon,rat,"[13, 19, 24, 25]","[6, 7, 12, 14]",1.0
+pairing average win rate,0.916551724137931, , , 
+pigeon,squirrel,"[1, 7, 12, 13]","[5, 8, 14]",1.0
+pigeon,squirrel,"[1, 7, 12, 13]","[8, 11, 17]",1.0
+pigeon,squirrel,"[1, 7, 12, 13]","[14, 17, 23]",1.0
+pigeon,squirrel,"[1, 7, 12, 13]","[15, 18, 24]",1.0
+pigeon,squirrel,"[2, 8, 13, 14]","[3, 6, 12]",1.0
+pigeon,squirrel,"[2, 8, 13, 14]","[9, 12, 18]",1.0
+pigeon,squirrel,"[2, 8, 13, 14]","[15, 18, 24]",1.0
+pigeon,squirrel,"[3, 9, 14, 15]","[4, 7, 13]",1.0
+pigeon,squirrel,"[3, 9, 14, 15]","[8, 11, 17]",1.0
+pigeon,squirrel,"[3, 9, 14, 15]","[10, 13, 19]",1.0
+pigeon,squirrel,"[3, 9, 14, 15]","[13, 16, 22]",1.0
+pigeon,squirrel,"[6, 12, 17, 18]","[4, 7, 13]",1.0
+pigeon,squirrel,"[6, 12, 17, 18]","[5, 8, 14]",1.0
+pigeon,squirrel,"[6, 12, 17, 18]","[10, 13, 19]",1.0
+pigeon,squirrel,"[6, 12, 17, 18]","[13, 16, 22]",1.0
+pigeon,squirrel,"[7, 13, 18, 19]","[3, 6, 12]",1.0
+pigeon,squirrel,"[7, 13, 18, 19]","[5, 8, 14]",1.0
+pigeon,squirrel,"[7, 13, 18, 19]","[8, 11, 17]",1.0
+pigeon,squirrel,"[7, 13, 18, 19]","[14, 17, 23]",1.0
+pigeon,squirrel,"[8, 14, 19, 20]","[3, 6, 12]",1.0
+pigeon,squirrel,"[8, 14, 19, 20]","[4, 7, 13]",1.0
+pigeon,squirrel,"[8, 14, 19, 20]","[9, 12, 18]",1.0
+pigeon,squirrel,"[8, 14, 19, 20]","[13, 16, 22]",1.0
+pigeon,squirrel,"[8, 14, 19, 20]","[15, 18, 24]",1.0
+pigeon,squirrel,"[11, 17, 22, 23]","[3, 6, 12]",1.0
+pigeon,squirrel,"[11, 17, 22, 23]","[4, 7, 13]",1.0
+pigeon,squirrel,"[11, 17, 22, 23]","[5, 8, 14]",1.0
+pigeon,squirrel,"[11, 17, 22, 23]","[9, 12, 18]",1.0
+pigeon,squirrel,"[11, 17, 22, 23]","[10, 13, 19]",1.0
+pigeon,squirrel,"[11, 17, 22, 23]","[15, 18, 24]",1.0
+pigeon,squirrel,"[12, 18, 23, 24]","[4, 7, 13]",1.0
+pigeon,squirrel,"[12, 18, 23, 24]","[5, 8, 14]",1.0
+pigeon,squirrel,"[12, 18, 23, 24]","[8, 11, 17]",1.0
+pigeon,squirrel,"[12, 18, 23, 24]","[10, 13, 19]",1.0
+pigeon,squirrel,"[12, 18, 23, 24]","[13, 16, 22]",1.0
+pigeon,squirrel,"[13, 19, 24, 25]","[3, 6, 12]",1.0
+pigeon,squirrel,"[13, 19, 24, 25]","[5, 8, 14]",1.0
+pigeon,squirrel,"[13, 19, 24, 25]","[8, 11, 17]",1.0
+pigeon,squirrel,"[13, 19, 24, 25]","[9, 12, 18]",1.0
+pigeon,squirrel,"[13, 19, 24, 25]","[14, 17, 23]",1.0
+pairing average win rate,1.0, , , 
+pigeon,opossum,"[1, 7, 12, 13]","[3, 8, 10]",0.86
+pigeon,opossum,"[1, 7, 12, 13]","[11, 16, 18]",0.91
+pigeon,opossum,"[1, 7, 12, 13]","[16, 21, 23]",0.95
+pigeon,opossum,"[1, 7, 12, 13]","[17, 22, 24]",0.74
+pigeon,opossum,"[1, 7, 12, 13]","[18, 23, 25]",0.88
+pigeon,opossum,"[2, 8, 13, 14]","[11, 16, 18]",0.91
+pigeon,opossum,"[2, 8, 13, 14]","[12, 17, 19]",1.0
+pigeon,opossum,"[2, 8, 13, 14]","[16, 21, 23]",0.97
+pigeon,opossum,"[2, 8, 13, 14]","[17, 22, 24]",0.77
+pigeon,opossum,"[2, 8, 13, 14]","[18, 23, 25]",0.96
+pigeon,opossum,"[3, 9, 14, 15]","[1, 6, 8]",0.49
+pigeon,opossum,"[3, 9, 14, 15]","[6, 11, 13]",1.0
+pigeon,opossum,"[3, 9, 14, 15]","[11, 16, 18]",0.61
+pigeon,opossum,"[3, 9, 14, 15]","[12, 17, 19]",1.0
+pigeon,opossum,"[3, 9, 14, 15]","[13, 18, 20]",1.0
+pigeon,opossum,"[3, 9, 14, 15]","[16, 21, 23]",0.9
+pigeon,opossum,"[3, 9, 14, 15]","[17, 22, 24]",1.0
+pigeon,opossum,"[3, 9, 14, 15]","[18, 23, 25]",0.9
+pigeon,opossum,"[6, 12, 17, 18]","[2, 7, 9]",0.47
+pigeon,opossum,"[6, 12, 17, 18]","[3, 8, 10]",0.56
+pigeon,opossum,"[6, 12, 17, 18]","[8, 13, 15]",1.0
+pigeon,opossum,"[6, 12, 17, 18]","[16, 21, 23]",1.0
+pigeon,opossum,"[7, 13, 18, 19]","[1, 6, 8]",1.0
+pigeon,opossum,"[7, 13, 18, 19]","[3, 8, 10]",1.0
+pigeon,opossum,"[7, 13, 18, 19]","[16, 21, 23]",1.0
+pigeon,opossum,"[7, 13, 18, 19]","[17, 22, 24]",1.0
+pigeon,opossum,"[8, 14, 19, 20]","[2, 7, 9]",1.0
+pigeon,opossum,"[8, 14, 19, 20]","[6, 11, 13]",1.0
+pigeon,opossum,"[8, 14, 19, 20]","[11, 16, 18]",0.73
+pigeon,opossum,"[8, 14, 19, 20]","[16, 21, 23]",0.93
+pigeon,opossum,"[8, 14, 19, 20]","[17, 22, 24]",0.5
+pigeon,opossum,"[8, 14, 19, 20]","[18, 23, 25]",0.93
+pigeon,opossum,"[11, 17, 22, 23]","[1, 6, 8]",0.91
+pigeon,opossum,"[11, 17, 22, 23]","[2, 7, 9]",0.73
+pigeon,opossum,"[11, 17, 22, 23]","[3, 8, 10]",0.92
+pigeon,opossum,"[11, 17, 22, 23]","[7, 12, 14]",1.0
+pigeon,opossum,"[11, 17, 22, 23]","[8, 13, 15]",1.0
+pigeon,opossum,"[11, 17, 22, 23]","[13, 18, 20]",1.0
+pigeon,opossum,"[12, 18, 23, 24]","[1, 6, 8]",0.91
+pigeon,opossum,"[12, 18, 23, 24]","[2, 7, 9]",0.76
+pigeon,opossum,"[12, 18, 23, 24]","[3, 8, 10]",0.83
+pigeon,opossum,"[12, 18, 23, 24]","[6, 11, 13]",1.0
+pigeon,opossum,"[12, 18, 23, 24]","[8, 13, 15]",1.0
+pigeon,opossum,"[13, 19, 24, 25]","[1, 6, 8]",1.0
+pigeon,opossum,"[13, 19, 24, 25]","[2, 7, 9]",1.0
+pigeon,opossum,"[13, 19, 24, 25]","[3, 8, 10]",1.0
+pigeon,opossum,"[13, 19, 24, 25]","[7, 12, 14]",1.0
+pigeon,opossum,"[13, 19, 24, 25]","[11, 16, 18]",1.0
+pigeon,opossum,"[13, 19, 24, 25]","[16, 21, 23]",1.0
+pairing average win rate,0.8985714285714285, , , 
+pigeon,sewer turtle,"[1, 7, 12, 13]","[2, 3]",0.5
+pigeon,sewer turtle,"[1, 7, 12, 13]","[3, 4]",0.87
+pigeon,sewer turtle,"[1, 7, 12, 13]","[4, 5]",0.42
+pigeon,sewer turtle,"[1, 7, 12, 13]","[8, 9]",0.71
+pigeon,sewer turtle,"[1, 7, 12, 13]","[9, 10]",0.74
+pigeon,sewer turtle,"[1, 7, 12, 13]","[14, 15]",0.0
+pigeon,sewer turtle,"[1, 7, 12, 13]","[16, 17]",0.58
+pigeon,sewer turtle,"[1, 7, 12, 13]","[17, 18]",0.75
+pigeon,sewer turtle,"[1, 7, 12, 13]","[18, 19]",1.0
+pigeon,sewer turtle,"[1, 7, 12, 13]","[19, 20]",1.0
+pigeon,sewer turtle,"[1, 7, 12, 13]","[21, 22]",0.45
+pigeon,sewer turtle,"[1, 7, 12, 13]","[22, 23]",0.75
+pigeon,sewer turtle,"[1, 7, 12, 13]","[23, 24]",0.87
+pigeon,sewer turtle,"[1, 7, 12, 13]","[24, 25]",0.49
+pigeon,sewer turtle,"[2, 8, 13, 14]","[3, 4]",0.64
+pigeon,sewer turtle,"[2, 8, 13, 14]","[4, 5]",0.63
+pigeon,sewer turtle,"[2, 8, 13, 14]","[6, 7]",0.52
+pigeon,sewer turtle,"[2, 8, 13, 14]","[9, 10]",0.0
+pigeon,sewer turtle,"[2, 8, 13, 14]","[11, 12]",0.51
+pigeon,sewer turtle,"[2, 8, 13, 14]","[16, 17]",0.59
+pigeon,sewer turtle,"[2, 8, 13, 14]","[17, 18]",0.61
+pigeon,sewer turtle,"[2, 8, 13, 14]","[18, 19]",1.0
+pigeon,sewer turtle,"[2, 8, 13, 14]","[19, 20]",1.0
+pigeon,sewer turtle,"[2, 8, 13, 14]","[21, 22]",0.44
+pigeon,sewer turtle,"[2, 8, 13, 14]","[22, 23]",0.83
+pigeon,sewer turtle,"[2, 8, 13, 14]","[23, 24]",0.77
+pigeon,sewer turtle,"[2, 8, 13, 14]","[24, 25]",0.48
+pigeon,sewer turtle,"[3, 9, 14, 15]","[1, 2]",0.02
+pigeon,sewer turtle,"[3, 9, 14, 15]","[4, 5]",0.01
+pigeon,sewer turtle,"[3, 9, 14, 15]","[6, 7]",0.77
+pigeon,sewer turtle,"[3, 9, 14, 15]","[7, 8]",0.72
+pigeon,sewer turtle,"[3, 9, 14, 15]","[11, 12]",0.02
+pigeon,sewer turtle,"[3, 9, 14, 15]","[12, 13]",1.0
+pigeon,sewer turtle,"[3, 9, 14, 15]","[16, 17]",0.9
+pigeon,sewer turtle,"[3, 9, 14, 15]","[17, 18]",0.96
+pigeon,sewer turtle,"[3, 9, 14, 15]","[18, 19]",0.88
+pigeon,sewer turtle,"[3, 9, 14, 15]","[19, 20]",0.84
+pigeon,sewer turtle,"[3, 9, 14, 15]","[21, 22]",0.13
+pigeon,sewer turtle,"[3, 9, 14, 15]","[22, 23]",0.89
+pigeon,sewer turtle,"[3, 9, 14, 15]","[23, 24]",0.88
+pigeon,sewer turtle,"[3, 9, 14, 15]","[24, 25]",0.16
+pigeon,sewer turtle,"[6, 12, 17, 18]","[1, 2]",0.48
+pigeon,sewer turtle,"[6, 12, 17, 18]","[2, 3]",0.75
+pigeon,sewer turtle,"[6, 12, 17, 18]","[3, 4]",0.7
+pigeon,sewer turtle,"[6, 12, 17, 18]","[4, 5]",0.36
+pigeon,sewer turtle,"[6, 12, 17, 18]","[7, 8]",0.4
+pigeon,sewer turtle,"[6, 12, 17, 18]","[8, 9]",0.76
+pigeon,sewer turtle,"[6, 12, 17, 18]","[9, 10]",0.44
+pigeon,sewer turtle,"[6, 12, 17, 18]","[13, 14]",1.0
+pigeon,sewer turtle,"[6, 12, 17, 18]","[14, 15]",0.44
+pigeon,sewer turtle,"[6, 12, 17, 18]","[19, 20]",0.0
+pigeon,sewer turtle,"[6, 12, 17, 18]","[21, 22]",0.28
+pigeon,sewer turtle,"[6, 12, 17, 18]","[22, 23]",0.96
+pigeon,sewer turtle,"[6, 12, 17, 18]","[23, 24]",0.87
+pigeon,sewer turtle,"[6, 12, 17, 18]","[24, 25]",0.2
+pigeon,sewer turtle,"[7, 13, 18, 19]","[1, 2]",0.67
+pigeon,sewer turtle,"[7, 13, 18, 19]","[2, 3]",0.92
+pigeon,sewer turtle,"[7, 13, 18, 19]","[3, 4]",0.93
+pigeon,sewer turtle,"[7, 13, 18, 19]","[4, 5]",0.62
+pigeon,sewer turtle,"[7, 13, 18, 19]","[8, 9]",0.93
+pigeon,sewer turtle,"[7, 13, 18, 19]","[9, 10]",0.92
+pigeon,sewer turtle,"[7, 13, 18, 19]","[11, 12]",0.07
+pigeon,sewer turtle,"[7, 13, 18, 19]","[14, 15]",0.08
+pigeon,sewer turtle,"[7, 13, 18, 19]","[16, 17]",0.1
+pigeon,sewer turtle,"[7, 13, 18, 19]","[21, 22]",0.87
+pigeon,sewer turtle,"[7, 13, 18, 19]","[22, 23]",0.91
+pigeon,sewer turtle,"[7, 13, 18, 19]","[23, 24]",1.0
+pigeon,sewer turtle,"[7, 13, 18, 19]","[24, 25]",1.0
+pigeon,sewer turtle,"[8, 14, 19, 20]","[1, 2]",0.31
+pigeon,sewer turtle,"[8, 14, 19, 20]","[2, 3]",0.88
+pigeon,sewer turtle,"[8, 14, 19, 20]","[3, 4]",0.93
+pigeon,sewer turtle,"[8, 14, 19, 20]","[4, 5]",0.19
+pigeon,sewer turtle,"[8, 14, 19, 20]","[6, 7]",0.08
+pigeon,sewer turtle,"[8, 14, 19, 20]","[9, 10]",0.04
+pigeon,sewer turtle,"[8, 14, 19, 20]","[11, 12]",0.09
+pigeon,sewer turtle,"[8, 14, 19, 20]","[12, 13]",1.0
+pigeon,sewer turtle,"[8, 14, 19, 20]","[16, 17]",0.94
+pigeon,sewer turtle,"[8, 14, 19, 20]","[17, 18]",0.98
+pigeon,sewer turtle,"[8, 14, 19, 20]","[21, 22]",0.31
+pigeon,sewer turtle,"[8, 14, 19, 20]","[22, 23]",0.85
+pigeon,sewer turtle,"[8, 14, 19, 20]","[23, 24]",0.89
+pigeon,sewer turtle,"[8, 14, 19, 20]","[24, 25]",0.26
+pigeon,sewer turtle,"[11, 17, 22, 23]","[1, 2]",0.46
+pigeon,sewer turtle,"[11, 17, 22, 23]","[2, 3]",0.74
+pigeon,sewer turtle,"[11, 17, 22, 23]","[3, 4]",0.72
+pigeon,sewer turtle,"[11, 17, 22, 23]","[4, 5]",0.57
+pigeon,sewer turtle,"[11, 17, 22, 23]","[6, 7]",0.51
+pigeon,sewer turtle,"[11, 17, 22, 23]","[7, 8]",0.72
+pigeon,sewer turtle,"[11, 17, 22, 23]","[8, 9]",0.79
+pigeon,sewer turtle,"[11, 17, 22, 23]","[9, 10]",0.53
+pigeon,sewer turtle,"[11, 17, 22, 23]","[12, 13]",1.0
+pigeon,sewer turtle,"[11, 17, 22, 23]","[13, 14]",1.0
+pigeon,sewer turtle,"[11, 17, 22, 23]","[14, 15]",0.0
+pigeon,sewer turtle,"[11, 17, 22, 23]","[18, 19]",0.81
+pigeon,sewer turtle,"[11, 17, 22, 23]","[19, 20]",0.46
+pigeon,sewer turtle,"[11, 17, 22, 23]","[24, 25]",0.2
+pigeon,sewer turtle,"[12, 18, 23, 24]","[1, 2]",0.39
+pigeon,sewer turtle,"[12, 18, 23, 24]","[2, 3]",0.65
+pigeon,sewer turtle,"[12, 18, 23, 24]","[3, 4]",0.65
+pigeon,sewer turtle,"[12, 18, 23, 24]","[4, 5]",0.36
+pigeon,sewer turtle,"[12, 18, 23, 24]","[6, 7]",0.4
+pigeon,sewer turtle,"[12, 18, 23, 24]","[7, 8]",0.66
+pigeon,sewer turtle,"[12, 18, 23, 24]","[8, 9]",0.74
+pigeon,sewer turtle,"[12, 18, 23, 24]","[9, 10]",0.44
+pigeon,sewer turtle,"[12, 18, 23, 24]","[13, 14]",1.0
+pigeon,sewer turtle,"[12, 18, 23, 24]","[14, 15]",0.47
+pigeon,sewer turtle,"[12, 18, 23, 24]","[16, 17]",0.59
+pigeon,sewer turtle,"[12, 18, 23, 24]","[19, 20]",0.04
+pigeon,sewer turtle,"[12, 18, 23, 24]","[21, 22]",0.18
+pigeon,sewer turtle,"[13, 19, 24, 25]","[1, 2]",0.54
+pigeon,sewer turtle,"[13, 19, 24, 25]","[2, 3]",0.87
+pigeon,sewer turtle,"[13, 19, 24, 25]","[3, 4]",0.84
+pigeon,sewer turtle,"[13, 19, 24, 25]","[4, 5]",0.47
+pigeon,sewer turtle,"[13, 19, 24, 25]","[6, 7]",0.54
+pigeon,sewer turtle,"[13, 19, 24, 25]","[7, 8]",0.85
+pigeon,sewer turtle,"[13, 19, 24, 25]","[8, 9]",0.89
+pigeon,sewer turtle,"[13, 19, 24, 25]","[9, 10]",0.53
+pigeon,sewer turtle,"[13, 19, 24, 25]","[11, 12]",0.01
+pigeon,sewer turtle,"[13, 19, 24, 25]","[14, 15]",0.03
+pigeon,sewer turtle,"[13, 19, 24, 25]","[16, 17]",0.86
+pigeon,sewer turtle,"[13, 19, 24, 25]","[17, 18]",0.8
+pigeon,sewer turtle,"[13, 19, 24, 25]","[21, 22]",0.75
+pigeon,sewer turtle,"[13, 19, 24, 25]","[22, 23]",0.82
+pairing average win rate,0.598536585365854, , , 
+rat,squirrel,"[1, 2, 7, 9]","[3, 6, 12]",0.75
+rat,squirrel,"[1, 2, 7, 9]","[5, 8, 14]",0.58
+rat,squirrel,"[1, 2, 7, 9]","[8, 11, 17]",1.0
+rat,squirrel,"[1, 2, 7, 9]","[10, 13, 19]",1.0
+rat,squirrel,"[1, 2, 7, 9]","[13, 16, 22]",1.0
+rat,squirrel,"[1, 2, 7, 9]","[14, 17, 23]",1.0
+rat,squirrel,"[1, 2, 7, 9]","[15, 18, 24]",0.55
+rat,squirrel,"[2, 3, 8, 10]","[4, 7, 13]",1.0
+rat,squirrel,"[2, 3, 8, 10]","[9, 12, 18]",1.0
+rat,squirrel,"[2, 3, 8, 10]","[13, 16, 22]",1.0
+rat,squirrel,"[2, 3, 8, 10]","[14, 17, 23]",1.0
+rat,squirrel,"[2, 3, 8, 10]","[15, 18, 24]",1.0
+rat,squirrel,"[6, 7, 12, 14]","[8, 11, 17]",1.0
+rat,squirrel,"[6, 7, 12, 14]","[10, 13, 19]",1.0
+rat,squirrel,"[6, 7, 12, 14]","[13, 16, 22]",1.0
+rat,squirrel,"[6, 7, 12, 14]","[15, 18, 24]",1.0
+rat,squirrel,"[7, 8, 13, 15]","[3, 6, 12]",1.0
+rat,squirrel,"[7, 8, 13, 15]","[9, 12, 18]",1.0
+rat,squirrel,"[7, 8, 13, 15]","[14, 17, 23]",1.0
+rat,squirrel,"[11, 12, 17, 19]","[4, 7, 13]",1.0
+rat,squirrel,"[11, 12, 17, 19]","[5, 8, 14]",1.0
+rat,squirrel,"[11, 12, 17, 19]","[13, 16, 22]",1.0
+rat,squirrel,"[11, 12, 17, 19]","[15, 18, 24]",1.0
+rat,squirrel,"[12, 13, 18, 20]","[5, 8, 14]",1.0
+rat,squirrel,"[12, 13, 18, 20]","[8, 11, 17]",1.0
+rat,squirrel,"[12, 13, 18, 20]","[14, 17, 23]",1.0
+rat,squirrel,"[16, 17, 22, 24]","[3, 6, 12]",1.0
+rat,squirrel,"[16, 17, 22, 24]","[4, 7, 13]",1.0
+rat,squirrel,"[16, 17, 22, 24]","[5, 8, 14]",1.0
+rat,squirrel,"[16, 17, 22, 24]","[9, 12, 18]",1.0
+rat,squirrel,"[16, 17, 22, 24]","[10, 13, 19]",1.0
+rat,squirrel,"[17, 18, 23, 25]","[3, 6, 12]",1.0
+rat,squirrel,"[17, 18, 23, 25]","[4, 7, 13]",1.0
+rat,squirrel,"[17, 18, 23, 25]","[5, 8, 14]",1.0
+rat,squirrel,"[17, 18, 23, 25]","[10, 13, 19]",1.0
+rat,squirrel,"[17, 18, 23, 25]","[13, 16, 22]",1.0
+pairing average win rate,0.9688888888888888, , , 
+rat,opossum,"[1, 2, 7, 9]","[3, 8, 10]",0.46
+rat,opossum,"[1, 2, 7, 9]","[6, 11, 13]",0.74
+rat,opossum,"[1, 2, 7, 9]","[8, 13, 15]",0.86
+rat,opossum,"[1, 2, 7, 9]","[11, 16, 18]",0.74
+rat,opossum,"[1, 2, 7, 9]","[12, 17, 19]",1.0
+rat,opossum,"[1, 2, 7, 9]","[13, 18, 20]",1.0
+rat,opossum,"[1, 2, 7, 9]","[16, 21, 23]",0.53
+rat,opossum,"[1, 2, 7, 9]","[17, 22, 24]",1.0
+rat,opossum,"[1, 2, 7, 9]","[18, 23, 25]",0.71
+rat,opossum,"[2, 3, 8, 10]","[6, 11, 13]",0.46
+rat,opossum,"[2, 3, 8, 10]","[7, 12, 14]",1.0
+rat,opossum,"[2, 3, 8, 10]","[11, 16, 18]",0.66
+rat,opossum,"[2, 3, 8, 10]","[12, 17, 19]",1.0
+rat,opossum,"[2, 3, 8, 10]","[13, 18, 20]",0.63
+rat,opossum,"[2, 3, 8, 10]","[16, 21, 23]",0.6
+rat,opossum,"[2, 3, 8, 10]","[17, 22, 24]",1.0
+rat,opossum,"[2, 3, 8, 10]","[18, 23, 25]",0.66
+rat,opossum,"[6, 7, 12, 14]","[3, 8, 10]",0.47
+rat,opossum,"[6, 7, 12, 14]","[8, 13, 15]",0.93
+rat,opossum,"[6, 7, 12, 14]","[11, 16, 18]",0.68
+rat,opossum,"[6, 7, 12, 14]","[13, 18, 20]",1.0
+rat,opossum,"[6, 7, 12, 14]","[16, 21, 23]",0.5
+rat,opossum,"[6, 7, 12, 14]","[17, 22, 24]",1.0
+rat,opossum,"[6, 7, 12, 14]","[18, 23, 25]",0.64
+rat,opossum,"[7, 8, 13, 15]","[11, 16, 18]",1.0
+rat,opossum,"[7, 8, 13, 15]","[12, 17, 19]",1.0
+rat,opossum,"[7, 8, 13, 15]","[16, 21, 23]",1.0
+rat,opossum,"[7, 8, 13, 15]","[17, 22, 24]",1.0
+rat,opossum,"[7, 8, 13, 15]","[18, 23, 25]",1.0
+rat,opossum,"[11, 12, 17, 19]","[1, 6, 8]",0.68
+rat,opossum,"[11, 12, 17, 19]","[2, 7, 9]",1.0
+rat,opossum,"[11, 12, 17, 19]","[3, 8, 10]",0.71
+rat,opossum,"[11, 12, 17, 19]","[8, 13, 15]",0.65
+rat,opossum,"[11, 12, 17, 19]","[13, 18, 20]",1.0
+rat,opossum,"[11, 12, 17, 19]","[16, 21, 23]",1.0
+rat,opossum,"[11, 12, 17, 19]","[18, 23, 25]",1.0
+rat,opossum,"[12, 13, 18, 20]","[1, 6, 8]",1.0
+rat,opossum,"[12, 13, 18, 20]","[2, 7, 9]",1.0
+rat,opossum,"[12, 13, 18, 20]","[3, 8, 10]",1.0
+rat,opossum,"[12, 13, 18, 20]","[16, 21, 23]",1.0
+rat,opossum,"[12, 13, 18, 20]","[17, 22, 24]",1.0
+rat,opossum,"[16, 17, 22, 24]","[1, 6, 8]",1.0
+rat,opossum,"[16, 17, 22, 24]","[2, 7, 9]",1.0
+rat,opossum,"[16, 17, 22, 24]","[3, 8, 10]",1.0
+rat,opossum,"[16, 17, 22, 24]","[6, 11, 13]",1.0
+rat,opossum,"[16, 17, 22, 24]","[7, 12, 14]",1.0
+rat,opossum,"[16, 17, 22, 24]","[8, 13, 15]",1.0
+rat,opossum,"[16, 17, 22, 24]","[13, 18, 20]",1.0
+rat,opossum,"[16, 17, 22, 24]","[18, 23, 25]",1.0
+rat,opossum,"[17, 18, 23, 25]","[1, 6, 8]",1.0
+rat,opossum,"[17, 18, 23, 25]","[2, 7, 9]",1.0
+rat,opossum,"[17, 18, 23, 25]","[3, 8, 10]",1.0
+rat,opossum,"[17, 18, 23, 25]","[6, 11, 13]",1.0
+rat,opossum,"[17, 18, 23, 25]","[7, 12, 14]",1.0
+rat,opossum,"[17, 18, 23, 25]","[8, 13, 15]",1.0
+pairing average win rate,0.8783636363636365, , , 
+rat,sewer turtle,"[1, 2, 7, 9]","[3, 4]",0.66
+rat,sewer turtle,"[1, 2, 7, 9]","[4, 5]",0.54
+rat,sewer turtle,"[1, 2, 7, 9]","[11, 12]",0.57
+rat,sewer turtle,"[1, 2, 7, 9]","[12, 13]",0.81
+rat,sewer turtle,"[1, 2, 7, 9]","[13, 14]",0.72
+rat,sewer turtle,"[1, 2, 7, 9]","[14, 15]",0.55
+rat,sewer turtle,"[1, 2, 7, 9]","[16, 17]",0.62
+rat,sewer turtle,"[1, 2, 7, 9]","[17, 18]",0.92
+rat,sewer turtle,"[1, 2, 7, 9]","[18, 19]",0.68
+rat,sewer turtle,"[1, 2, 7, 9]","[19, 20]",0.51
+rat,sewer turtle,"[1, 2, 7, 9]","[21, 22]",0.45
+rat,sewer turtle,"[1, 2, 7, 9]","[22, 23]",0.74
+rat,sewer turtle,"[1, 2, 7, 9]","[23, 24]",0.68
+rat,sewer turtle,"[1, 2, 7, 9]","[24, 25]",0.34
+rat,sewer turtle,"[2, 3, 8, 10]","[4, 5]",0.0
+rat,sewer turtle,"[2, 3, 8, 10]","[6, 7]",0.89
+rat,sewer turtle,"[2, 3, 8, 10]","[11, 12]",0.67
+rat,sewer turtle,"[2, 3, 8, 10]","[12, 13]",0.87
+rat,sewer turtle,"[2, 3, 8, 10]","[13, 14]",0.56
+rat,sewer turtle,"[2, 3, 8, 10]","[14, 15]",0.36
+rat,sewer turtle,"[2, 3, 8, 10]","[16, 17]",0.92
+rat,sewer turtle,"[2, 3, 8, 10]","[17, 18]",0.95
+rat,sewer turtle,"[2, 3, 8, 10]","[18, 19]",0.5
+rat,sewer turtle,"[2, 3, 8, 10]","[19, 20]",0.44
+rat,sewer turtle,"[2, 3, 8, 10]","[21, 22]",0.35
+rat,sewer turtle,"[2, 3, 8, 10]","[22, 23]",0.67
+rat,sewer turtle,"[2, 3, 8, 10]","[23, 24]",0.65
+rat,sewer turtle,"[2, 3, 8, 10]","[24, 25]",0.31
+rat,sewer turtle,"[6, 7, 12, 14]","[1, 2]",0.77
+rat,sewer turtle,"[6, 7, 12, 14]","[2, 3]",0.95
+rat,sewer turtle,"[6, 7, 12, 14]","[3, 4]",0.47
+rat,sewer turtle,"[6, 7, 12, 14]","[4, 5]",0.45
+rat,sewer turtle,"[6, 7, 12, 14]","[8, 9]",0.75
+rat,sewer turtle,"[6, 7, 12, 14]","[9, 10]",0.5
+rat,sewer turtle,"[6, 7, 12, 14]","[16, 17]",0.56
+rat,sewer turtle,"[6, 7, 12, 14]","[17, 18]",0.83
+rat,sewer turtle,"[6, 7, 12, 14]","[18, 19]",0.62
+rat,sewer turtle,"[6, 7, 12, 14]","[19, 20]",0.47
+rat,sewer turtle,"[6, 7, 12, 14]","[21, 22]",0.42
+rat,sewer turtle,"[6, 7, 12, 14]","[22, 23]",0.64
+rat,sewer turtle,"[6, 7, 12, 14]","[23, 24]",0.67
+rat,sewer turtle,"[6, 7, 12, 14]","[24, 25]",0.37
+rat,sewer turtle,"[7, 8, 13, 15]","[1, 2]",0.96
+rat,sewer turtle,"[7, 8, 13, 15]","[2, 3]",0.97
+rat,sewer turtle,"[7, 8, 13, 15]","[3, 4]",0.39
+rat,sewer turtle,"[7, 8, 13, 15]","[4, 5]",0.53
+rat,sewer turtle,"[7, 8, 13, 15]","[9, 10]",0.0
+rat,sewer turtle,"[7, 8, 13, 15]","[11, 12]",0.63
+rat,sewer turtle,"[7, 8, 13, 15]","[16, 17]",0.76
+rat,sewer turtle,"[7, 8, 13, 15]","[17, 18]",0.85
+rat,sewer turtle,"[7, 8, 13, 15]","[18, 19]",0.6
+rat,sewer turtle,"[7, 8, 13, 15]","[19, 20]",0.41
+rat,sewer turtle,"[7, 8, 13, 15]","[21, 22]",0.39
+rat,sewer turtle,"[7, 8, 13, 15]","[22, 23]",0.74
+rat,sewer turtle,"[7, 8, 13, 15]","[23, 24]",0.61
+rat,sewer turtle,"[7, 8, 13, 15]","[24, 25]",0.42
+rat,sewer turtle,"[11, 12, 17, 19]","[1, 2]",0.43
+rat,sewer turtle,"[11, 12, 17, 19]","[2, 3]",0.73
+rat,sewer turtle,"[11, 12, 17, 19]","[3, 4]",0.76
+rat,sewer turtle,"[11, 12, 17, 19]","[4, 5]",0.39
+rat,sewer turtle,"[11, 12, 17, 19]","[6, 7]",0.79
+rat,sewer turtle,"[11, 12, 17, 19]","[7, 8]",0.96
+rat,sewer turtle,"[11, 12, 17, 19]","[8, 9]",0.69
+rat,sewer turtle,"[11, 12, 17, 19]","[9, 10]",0.56
+rat,sewer turtle,"[11, 12, 17, 19]","[13, 14]",0.73
+rat,sewer turtle,"[11, 12, 17, 19]","[14, 15]",0.53
+rat,sewer turtle,"[11, 12, 17, 19]","[21, 22]",0.42
+rat,sewer turtle,"[11, 12, 17, 19]","[22, 23]",0.7
+rat,sewer turtle,"[11, 12, 17, 19]","[23, 24]",0.76
+rat,sewer turtle,"[11, 12, 17, 19]","[24, 25]",0.4
+rat,sewer turtle,"[12, 13, 18, 20]","[1, 2]",0.52
+rat,sewer turtle,"[12, 13, 18, 20]","[2, 3]",0.86
+rat,sewer turtle,"[12, 13, 18, 20]","[3, 4]",0.67
+rat,sewer turtle,"[12, 13, 18, 20]","[4, 5]",0.43
+rat,sewer turtle,"[12, 13, 18, 20]","[6, 7]",1.0
+rat,sewer turtle,"[12, 13, 18, 20]","[7, 8]",1.0
+rat,sewer turtle,"[12, 13, 18, 20]","[8, 9]",0.52
+rat,sewer turtle,"[12, 13, 18, 20]","[9, 10]",0.53
+rat,sewer turtle,"[12, 13, 18, 20]","[14, 15]",0.0
+rat,sewer turtle,"[12, 13, 18, 20]","[16, 17]",0.8
+rat,sewer turtle,"[12, 13, 18, 20]","[21, 22]",0.36
+rat,sewer turtle,"[12, 13, 18, 20]","[22, 23]",0.63
+rat,sewer turtle,"[12, 13, 18, 20]","[23, 24]",0.61
+rat,sewer turtle,"[12, 13, 18, 20]","[24, 25]",0.39
+rat,sewer turtle,"[16, 17, 22, 24]","[1, 2]",0.38
+rat,sewer turtle,"[16, 17, 22, 24]","[2, 3]",0.62
+rat,sewer turtle,"[16, 17, 22, 24]","[3, 4]",0.68
+rat,sewer turtle,"[16, 17, 22, 24]","[4, 5]",0.37
+rat,sewer turtle,"[16, 17, 22, 24]","[6, 7]",0.67
+rat,sewer turtle,"[16, 17, 22, 24]","[7, 8]",0.85
+rat,sewer turtle,"[16, 17, 22, 24]","[8, 9]",0.48
+rat,sewer turtle,"[16, 17, 22, 24]","[9, 10]",0.43
+rat,sewer turtle,"[16, 17, 22, 24]","[11, 12]",1.0
+rat,sewer turtle,"[16, 17, 22, 24]","[12, 13]",1.0
+rat,sewer turtle,"[16, 17, 22, 24]","[13, 14]",0.51
+rat,sewer turtle,"[16, 17, 22, 24]","[14, 15]",0.47
+rat,sewer turtle,"[16, 17, 22, 24]","[18, 19]",0.76
+rat,sewer turtle,"[16, 17, 22, 24]","[19, 20]",0.27
+rat,sewer turtle,"[17, 18, 23, 25]","[1, 2]",0.5
+rat,sewer turtle,"[17, 18, 23, 25]","[2, 3]",0.73
+rat,sewer turtle,"[17, 18, 23, 25]","[3, 4]",0.65
+rat,sewer turtle,"[17, 18, 23, 25]","[4, 5]",0.39
+rat,sewer turtle,"[17, 18, 23, 25]","[6, 7]",0.68
+rat,sewer turtle,"[17, 18, 23, 25]","[7, 8]",0.88
+rat,sewer turtle,"[17, 18, 23, 25]","[8, 9]",0.66
+rat,sewer turtle,"[17, 18, 23, 25]","[9, 10]",0.39
+rat,sewer turtle,"[17, 18, 23, 25]","[11, 12]",1.0
+rat,sewer turtle,"[17, 18, 23, 25]","[12, 13]",1.0
+rat,sewer turtle,"[17, 18, 23, 25]","[13, 14]",0.54
+rat,sewer turtle,"[17, 18, 23, 25]","[14, 15]",0.51
+rat,sewer turtle,"[17, 18, 23, 25]","[19, 20]",0.0
+rat,sewer turtle,"[17, 18, 23, 25]","[21, 22]",0.44
+pairing average win rate,0.604375, , , 
+squirrel,opossum,"[3, 6, 12]","[2, 7, 9]",0.84
+squirrel,opossum,"[3, 6, 12]","[8, 13, 15]",1.0
+squirrel,opossum,"[3, 6, 12]","[11, 16, 18]",0.97
+squirrel,opossum,"[3, 6, 12]","[13, 18, 20]",1.0
+squirrel,opossum,"[3, 6, 12]","[16, 21, 23]",0.76
+squirrel,opossum,"[3, 6, 12]","[17, 22, 24]",0.77
+squirrel,opossum,"[3, 6, 12]","[18, 23, 25]",0.98
+squirrel,opossum,"[4, 7, 13]","[1, 6, 8]",1.0
+squirrel,opossum,"[4, 7, 13]","[3, 8, 10]",1.0
+squirrel,opossum,"[4, 7, 13]","[11, 16, 18]",1.0
+squirrel,opossum,"[4, 7, 13]","[12, 17, 19]",1.0
+squirrel,opossum,"[4, 7, 13]","[16, 21, 23]",1.0
+squirrel,opossum,"[4, 7, 13]","[17, 22, 24]",1.0
+squirrel,opossum,"[4, 7, 13]","[18, 23, 25]",1.0
+squirrel,opossum,"[5, 8, 14]","[2, 7, 9]",0.93
+squirrel,opossum,"[5, 8, 14]","[6, 11, 13]",1.0
+squirrel,opossum,"[5, 8, 14]","[11, 16, 18]",1.0
+squirrel,opossum,"[5, 8, 14]","[12, 17, 19]",1.0
+squirrel,opossum,"[5, 8, 14]","[13, 18, 20]",1.0
+squirrel,opossum,"[5, 8, 14]","[16, 21, 23]",0.94
+squirrel,opossum,"[5, 8, 14]","[17, 22, 24]",1.0
+squirrel,opossum,"[5, 8, 14]","[18, 23, 25]",1.0
+squirrel,opossum,"[8, 11, 17]","[2, 7, 9]",1.0
+squirrel,opossum,"[8, 11, 17]","[7, 12, 14]",1.0
+squirrel,opossum,"[8, 11, 17]","[13, 18, 20]",1.0
+squirrel,opossum,"[8, 11, 17]","[16, 21, 23]",1.0
+squirrel,opossum,"[8, 11, 17]","[18, 23, 25]",1.0
+squirrel,opossum,"[9, 12, 18]","[1, 6, 8]",1.0
+squirrel,opossum,"[9, 12, 18]","[3, 8, 10]",1.0
+squirrel,opossum,"[9, 12, 18]","[6, 11, 13]",1.0
+squirrel,opossum,"[9, 12, 18]","[8, 13, 15]",1.0
+squirrel,opossum,"[9, 12, 18]","[16, 21, 23]",1.0
+squirrel,opossum,"[9, 12, 18]","[17, 22, 24]",1.0
+squirrel,opossum,"[10, 13, 19]","[1, 6, 8]",1.0
+squirrel,opossum,"[10, 13, 19]","[2, 7, 9]",1.0
+squirrel,opossum,"[10, 13, 19]","[7, 12, 14]",1.0
+squirrel,opossum,"[10, 13, 19]","[11, 16, 18]",1.0
+squirrel,opossum,"[10, 13, 19]","[16, 21, 23]",1.0
+squirrel,opossum,"[10, 13, 19]","[17, 22, 24]",1.0
+squirrel,opossum,"[10, 13, 19]","[18, 23, 25]",1.0
+squirrel,opossum,"[13, 16, 22]","[1, 6, 8]",1.0
+squirrel,opossum,"[13, 16, 22]","[2, 7, 9]",1.0
+squirrel,opossum,"[13, 16, 22]","[3, 8, 10]",1.0
+squirrel,opossum,"[13, 16, 22]","[7, 12, 14]",1.0
+squirrel,opossum,"[13, 16, 22]","[12, 17, 19]",1.0
+squirrel,opossum,"[13, 16, 22]","[18, 23, 25]",1.0
+squirrel,opossum,"[14, 17, 23]","[1, 6, 8]",1.0
+squirrel,opossum,"[14, 17, 23]","[2, 7, 9]",1.0
+squirrel,opossum,"[14, 17, 23]","[3, 8, 10]",1.0
+squirrel,opossum,"[14, 17, 23]","[6, 11, 13]",1.0
+squirrel,opossum,"[14, 17, 23]","[8, 13, 15]",1.0
+squirrel,opossum,"[14, 17, 23]","[11, 16, 18]",1.0
+squirrel,opossum,"[14, 17, 23]","[13, 18, 20]",1.0
+squirrel,opossum,"[15, 18, 24]","[1, 6, 8]",1.0
+squirrel,opossum,"[15, 18, 24]","[2, 7, 9]",1.0
+squirrel,opossum,"[15, 18, 24]","[3, 8, 10]",1.0
+squirrel,opossum,"[15, 18, 24]","[6, 11, 13]",1.0
+squirrel,opossum,"[15, 18, 24]","[7, 12, 14]",1.0
+squirrel,opossum,"[15, 18, 24]","[12, 17, 19]",1.0
+squirrel,opossum,"[15, 18, 24]","[16, 21, 23]",1.0
+pairing average win rate,0.9864999999999999, , , 
+squirrel,sewer turtle,"[3, 6, 12]","[1, 2]",0.25
+squirrel,sewer turtle,"[3, 6, 12]","[4, 5]",0.3
+squirrel,sewer turtle,"[3, 6, 12]","[7, 8]",1.0
+squirrel,sewer turtle,"[3, 6, 12]","[8, 9]",1.0
+squirrel,sewer turtle,"[3, 6, 12]","[9, 10]",0.21
+squirrel,sewer turtle,"[3, 6, 12]","[13, 14]",1.0
+squirrel,sewer turtle,"[3, 6, 12]","[14, 15]",0.17
+squirrel,sewer turtle,"[3, 6, 12]","[16, 17]",0.34
+squirrel,sewer turtle,"[3, 6, 12]","[17, 18]",0.96
+squirrel,sewer turtle,"[3, 6, 12]","[18, 19]",0.98
+squirrel,sewer turtle,"[3, 6, 12]","[19, 20]",0.35
+squirrel,sewer turtle,"[3, 6, 12]","[21, 22]",0.53
+squirrel,sewer turtle,"[3, 6, 12]","[22, 23]",0.99
+squirrel,sewer turtle,"[3, 6, 12]","[23, 24]",0.99
+squirrel,sewer turtle,"[3, 6, 12]","[24, 25]",0.62
+squirrel,sewer turtle,"[4, 7, 13]","[1, 2]",0.85
+squirrel,sewer turtle,"[4, 7, 13]","[2, 3]",0.83
+squirrel,sewer turtle,"[4, 7, 13]","[8, 9]",0.88
+squirrel,sewer turtle,"[4, 7, 13]","[9, 10]",0.84
+squirrel,sewer turtle,"[4, 7, 13]","[11, 12]",0.0
+squirrel,sewer turtle,"[4, 7, 13]","[14, 15]",0.0
+squirrel,sewer turtle,"[4, 7, 13]","[16, 17]",0.87
+squirrel,sewer turtle,"[4, 7, 13]","[17, 18]",0.88
+squirrel,sewer turtle,"[4, 7, 13]","[18, 19]",1.0
+squirrel,sewer turtle,"[4, 7, 13]","[19, 20]",1.0
+squirrel,sewer turtle,"[4, 7, 13]","[21, 22]",1.0
+squirrel,sewer turtle,"[4, 7, 13]","[22, 23]",1.0
+squirrel,sewer turtle,"[4, 7, 13]","[23, 24]",0.9
+squirrel,sewer turtle,"[4, 7, 13]","[24, 25]",0.89
+squirrel,sewer turtle,"[5, 8, 14]","[1, 2]",0.53
+squirrel,sewer turtle,"[5, 8, 14]","[2, 3]",0.98
+squirrel,sewer turtle,"[5, 8, 14]","[3, 4]",0.6
+squirrel,sewer turtle,"[5, 8, 14]","[6, 7]",0.12
+squirrel,sewer turtle,"[5, 8, 14]","[9, 10]",0.07
+squirrel,sewer turtle,"[5, 8, 14]","[11, 12]",0.06
+squirrel,sewer turtle,"[5, 8, 14]","[12, 13]",1.0
+squirrel,sewer turtle,"[5, 8, 14]","[16, 17]",0.77
+squirrel,sewer turtle,"[5, 8, 14]","[17, 18]",0.95
+squirrel,sewer turtle,"[5, 8, 14]","[18, 19]",0.95
+squirrel,sewer turtle,"[5, 8, 14]","[19, 20]",0.78
+squirrel,sewer turtle,"[5, 8, 14]","[21, 22]",0.61
+squirrel,sewer turtle,"[5, 8, 14]","[22, 23]",0.95
+squirrel,sewer turtle,"[5, 8, 14]","[23, 24]",0.9
+squirrel,sewer turtle,"[5, 8, 14]","[24, 25]",0.65
+squirrel,sewer turtle,"[8, 11, 17]","[1, 2]",0.61
+squirrel,sewer turtle,"[8, 11, 17]","[2, 3]",0.93
+squirrel,sewer turtle,"[8, 11, 17]","[3, 4]",0.7
+squirrel,sewer turtle,"[8, 11, 17]","[4, 5]",0.77
+squirrel,sewer turtle,"[8, 11, 17]","[6, 7]",0.1
+squirrel,sewer turtle,"[8, 11, 17]","[9, 10]",0.09
+squirrel,sewer turtle,"[8, 11, 17]","[12, 13]",1.0
+squirrel,sewer turtle,"[8, 11, 17]","[13, 14]",1.0
+squirrel,sewer turtle,"[8, 11, 17]","[14, 15]",0.41
+squirrel,sewer turtle,"[8, 11, 17]","[18, 19]",0.83
+squirrel,sewer turtle,"[8, 11, 17]","[19, 20]",0.87
+squirrel,sewer turtle,"[8, 11, 17]","[21, 22]",0.66
+squirrel,sewer turtle,"[8, 11, 17]","[22, 23]",0.9
+squirrel,sewer turtle,"[8, 11, 17]","[23, 24]",0.9
+squirrel,sewer turtle,"[8, 11, 17]","[24, 25]",0.64
+squirrel,sewer turtle,"[9, 12, 18]","[1, 2]",0.45
+squirrel,sewer turtle,"[9, 12, 18]","[2, 3]",0.96
+squirrel,sewer turtle,"[9, 12, 18]","[3, 4]",0.93
+squirrel,sewer turtle,"[9, 12, 18]","[4, 5]",0.61
+squirrel,sewer turtle,"[9, 12, 18]","[6, 7]",0.09
+squirrel,sewer turtle,"[9, 12, 18]","[7, 8]",1.0
+squirrel,sewer turtle,"[9, 12, 18]","[13, 14]",1.0
+squirrel,sewer turtle,"[9, 12, 18]","[14, 15]",0.11
+squirrel,sewer turtle,"[9, 12, 18]","[16, 17]",0.12
+squirrel,sewer turtle,"[9, 12, 18]","[19, 20]",0.08
+squirrel,sewer turtle,"[9, 12, 18]","[21, 22]",0.71
+squirrel,sewer turtle,"[9, 12, 18]","[22, 23]",0.97
+squirrel,sewer turtle,"[9, 12, 18]","[23, 24]",0.99
+squirrel,sewer turtle,"[9, 12, 18]","[24, 25]",0.75
+squirrel,sewer turtle,"[10, 13, 19]","[1, 2]",0.64
+squirrel,sewer turtle,"[10, 13, 19]","[2, 3]",0.92
+squirrel,sewer turtle,"[10, 13, 19]","[3, 4]",0.95
+squirrel,sewer turtle,"[10, 13, 19]","[4, 5]",0.64
+squirrel,sewer turtle,"[10, 13, 19]","[6, 7]",0.49
+squirrel,sewer turtle,"[10, 13, 19]","[7, 8]",0.99
+squirrel,sewer turtle,"[10, 13, 19]","[8, 9]",0.61
+squirrel,sewer turtle,"[10, 13, 19]","[11, 12]",0.12
+squirrel,sewer turtle,"[10, 13, 19]","[14, 15]",0.11
+squirrel,sewer turtle,"[10, 13, 19]","[16, 17]",0.94
+squirrel,sewer turtle,"[10, 13, 19]","[17, 18]",0.93
+squirrel,sewer turtle,"[10, 13, 19]","[21, 22]",0.88
+squirrel,sewer turtle,"[10, 13, 19]","[22, 23]",0.98
+squirrel,sewer turtle,"[10, 13, 19]","[23, 24]",0.95
+squirrel,sewer turtle,"[10, 13, 19]","[24, 25]",0.81
+squirrel,sewer turtle,"[13, 16, 22]","[1, 2]",0.65
+squirrel,sewer turtle,"[13, 16, 22]","[2, 3]",0.98
+squirrel,sewer turtle,"[13, 16, 22]","[3, 4]",0.97
+squirrel,sewer turtle,"[13, 16, 22]","[4, 5]",0.66
+squirrel,sewer turtle,"[13, 16, 22]","[6, 7]",0.67
+squirrel,sewer turtle,"[13, 16, 22]","[7, 8]",0.95
+squirrel,sewer turtle,"[13, 16, 22]","[8, 9]",0.92
+squirrel,sewer turtle,"[13, 16, 22]","[9, 10]",0.74
+squirrel,sewer turtle,"[13, 16, 22]","[11, 12]",0.1
+squirrel,sewer turtle,"[13, 16, 22]","[14, 15]",0.14
+squirrel,sewer turtle,"[13, 16, 22]","[17, 18]",0.5
+squirrel,sewer turtle,"[13, 16, 22]","[18, 19]",0.99
+squirrel,sewer turtle,"[13, 16, 22]","[19, 20]",0.73
+squirrel,sewer turtle,"[13, 16, 22]","[23, 24]",0.93
+squirrel,sewer turtle,"[13, 16, 22]","[24, 25]",0.94
+squirrel,sewer turtle,"[14, 17, 23]","[1, 2]",0.48
+squirrel,sewer turtle,"[14, 17, 23]","[2, 3]",0.93
+squirrel,sewer turtle,"[14, 17, 23]","[3, 4]",0.95
+squirrel,sewer turtle,"[14, 17, 23]","[4, 5]",0.55
+squirrel,sewer turtle,"[14, 17, 23]","[6, 7]",0.13
+squirrel,sewer turtle,"[14, 17, 23]","[7, 8]",1.0
+squirrel,sewer turtle,"[14, 17, 23]","[8, 9]",1.0
+squirrel,sewer turtle,"[14, 17, 23]","[9, 10]",0.14
+squirrel,sewer turtle,"[14, 17, 23]","[11, 12]",0.61
+squirrel,sewer turtle,"[14, 17, 23]","[12, 13]",1.0
+squirrel,sewer turtle,"[14, 17, 23]","[18, 19]",0.91
+squirrel,sewer turtle,"[14, 17, 23]","[19, 20]",0.43
+squirrel,sewer turtle,"[14, 17, 23]","[21, 22]",0.15
+squirrel,sewer turtle,"[14, 17, 23]","[24, 25]",0.36
+squirrel,sewer turtle,"[15, 18, 24]","[1, 2]",0.62
+squirrel,sewer turtle,"[15, 18, 24]","[2, 3]",0.9
+squirrel,sewer turtle,"[15, 18, 24]","[3, 4]",0.86
+squirrel,sewer turtle,"[15, 18, 24]","[4, 5]",0.58
+squirrel,sewer turtle,"[15, 18, 24]","[6, 7]",0.03
+squirrel,sewer turtle,"[15, 18, 24]","[7, 8]",1.0
+squirrel,sewer turtle,"[15, 18, 24]","[8, 9]",1.0
+squirrel,sewer turtle,"[15, 18, 24]","[9, 10]",0.29
+squirrel,sewer turtle,"[15, 18, 24]","[11, 12]",0.75
+squirrel,sewer turtle,"[15, 18, 24]","[12, 13]",1.0
+squirrel,sewer turtle,"[15, 18, 24]","[13, 14]",1.0
+squirrel,sewer turtle,"[15, 18, 24]","[16, 17]",0.21
+squirrel,sewer turtle,"[15, 18, 24]","[19, 20]",0.1
+squirrel,sewer turtle,"[15, 18, 24]","[21, 22]",0.77
+squirrel,sewer turtle,"[15, 18, 24]","[22, 23]",0.88
+pairing average win rate,0.6832575757575757, , , 
+opossum,sewer turtle,"[1, 6, 8]","[2, 3]",0.7
+opossum,sewer turtle,"[1, 6, 8]","[3, 4]",1.0
+opossum,sewer turtle,"[1, 6, 8]","[4, 5]",0.34
+opossum,sewer turtle,"[1, 6, 8]","[9, 10]",0.13
+opossum,sewer turtle,"[1, 6, 8]","[11, 12]",0.26
+opossum,sewer turtle,"[1, 6, 8]","[12, 13]",0.98
+opossum,sewer turtle,"[1, 6, 8]","[13, 14]",0.97
+opossum,sewer turtle,"[1, 6, 8]","[14, 15]",0.2
+opossum,sewer turtle,"[1, 6, 8]","[16, 17]",0.69
+opossum,sewer turtle,"[1, 6, 8]","[17, 18]",1.0
+opossum,sewer turtle,"[1, 6, 8]","[18, 19]",0.99
+opossum,sewer turtle,"[1, 6, 8]","[19, 20]",0.73
+opossum,sewer turtle,"[1, 6, 8]","[21, 22]",0.53
+opossum,sewer turtle,"[1, 6, 8]","[22, 23]",0.98
+opossum,sewer turtle,"[1, 6, 8]","[23, 24]",0.96
+opossum,sewer turtle,"[1, 6, 8]","[24, 25]",0.54
+opossum,sewer turtle,"[2, 7, 9]","[3, 4]",0.59
+opossum,sewer turtle,"[2, 7, 9]","[4, 5]",0.66
+opossum,sewer turtle,"[2, 7, 9]","[11, 12]",0.76
+opossum,sewer turtle,"[2, 7, 9]","[12, 13]",1.0
+opossum,sewer turtle,"[2, 7, 9]","[13, 14]",0.79
+opossum,sewer turtle,"[2, 7, 9]","[14, 15]",0.5
+opossum,sewer turtle,"[2, 7, 9]","[16, 17]",0.32
+opossum,sewer turtle,"[2, 7, 9]","[17, 18]",1.0
+opossum,sewer turtle,"[2, 7, 9]","[18, 19]",0.76
+opossum,sewer turtle,"[2, 7, 9]","[19, 20]",0.13
+opossum,sewer turtle,"[2, 7, 9]","[21, 22]",0.31
+opossum,sewer turtle,"[2, 7, 9]","[22, 23]",0.91
+opossum,sewer turtle,"[2, 7, 9]","[23, 24]",0.91
+opossum,sewer turtle,"[2, 7, 9]","[24, 25]",0.36
+opossum,sewer turtle,"[3, 8, 10]","[1, 2]",0.38
+opossum,sewer turtle,"[3, 8, 10]","[4, 5]",0.2
+opossum,sewer turtle,"[3, 8, 10]","[6, 7]",0.34
+opossum,sewer turtle,"[3, 8, 10]","[11, 12]",0.42
+opossum,sewer turtle,"[3, 8, 10]","[12, 13]",1.0
+opossum,sewer turtle,"[3, 8, 10]","[13, 14]",1.0
+opossum,sewer turtle,"[3, 8, 10]","[14, 15]",0.43
+opossum,sewer turtle,"[3, 8, 10]","[16, 17]",0.7
+opossum,sewer turtle,"[3, 8, 10]","[17, 18]",0.99
+opossum,sewer turtle,"[3, 8, 10]","[18, 19]",0.97
+opossum,sewer turtle,"[3, 8, 10]","[19, 20]",0.64
+opossum,sewer turtle,"[3, 8, 10]","[21, 22]",0.58
+opossum,sewer turtle,"[3, 8, 10]","[22, 23]",1.0
+opossum,sewer turtle,"[3, 8, 10]","[23, 24]",1.0
+opossum,sewer turtle,"[3, 8, 10]","[24, 25]",0.54
+opossum,sewer turtle,"[6, 11, 13]","[1, 2]",0.81
+opossum,sewer turtle,"[6, 11, 13]","[2, 3]",0.85
+opossum,sewer turtle,"[6, 11, 13]","[3, 4]",0.65
+opossum,sewer turtle,"[6, 11, 13]","[4, 5]",0.58
+opossum,sewer turtle,"[6, 11, 13]","[7, 8]",0.96
+opossum,sewer turtle,"[6, 11, 13]","[8, 9]",0.99
+opossum,sewer turtle,"[6, 11, 13]","[9, 10]",0.09
+opossum,sewer turtle,"[6, 11, 13]","[14, 15]",0.04
+opossum,sewer turtle,"[6, 11, 13]","[16, 17]",0.12
+opossum,sewer turtle,"[6, 11, 13]","[17, 18]",0.99
+opossum,sewer turtle,"[6, 11, 13]","[18, 19]",0.98
+opossum,sewer turtle,"[6, 11, 13]","[19, 20]",0.16
+opossum,sewer turtle,"[6, 11, 13]","[21, 22]",0.48
+opossum,sewer turtle,"[6, 11, 13]","[22, 23]",0.72
+opossum,sewer turtle,"[6, 11, 13]","[23, 24]",0.72
+opossum,sewer turtle,"[6, 11, 13]","[24, 25]",0.52
+opossum,sewer turtle,"[7, 12, 14]","[1, 2]",0.54
+opossum,sewer turtle,"[7, 12, 14]","[2, 3]",0.8
+opossum,sewer turtle,"[7, 12, 14]","[3, 4]",0.68
+opossum,sewer turtle,"[7, 12, 14]","[4, 5]",0.54
+opossum,sewer turtle,"[7, 12, 14]","[8, 9]",1.0
+opossum,sewer turtle,"[7, 12, 14]","[9, 10]",0.03
+opossum,sewer turtle,"[7, 12, 14]","[16, 17]",0.63
+opossum,sewer turtle,"[7, 12, 14]","[17, 18]",1.0
+opossum,sewer turtle,"[7, 12, 14]","[18, 19]",0.79
+opossum,sewer turtle,"[7, 12, 14]","[19, 20]",0.44
+opossum,sewer turtle,"[7, 12, 14]","[21, 22]",0.36
+opossum,sewer turtle,"[7, 12, 14]","[22, 23]",0.91
+opossum,sewer turtle,"[7, 12, 14]","[23, 24]",0.85
+opossum,sewer turtle,"[7, 12, 14]","[24, 25]",0.41
+opossum,sewer turtle,"[8, 13, 15]","[1, 2]",0.66
+opossum,sewer turtle,"[8, 13, 15]","[2, 3]",0.99
+opossum,sewer turtle,"[8, 13, 15]","[3, 4]",0.99
+opossum,sewer turtle,"[8, 13, 15]","[4, 5]",0.53
+opossum,sewer turtle,"[8, 13, 15]","[6, 7]",0.26
+opossum,sewer turtle,"[8, 13, 15]","[9, 10]",0.19
+opossum,sewer turtle,"[8, 13, 15]","[11, 12]",0.24
+opossum,sewer turtle,"[8, 13, 15]","[16, 17]",0.55
+opossum,sewer turtle,"[8, 13, 15]","[17, 18]",0.97
+opossum,sewer turtle,"[8, 13, 15]","[18, 19]",0.97
+opossum,sewer turtle,"[8, 13, 15]","[19, 20]",0.48
+opossum,sewer turtle,"[8, 13, 15]","[21, 22]",0.73
+opossum,sewer turtle,"[8, 13, 15]","[22, 23]",0.97
+opossum,sewer turtle,"[8, 13, 15]","[23, 24]",0.98
+opossum,sewer turtle,"[8, 13, 15]","[24, 25]",0.63
+opossum,sewer turtle,"[11, 16, 18]","[1, 2]",0.58
+opossum,sewer turtle,"[11, 16, 18]","[2, 3]",0.76
+opossum,sewer turtle,"[11, 16, 18]","[3, 4]",0.84
+opossum,sewer turtle,"[11, 16, 18]","[4, 5]",0.48
+opossum,sewer turtle,"[11, 16, 18]","[6, 7]",0.56
+opossum,sewer turtle,"[11, 16, 18]","[7, 8]",0.96
+opossum,sewer turtle,"[11, 16, 18]","[8, 9]",0.97
+opossum,sewer turtle,"[11, 16, 18]","[9, 10]",0.28
+opossum,sewer turtle,"[11, 16, 18]","[12, 13]",0.95
+opossum,sewer turtle,"[11, 16, 18]","[13, 14]",1.0
+opossum,sewer turtle,"[11, 16, 18]","[14, 15]",0.17
+opossum,sewer turtle,"[11, 16, 18]","[19, 20]",0.06
+opossum,sewer turtle,"[11, 16, 18]","[21, 22]",0.2
+opossum,sewer turtle,"[11, 16, 18]","[22, 23]",0.98
+opossum,sewer turtle,"[11, 16, 18]","[23, 24]",0.99
+opossum,sewer turtle,"[11, 16, 18]","[24, 25]",0.2
+opossum,sewer turtle,"[12, 17, 19]","[1, 2]",0.44
+opossum,sewer turtle,"[12, 17, 19]","[2, 3]",0.8
+opossum,sewer turtle,"[12, 17, 19]","[3, 4]",0.84
+opossum,sewer turtle,"[12, 17, 19]","[4, 5]",0.41
+opossum,sewer turtle,"[12, 17, 19]","[6, 7]",0.23
+opossum,sewer turtle,"[12, 17, 19]","[7, 8]",0.89
+opossum,sewer turtle,"[12, 17, 19]","[8, 9]",0.91
+opossum,sewer turtle,"[12, 17, 19]","[9, 10]",0.21
+opossum,sewer turtle,"[12, 17, 19]","[13, 14]",0.95
+opossum,sewer turtle,"[12, 17, 19]","[14, 15]",0.57
+opossum,sewer turtle,"[12, 17, 19]","[21, 22]",0.5
+opossum,sewer turtle,"[12, 17, 19]","[22, 23]",0.88
+opossum,sewer turtle,"[12, 17, 19]","[23, 24]",0.86
+opossum,sewer turtle,"[12, 17, 19]","[24, 25]",0.41
+opossum,sewer turtle,"[13, 18, 20]","[1, 2]",0.77
+opossum,sewer turtle,"[13, 18, 20]","[2, 3]",0.97
+opossum,sewer turtle,"[13, 18, 20]","[3, 4]",0.97
+opossum,sewer turtle,"[13, 18, 20]","[4, 5]",0.75
+opossum,sewer turtle,"[13, 18, 20]","[6, 7]",0.49
+opossum,sewer turtle,"[13, 18, 20]","[7, 8]",0.98
+opossum,sewer turtle,"[13, 18, 20]","[8, 9]",0.99
+opossum,sewer turtle,"[13, 18, 20]","[9, 10]",0.49
+opossum,sewer turtle,"[13, 18, 20]","[11, 12]",0.33
+opossum,sewer turtle,"[13, 18, 20]","[14, 15]",0.16
+opossum,sewer turtle,"[13, 18, 20]","[16, 17]",0.34
+opossum,sewer turtle,"[13, 18, 20]","[21, 22]",0.57
+opossum,sewer turtle,"[13, 18, 20]","[22, 23]",0.98
+opossum,sewer turtle,"[13, 18, 20]","[23, 24]",1.0
+opossum,sewer turtle,"[13, 18, 20]","[24, 25]",0.6
+opossum,sewer turtle,"[16, 21, 23]","[1, 2]",0.78
+opossum,sewer turtle,"[16, 21, 23]","[2, 3]",0.85
+opossum,sewer turtle,"[16, 21, 23]","[3, 4]",0.52
+opossum,sewer turtle,"[16, 21, 23]","[4, 5]",0.45
+opossum,sewer turtle,"[16, 21, 23]","[6, 7]",0.55
+opossum,sewer turtle,"[16, 21, 23]","[7, 8]",0.99
+opossum,sewer turtle,"[16, 21, 23]","[8, 9]",0.99
+opossum,sewer turtle,"[16, 21, 23]","[9, 10]",0.26
+opossum,sewer turtle,"[16, 21, 23]","[11, 12]",0.75
+opossum,sewer turtle,"[16, 21, 23]","[12, 13]",1.0
+opossum,sewer turtle,"[16, 21, 23]","[13, 14]",0.69
+opossum,sewer turtle,"[16, 21, 23]","[14, 15]",0.14
+opossum,sewer turtle,"[16, 21, 23]","[17, 18]",0.92
+opossum,sewer turtle,"[16, 21, 23]","[18, 19]",0.98
+opossum,sewer turtle,"[16, 21, 23]","[19, 20]",0.16
+opossum,sewer turtle,"[16, 21, 23]","[24, 25]",0.23
+opossum,sewer turtle,"[17, 22, 24]","[1, 2]",0.72
+opossum,sewer turtle,"[17, 22, 24]","[2, 3]",0.81
+opossum,sewer turtle,"[17, 22, 24]","[3, 4]",0.33
+opossum,sewer turtle,"[17, 22, 24]","[4, 5]",0.11
+opossum,sewer turtle,"[17, 22, 24]","[6, 7]",0.53
+opossum,sewer turtle,"[17, 22, 24]","[7, 8]",0.96
+opossum,sewer turtle,"[17, 22, 24]","[8, 9]",0.95
+opossum,sewer turtle,"[17, 22, 24]","[9, 10]",0.2
+opossum,sewer turtle,"[17, 22, 24]","[11, 12]",0.74
+opossum,sewer turtle,"[17, 22, 24]","[12, 13]",1.0
+opossum,sewer turtle,"[17, 22, 24]","[13, 14]",0.63
+opossum,sewer turtle,"[17, 22, 24]","[14, 15]",0.05
+opossum,sewer turtle,"[17, 22, 24]","[18, 19]",0.93
+opossum,sewer turtle,"[17, 22, 24]","[19, 20]",0.27
+opossum,sewer turtle,"[18, 23, 25]","[1, 2]",0.79
+opossum,sewer turtle,"[18, 23, 25]","[2, 3]",0.98
+opossum,sewer turtle,"[18, 23, 25]","[3, 4]",0.96
+opossum,sewer turtle,"[18, 23, 25]","[4, 5]",0.75
+opossum,sewer turtle,"[18, 23, 25]","[6, 7]",0.51
+opossum,sewer turtle,"[18, 23, 25]","[7, 8]",0.98
+opossum,sewer turtle,"[18, 23, 25]","[8, 9]",0.95
+opossum,sewer turtle,"[18, 23, 25]","[9, 10]",0.56
+opossum,sewer turtle,"[18, 23, 25]","[11, 12]",0.48
+opossum,sewer turtle,"[18, 23, 25]","[12, 13]",1.0
+opossum,sewer turtle,"[18, 23, 25]","[13, 14]",1.0
+opossum,sewer turtle,"[18, 23, 25]","[14, 15]",0.3
+opossum,sewer turtle,"[18, 23, 25]","[16, 17]",0.31
+opossum,sewer turtle,"[18, 23, 25]","[19, 20]",0.16
+opossum,sewer turtle,"[18, 23, 25]","[21, 22]",0.38
+pairing average win rate,0.6491111111111106, , , 
